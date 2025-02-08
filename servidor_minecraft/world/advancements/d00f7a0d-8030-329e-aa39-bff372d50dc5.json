@@ -45,9 +45,11 @@
     "criteria": {
       "minecraft:birch_forest": "2025-02-08 21:40:35 +0000",
       "minecraft:windswept_hills": "2025-02-08 17:45:43 +0000",
+      "minecraft:beach": "2025-02-08 22:00:37 +0000",
       "minecraft:river": "2025-02-08 21:38:55 +0000",
       "minecraft:swamp": "2025-02-08 04:19:10 +0000",
       "minecraft:forest": "2025-02-08 04:18:20 +0000",
+      "minecraft:ocean": "2025-02-08 22:06:16 +0000",
       "minecraft:windswept_savanna": "2025-02-08 21:38:20 +0000",
       "minecraft:plains": "2025-02-08 18:02:48 +0000"
     },
@@ -1019,7 +1021,8 @@
       "minecraft:creeper": "2025-02-08 17:53:40 +0000",
       "minecraft:witch": "2025-02-08 18:03:03 +0000",
       "minecraft:silverfish": "2025-02-08 21:40:57 +0000",
-      "minecraft:zombie": "2025-02-08 17:44:06 +0000"
+      "minecraft:zombie": "2025-02-08 17:44:06 +0000",
+      "minecraft:drowned": "2025-02-08 21:59:18 +0000"
     },
     "done": false
   },
@@ -1046,6 +1049,7 @@
       "cooked_mutton": "2025-02-08 18:16:04 +0000",
       "cooked_beef": "2025-02-08 18:07:21 +0000",
       "beef": "2025-02-08 18:11:27 +0000",
+      "mutton": "2025-02-08 22:13:08 +0000",
       "rotten_flesh": "2025-02-08 17:44:11 +0000",
       "carrot": "2025-02-08 18:06:04 +0000"
     },
@@ -2635,6 +2639,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/cyan_dye_from_pitcher_plant": {
+    "criteria": {
+      "has_pitcher_plant": "2025-02-08 21:42:30 +0000"
+    },
+    "done": true
+  },
   "ilikewood:recipes/tools/diamond_spruce_shovel": {
     "criteria": {
       "has_material": "2025-02-08 21:46:36 +0000"
@@ -2692,12 +2702,6 @@
   "ilikewood:recipes/combat/diamond_warped_sword": {
     "criteria": {
       "has_material": "2025-02-08 21:46:36 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/cyan_dye_from_pitcher_plant": {
-    "criteria": {
-      "has_pitcher_plant": "2025-02-08 21:42:30 +0000"
     },
     "done": true
   },
@@ -3082,6 +3086,558 @@
   "minecraft:recipes/tools/diamond_axe": {
     "criteria": {
       "has_diamond": "2025-02-08 21:46:36 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/ashes_and_bones": {
+    "criteria": {
+      "coded_trigger": "2025-02-08 21:59:39 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/choose_knowledge": {
+    "criteria": {
+      "coded_trigger": "2025-02-08 22:00:01 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/enchant_grave_key": {
+    "criteria": {
+      "has_upgraded_grave_key": "2025-02-08 22:01:16 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/teleport_to_grave": {
+    "criteria": {
+      "coded_trigger": "2025-02-08 22:01:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/willow/willow_pressure_plate_from_willow_planks_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-02-08 22:04:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/fletching_table": {
+    "criteria": {
+      "has_flint": "2025-02-08 22:14:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/red_concrete_powder": {
+    "criteria": {
+      "has_gravel": "2025-02-08 22:14:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/green_concrete_powder": {
+    "criteria": {
+      "has_gravel": "2025-02-08 22:14:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/blue_concrete_powder": {
+    "criteria": {
+      "has_gravel": "2025-02-08 22:14:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/spruce_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-02-08 22:05:53 +0000"
+    },
+    "done": true
+  },
+  "taxov:advancement_pirate": {
+    "criteria": {
+      "advancement_pirate_0": "2025-02-08 22:06:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/golden_carrot": {
+    "criteria": {
+      "has_gold_nugget": "2025-02-08 22:07:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/jungle_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-02-08 22:05:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/mangrove_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-02-08 22:05:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/willow/polished_willow_fence_gate_from_willow_planks_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-02-08 22:04:47 +0000"
+    },
+    "done": true
+  },
+  "taxov:advancement_marine_armor": {
+    "criteria": {
+      "advancement_marine_armor_0": "2025-02-08 22:06:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/willow/polished_willow_planks_from_willow_log_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-02-08 22:04:45 +0000"
+    },
+    "done": true
+  },
+  "hopo:minecraft/adventure/locate_all_underwater_structures": {
+    "criteria": {
+      "locate_underwater_small_ruins": "2025-02-08 22:07:19 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/transportation/oak_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-02-08 22:05:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/willow/polished_willow_fence_from_willow_planks_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-02-08 22:04:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/lime_concrete_powder": {
+    "criteria": {
+      "has_gravel": "2025-02-08 22:14:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/dried_kelp_from_smoking": {
+    "criteria": {
+      "has_kelp": "2025-02-08 22:13:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/willow/polished_willow_connected_from_willow_log_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-02-08 22:04:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/willow/willow_chest_from_willow_planks_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-02-08 22:04:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/orange_concrete_powder": {
+    "criteria": {
+      "has_gravel": "2025-02-08 22:14:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/willow/polished_willow_pillar_from_willow_planks_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-02-08 22:04:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/bamboo_chest_raft": {
+    "criteria": {
+      "has_boat": "2025-02-08 22:05:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/magenta_concrete_powder": {
+    "criteria": {
+      "has_gravel": "2025-02-08 22:14:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/willow/willow_button_from_willow_planks_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-02-08 22:04:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/willow/willow_stairs_from_willow_planks_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-02-08 22:04:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/willow/crafting_table_from_willow_planks_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-02-08 22:04:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/willow/polished_willow_planks_from_willow_planks_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-02-08 22:04:47 +0000"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/crafting/alloybrick": {
+    "criteria": {
+      "has_brick": "2025-02-08 22:13:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/willow/willow_fence_from_willow_planks_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-02-08 22:04:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/black_concrete_powder": {
+    "criteria": {
+      "has_gravel": "2025-02-08 22:14:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/willow/barrel_from_willow_planks_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-02-08 22:04:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/willow/polished_willow_connected_from_willow_planks_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-02-08 22:04:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/purple_concrete_powder": {
+    "criteria": {
+      "has_gravel": "2025-02-08 22:14:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cyan_concrete_powder": {
+    "criteria": {
+      "has_gravel": "2025-02-08 22:14:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/willow/stripped_willow_log_from_willow_log_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-02-08 22:04:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cake": {
+    "criteria": {
+      "has_egg": "2025-02-08 22:16:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/coarse_dirt": {
+    "criteria": {
+      "has_gravel": "2025-02-08 22:14:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/light_gray_concrete_powder": {
+    "criteria": {
+      "has_gravel": "2025-02-08 22:14:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/pink_concrete_powder": {
+    "criteria": {
+      "has_gravel": "2025-02-08 22:14:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/willow/polished_willow_door_from_willow_planks_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-02-08 22:04:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/dried_kelp_from_smelting": {
+    "criteria": {
+      "has_kelp": "2025-02-08 22:13:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/willow/polished_willow_slab_from_willow_planks_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-02-08 22:04:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/dried_kelp_from_campfire_cooking": {
+    "criteria": {
+      "has_kelp": "2025-02-08 22:13:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/brown_concrete_powder": {
+    "criteria": {
+      "has_gravel": "2025-02-08 22:14:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/willow/polished_willow_chest_boat_from_willow_planks_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-02-08 22:04:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/light_blue_concrete_powder": {
+    "criteria": {
+      "has_gravel": "2025-02-08 22:14:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/willow/polished_willow_pressure_plate_from_willow_planks_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-02-08 22:04:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/willow/willow_sign_from_willow_planks_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-02-08 22:04:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/willow/polished_willow_button_from_willow_planks_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-02-08 22:04:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_ingot_from_nuggets": {
+    "criteria": {
+      "has_gold_nugget": "2025-02-08 22:07:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/bricks": {
+    "criteria": {
+      "has_brick": "2025-02-08 22:13:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/arrow": {
+    "criteria": {
+      "has_flint": "2025-02-08 22:14:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/willow/willow_planks_from_willow_log_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-02-08 22:04:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/acacia_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-02-08 22:05:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/willow/willow_connected_from_willow_log_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-02-08 22:04:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/white_concrete_powder": {
+    "criteria": {
+      "has_gravel": "2025-02-08 22:14:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/willow/polished_willow_sign_from_willow_planks_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-02-08 22:04:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/willow/willow_connected_from_willow_planks_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-02-08 22:04:47 +0000"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/crafting/blastbrick": {
+    "criteria": {
+      "has_item": "2025-02-08 22:13:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/willow/willow_fence_gate_from_willow_planks_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-02-08 22:04:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/cherry_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-02-08 22:05:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/birch_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-02-08 22:05:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/decorated_pot_simple": {
+    "criteria": {
+      "has_brick": "2025-02-08 22:13:29 +0000"
+    },
+    "done": true
+  },
+  "taxov:advancement_marine_tool": {
+    "criteria": {
+      "advancement_marine_tool_0": "2025-02-08 22:06:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/dark_oak_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-02-08 22:05:53 +0000"
+    },
+    "done": true
+  },
+  "taxov:advancement_pirate_tool": {
+    "criteria": {
+      "advancement_pirate_tool_0": "2025-02-08 22:06:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/willow/willow_door_from_willow_planks_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-02-08 22:04:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/willow/polished_willow_boat_from_willow_planks_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-02-08 22:04:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/flint_and_steel": {
+    "criteria": {
+      "has_flint": "2025-02-08 22:14:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/willow/polished_willow_stairs_from_willow_planks_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-02-08 22:04:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/willow/willow_slab_from_willow_planks_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-02-08 22:04:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/willow/polished_willow_trapdoor_from_willow_planks_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-02-08 22:04:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/salvage_sherd": {
+    "criteria": {
+      "has_sherd": "2025-02-08 22:13:29 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/woodcutting/willow/polished_willow_layered_from_willow_log_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-02-08 22:04:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/yellow_concrete_powder": {
+    "criteria": {
+      "has_gravel": "2025-02-08 22:14:31 +0000"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/crafting/grit_sand": {
+    "criteria": {
+      "has_sand": "2025-02-08 22:14:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/light_blue_glazed_terracotta": {
+    "criteria": {
+      "has_light_blue_terracotta": "2025-02-08 22:12:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/willow/polished_willow_pillar_from_willow_log_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-02-08 22:04:45 +0000"
+    },
+    "done": true
+  },
+  "taxov:advancement_marine": {
+    "criteria": {
+      "advancement_marine_0": "2025-02-08 22:06:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/gray_concrete_powder": {
+    "criteria": {
+      "has_gravel": "2025-02-08 22:14:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/flower_pot": {
+    "criteria": {
+      "has_brick": "2025-02-08 22:13:29 +0000"
+    },
+    "done": true
+  },
+  "taxov:advancement_pirate_armor": {
+    "criteria": {
+      "advancement_pirate_armor_0": "2025-02-08 22:06:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/willow/willow_boat_from_willow_planks_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-02-08 22:04:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/willow/willow_chest_boat_from_willow_planks_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-02-08 22:04:47 +0000"
+    },
+    "done": true
+  },
+  "taxov:advancement_ocean": {
+    "criteria": {
+      "advancement_ocean_0": "2025-02-08 22:06:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/willow/polished_willow_layered_from_willow_planks_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-02-08 22:04:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/willow/willow_trapdoor_from_willow_planks_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-02-08 22:04:47 +0000"
     },
     "done": true
   },

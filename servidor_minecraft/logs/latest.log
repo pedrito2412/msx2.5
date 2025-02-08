@@ -402,3 +402,43 @@ com.google.gson.JsonSyntaxException: Unknown item 'mutantmonsters:hulk_hammer'
 [08Feb2025 21:57:30.313] [Server thread/INFO] [tombstone/]: The player takeshi_810 has successfully been saved
 [08Feb2025 21:59:39.236] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Maicol999 has made the advancement [Ashes 'n Bones]
 [08Feb2025 22:00:01.761] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Maicol999 has made the advancement [Knowledge raises the soul]
+[08Feb2025 22:00:40.865] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2032ms or 40 ticks behind
+[08Feb2025 22:01:15.191] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Maicol999 was slain by Leech
+[08Feb2025 22:01:15.201] [Server thread/INFO] [tombstone/]: The player Maicol999 has successfully been saved
+[08Feb2025 22:01:16.600] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Maicol999 has made the advancement [The Most Useful Key]
+[08Feb2025 22:01:27.535] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Maicol999 has reached the goal [A Fast Comeback]
+[08Feb2025 22:01:33.507] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: takeshi_810 fell from a high place
+[08Feb2025 22:01:33.515] [Server thread/INFO] [tombstone/]: The player takeshi_810 has successfully been saved
+[08Feb2025 22:01:37.871] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Maicol999 lost connection: Disconnected
+[08Feb2025 22:01:37.872] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Maicol999 left the game
+[08Feb2025 22:03:38.273] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Maicol999[/192.168.191.1:58116] logged in with entity id 18690 at (650.8574088697078, 73.41999998688698, -302.6650945136581)
+[08Feb2025 22:03:38.288] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Maicol999 joined the game
+[08Feb2025 22:03:38.412] [Server thread/INFO] [Jade/]: Syncing config to Maicol999 (d00f7a0d-8030-329e-aa39-bff372d50dc5)
+[08Feb2025 22:06:12.506] [Worker-Main-14/WARN] [lithostitched/]: Template pool fallback chain found: hopo:underwater_city -> hopo:underwater_city
+[08Feb2025 22:06:15.638] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: pedrito2412 has made the advancement [Pirate]
+[08Feb2025 22:06:15.641] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: pedrito2412 has made the advancement [Ocean]
+[08Feb2025 22:06:15.642] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: pedrito2412 has made the advancement [Pirate Tools]
+[08Feb2025 22:06:15.643] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: pedrito2412 has made the advancement [Marine Armor]
+[08Feb2025 22:06:15.644] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: pedrito2412 has made the advancement [Marine Tools]
+[08Feb2025 22:06:15.645] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: pedrito2412 has made the advancement [Sailor]
+[08Feb2025 22:06:15.647] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: pedrito2412 has made the advancement [Pirate Armor]
+[08Feb2025 22:06:16.314] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Maicol999 has made the advancement [Pirate]
+[08Feb2025 22:06:16.318] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Maicol999 has made the advancement [Ocean]
+[08Feb2025 22:06:16.319] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Maicol999 has made the advancement [Pirate Tools]
+[08Feb2025 22:06:16.320] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Maicol999 has made the advancement [Marine Armor]
+[08Feb2025 22:06:16.322] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Maicol999 has made the advancement [Marine Tools]
+[08Feb2025 22:06:16.323] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Maicol999 has made the advancement [Sailor]
+[08Feb2025 22:06:16.323] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Maicol999 has made the advancement [Pirate Armor]
+[08Feb2025 22:11:03.911] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: takeshi_810 tried to swim in lava
+[08Feb2025 22:11:03.924] [Server thread/INFO] [tombstone/]: The player takeshi_810 has successfully been saved
+[08Feb2025 22:13:51.348] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: takeshi_810 was slain by Sewer Centipede
+[08Feb2025 22:13:51.356] [Server thread/INFO] [tombstone/]: The player takeshi_810 has successfully been saved
+[08Feb2025 22:15:04.100] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: takeshi_810 lost connection: Timed out
+[08Feb2025 22:15:04.100] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: takeshi_810 left the game
+[08Feb2025 22:15:04.188] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[08Feb2025 22:15:43.747] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Maicol999 was slain by Huntsman
+[08Feb2025 22:15:43.759] [Server thread/INFO] [tombstone/]: The player Maicol999 has successfully been saved
+[08Feb2025 22:16:37.125] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: takeshi_810[/192.168.191.173:53992] logged in with entity id 27553 at (163.70210076454222, -52.0, 298.0160075583626)
+[08Feb2025 22:16:37.165] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: takeshi_810 joined the game
+[08Feb2025 22:16:37.231] [Server thread/INFO] [Jade/]: Syncing config to takeshi_810 (e7b447cd-8028-33a2-8e45-15d8499682da)
+[08Feb2025 22:19:34.551] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: takeshi_810 has made the advancement [Ice Bucket Challenge]

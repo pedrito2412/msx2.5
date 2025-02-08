@@ -44,9 +44,11 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:birch_forest": "2025-02-08 21:52:03 +0000",
+      "minecraft:beach": "2025-02-08 22:00:39 +0000",
       "minecraft:river": "2025-02-08 21:51:51 +0000",
       "minecraft:swamp": "2025-02-08 04:16:31 +0000",
       "minecraft:forest": "2025-02-08 04:06:14 +0000",
+      "minecraft:ocean": "2025-02-08 22:06:15 +0000",
       "minecraft:windswept_savanna": "2025-02-08 21:53:47 +0000",
       "minecraft:plains": "2025-02-08 18:01:38 +0000"
     },
@@ -1103,7 +1105,9 @@
     "criteria": {
       "chicken": "2025-02-08 17:52:30 +0000",
       "cooked_beef": "2025-02-08 18:02:12 +0000",
-      "cooked_chicken": "2025-02-08 21:49:06 +0000"
+      "mutton": "2025-02-08 22:13:04 +0000",
+      "cooked_chicken": "2025-02-08 21:49:06 +0000",
+      "cod": "2025-02-08 22:11:40 +0000"
     },
     "done": false
   },
@@ -1377,6 +1381,72 @@
     },
     "done": true
   },
+  "ilikewood:recipes/decorations/white_cherry_bed": {
+    "criteria": {
+      "has_wool": "2025-02-08 22:01:30 +0000"
+    },
+    "done": true
+  },
+  "ilikewood:recipes/decorations/gray_acacia_bed": {
+    "criteria": {
+      "has_wool": "2025-02-08 22:01:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_mutton_from_smoking": {
+    "criteria": {
+      "has_mutton": "2025-02-08 22:01:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_cod_from_smoking": {
+    "criteria": {
+      "has_cod": "2025-02-08 22:11:31 +0000"
+    },
+    "done": true
+  },
+  "ilikewood:recipes/decorations/gray_spruce_bed": {
+    "criteria": {
+      "has_wool": "2025-02-08 22:01:46 +0000"
+    },
+    "done": true
+  },
+  "ilikewood:recipes/decorations/gray_jungle_bed": {
+    "criteria": {
+      "has_wool": "2025-02-08 22:01:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/spruce_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-02-08 22:08:18 +0000"
+    },
+    "done": true
+  },
+  "taxov:advancement_pirate": {
+    "criteria": {
+      "advancement_pirate_0": "2025-02-08 22:06:15 +0000"
+    },
+    "done": true
+  },
+  "ilikewood:recipes/decorations/immersiveengineering_white_treated_wood_bed": {
+    "criteria": {
+      "has_wool": "2025-02-08 22:01:30 +0000"
+    },
+    "done": true
+  },
+  "ilikewood:recipes/decorations/warped_painting": {
+    "criteria": {
+      "has_wool": "2025-02-08 22:01:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/jungle_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-02-08 22:08:18 +0000"
+    },
+    "done": true
+  },
   "minecraft:adventure/sleep_in_bed": {
     "criteria": {
       "slept_in_bed": "2025-02-08 21:49:59 +0000"
@@ -1389,9 +1459,135 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/mangrove_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-02-08 22:08:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/gray_carpet": {
+    "criteria": {
+      "has_gray_wool": "2025-02-08 22:01:46 +0000"
+    },
+    "done": true
+  },
+  "ilikewood:recipes/decorations/white_warped_bed": {
+    "criteria": {
+      "has_wool": "2025-02-08 22:01:30 +0000"
+    },
+    "done": true
+  },
+  "ilikewood:recipes/decorations/birch_painting": {
+    "criteria": {
+      "has_wool": "2025-02-08 22:01:30 +0000"
+    },
+    "done": true
+  },
+  "taxov:advancement_marine_armor": {
+    "criteria": {
+      "advancement_marine_armor_0": "2025-02-08 22:06:15 +0000"
+    },
+    "done": true
+  },
+  "hopo:minecraft/adventure/locate_all_underwater_structures": {
+    "criteria": {
+      "locate_underwater_small_ruins": "2025-02-08 22:07:14 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/transportation/oak_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-02-08 22:08:18 +0000"
+    },
+    "done": true
+  },
+  "ilikewood:recipes/decorations/white_mangrove_bed": {
+    "criteria": {
+      "has_wool": "2025-02-08 22:01:30 +0000"
+    },
+    "done": true
+  },
+  "ilikewood:recipes/decorations/white_bamboo_bed": {
+    "criteria": {
+      "has_wool": "2025-02-08 22:01:30 +0000"
+    },
+    "done": true
+  },
+  "ilikewood:recipes/decorations/white_oak_bed": {
+    "criteria": {
+      "has_wool": "2025-02-08 22:01:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/bamboo_chest_raft": {
+    "criteria": {
+      "has_boat": "2025-02-08 22:08:18 +0000"
+    },
+    "done": true
+  },
+  "ilikewood:recipes/decorations/white_dark_oak_bed": {
+    "criteria": {
+      "has_wool": "2025-02-08 22:01:30 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/woodcutting/mahogany/mahogany_connected_from_mahogany_wood_woodcutting": {
     "criteria": {
       "give_recipe": "2025-02-08 21:50:51 +0000"
+    },
+    "done": true
+  },
+  "occultism:recipes/misc/crafting/brush": {
+    "criteria": {
+      "has_wool": "2025-02-08 22:01:30 +0000"
+    },
+    "done": true
+  },
+  "ilikewood:recipes/decorations/jungle_painting": {
+    "criteria": {
+      "has_wool": "2025-02-08 22:01:30 +0000"
+    },
+    "done": true
+  },
+  "ilikewood:recipes/decorations/immersiveengineering_treated_wood_painting": {
+    "criteria": {
+      "has_wool": "2025-02-08 22:01:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/gray_banner": {
+    "criteria": {
+      "has_gray_wool": "2025-02-08 22:01:46 +0000"
+    },
+    "done": true
+  },
+  "ilikewood:recipes/decorations/white_jungle_bed": {
+    "criteria": {
+      "has_wool": "2025-02-08 22:01:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/white_bed": {
+    "criteria": {
+      "has_white_wool": "2025-02-08 22:01:30 +0000"
+    },
+    "done": true
+  },
+  "ilikewood:recipes/decorations/white_birch_bed": {
+    "criteria": {
+      "has_wool": "2025-02-08 22:01:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/gray_bed": {
+    "criteria": {
+      "has_gray_wool": "2025-02-08 22:01:46 +0000"
+    },
+    "done": true
+  },
+  "ilikewood:recipes/decorations/gray_oak_bed": {
+    "criteria": {
+      "has_wool": "2025-02-08 22:01:46 +0000"
     },
     "done": true
   },
@@ -1407,9 +1603,153 @@
     },
     "done": true
   },
+  "ilikewood:recipes/decorations/crimson_painting": {
+    "criteria": {
+      "has_wool": "2025-02-08 22:01:30 +0000"
+    },
+    "done": true
+  },
+  "ilikewood:recipes/decorations/immersiveengineering_gray_treated_wood_bed": {
+    "criteria": {
+      "has_wool": "2025-02-08 22:01:46 +0000"
+    },
+    "done": true
+  },
+  "ilikewood:recipes/decorations/gray_bamboo_bed": {
+    "criteria": {
+      "has_wool": "2025-02-08 22:01:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/painting": {
+    "criteria": {
+      "has_wool": "2025-02-08 22:01:30 +0000"
+    },
+    "done": true
+  },
+  "ilikewood:recipes/decorations/gray_crimson_bed": {
+    "criteria": {
+      "has_wool": "2025-02-08 22:01:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/acacia_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-02-08 22:08:18 +0000"
+    },
+    "done": true
+  },
+  "ilikewood:recipes/decorations/white_acacia_bed": {
+    "criteria": {
+      "has_wool": "2025-02-08 22:01:30 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/woodcutting/mahogany/polished_mahogany_layered_from_mahogany_wood_woodcutting": {
     "criteria": {
       "give_recipe": "2025-02-08 21:50:51 +0000"
+    },
+    "done": true
+  },
+  "ilikewood:recipes/decorations/acacia_painting": {
+    "criteria": {
+      "has_wool": "2025-02-08 22:01:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/white_carpet": {
+    "criteria": {
+      "has_white_wool": "2025-02-08 22:01:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/cherry_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-02-08 22:08:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/birch_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-02-08 22:08:18 +0000"
+    },
+    "done": true
+  },
+  "ilikewood:recipes/decorations/white_spruce_bed": {
+    "criteria": {
+      "has_wool": "2025-02-08 22:01:30 +0000"
+    },
+    "done": true
+  },
+  "ilikewood:recipes/decorations/oak_painting": {
+    "criteria": {
+      "has_wool": "2025-02-08 22:01:30 +0000"
+    },
+    "done": true
+  },
+  "ilikewood:recipes/decorations/dark_oak_painting": {
+    "criteria": {
+      "has_wool": "2025-02-08 22:01:30 +0000"
+    },
+    "done": true
+  },
+  "taxov:advancement_marine_tool": {
+    "criteria": {
+      "advancement_marine_tool_0": "2025-02-08 22:06:15 +0000"
+    },
+    "done": true
+  },
+  "ilikewood:recipes/decorations/cherry_painting": {
+    "criteria": {
+      "has_wool": "2025-02-08 22:01:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/dark_oak_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-02-08 22:08:18 +0000"
+    },
+    "done": true
+  },
+  "taxov:advancement_pirate_tool": {
+    "criteria": {
+      "advancement_pirate_tool_0": "2025-02-08 22:06:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_mutton": {
+    "criteria": {
+      "has_mutton": "2025-02-08 22:01:48 +0000"
+    },
+    "done": true
+  },
+  "ilikewood:recipes/decorations/gray_dark_oak_bed": {
+    "criteria": {
+      "has_wool": "2025-02-08 22:01:46 +0000"
+    },
+    "done": true
+  },
+  "ilikewood:recipes/decorations/gray_mangrove_bed": {
+    "criteria": {
+      "has_wool": "2025-02-08 22:01:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/white_banner": {
+    "criteria": {
+      "has_white_wool": "2025-02-08 22:01:30 +0000"
+    },
+    "done": true
+  },
+  "ilikewood:recipes/decorations/white_crimson_bed": {
+    "criteria": {
+      "has_wool": "2025-02-08 22:01:30 +0000"
+    },
+    "done": true
+  },
+  "ilikewood:recipes/decorations/gray_warped_bed": {
+    "criteria": {
+      "has_wool": "2025-02-08 22:01:46 +0000"
     },
     "done": true
   },
@@ -1425,9 +1765,75 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_mutton_from_campfire_cooking": {
+    "criteria": {
+      "has_mutton": "2025-02-08 22:01:48 +0000"
+    },
+    "done": true
+  },
+  "ilikewood:recipes/decorations/bamboo_painting": {
+    "criteria": {
+      "has_wool": "2025-02-08 22:01:30 +0000"
+    },
+    "done": true
+  },
+  "ilikewood:recipes/decorations/spruce_painting": {
+    "criteria": {
+      "has_wool": "2025-02-08 22:01:30 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/woodcutting/mahogany/polished_mahogany_connected_from_mahogany_wood_woodcutting": {
     "criteria": {
       "give_recipe": "2025-02-08 21:50:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_cod_from_campfire_cooking": {
+    "criteria": {
+      "has_cod": "2025-02-08 22:11:31 +0000"
+    },
+    "done": true
+  },
+  "taxov:advancement_marine": {
+    "criteria": {
+      "advancement_marine_0": "2025-02-08 22:06:15 +0000"
+    },
+    "done": true
+  },
+  "ilikewood:recipes/decorations/mangrove_painting": {
+    "criteria": {
+      "has_wool": "2025-02-08 22:01:30 +0000"
+    },
+    "done": true
+  },
+  "ilikewood:recipes/decorations/gray_cherry_bed": {
+    "criteria": {
+      "has_wool": "2025-02-08 22:01:46 +0000"
+    },
+    "done": true
+  },
+  "taxov:advancement_pirate_armor": {
+    "criteria": {
+      "advancement_pirate_armor_0": "2025-02-08 22:06:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_cod": {
+    "criteria": {
+      "has_cod": "2025-02-08 22:11:31 +0000"
+    },
+    "done": true
+  },
+  "ilikewood:recipes/decorations/gray_birch_bed": {
+    "criteria": {
+      "has_wool": "2025-02-08 22:01:46 +0000"
+    },
+    "done": true
+  },
+  "taxov:advancement_ocean": {
+    "criteria": {
+      "advancement_ocean_0": "2025-02-08 22:06:15 +0000"
     },
     "done": true
   },
