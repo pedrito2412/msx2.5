@@ -1,0 +1,51 @@
+{
+  "choups_drakvyrn_mod:choups_drakvyrn_mod_advancement": {
+    "criteria": {
+      "choups_drakvyrn_mod_advancement_0": "2025-02-08 04:06:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/crafting_table": {
+    "criteria": {
+      "unlock_right_away": "2025-02-08 04:06:12 +0000"
+    },
+    "done": true
+  },
+  "the_bumblezone:root": {
+    "criteria": {
+      "instant_granted": "2025-02-08 04:06:12 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/root": {
+    "criteria": {
+      "auto": "2025-02-08 04:06:14 +0000"
+    },
+    "done": true
+  },
+  "theurgy:book_root": {
+    "criteria": {
+      "theurgy_present": "2025-02-08 04:06:12 +0000"
+    },
+    "done": true
+  },
+  "the_bumblezone:wiki": {
+    "criteria": {
+      "instant_granted": "2025-02-08 04:06:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:forest": "2025-02-08 04:06:14 +0000"
+    },
+    "done": false
+  },
+  "occultism:occultism/root": {
+    "criteria": {
+      "occultism_present": "2025-02-08 04:06:12 +0000"
+    },
+    "done": true
+  },
+  "DataVersion": 3465
+}
