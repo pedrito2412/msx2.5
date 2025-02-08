@@ -438,3 +438,77 @@ com.google.gson.JsonSyntaxException: Unknown item 'mutantmonsters:hulk_hammer'
 [08Feb2025 17:56:13.602] [Server thread/INFO] [tombstone/]: The player Maicol999 has successfully been saved
 [08Feb2025 17:56:18.290] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 0 air
 [08Feb2025 17:56:35.768] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@32f41952[id=<null>,name=Oselote24MMM,properties={},legacy=false] (/192.168.191.184:51424) lost connection: Disconnected
+[08Feb2025 18:00:03.977] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Oselote24MMM[/192.168.191.184:51621] logged in with entity id 10109 at (-4.5, 73.0, 8.5)
+[08Feb2025 18:00:04.001] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Oselote24MMM joined the game
+[08Feb2025 18:00:04.136] [Server thread/INFO] [Jade/]: Syncing config to Oselote24MMM (1dac6bff-254b-35f5-9562-34284c629c9a)
+[08Feb2025 18:00:04.232] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Oselote24MMM has completed the challenge [Choup's Drakvyrn Mod !]
+[08Feb2025 18:00:55.892] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 0 air
+[08Feb2025 18:01:38.505] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Maicol999 hit the ground too hard
+[08Feb2025 18:01:38.516] [Server thread/INFO] [tombstone/]: The player Maicol999 has successfully been saved
+[08Feb2025 18:02:13.603] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=41, y=82, z=-231} BlockPos{x=43, y=81, z=-231}
+[08Feb2025 18:02:30.692] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-8, y=77, z=2}
+[08Feb2025 18:02:30.724] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-8, y=77, z=1}
+[08Feb2025 18:02:37.985] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-5, y=73, z=3}
+[08Feb2025 18:02:38.622] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-6, y=73, z=3}
+[08Feb2025 18:02:38.725] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-5, y=73, z=3}
+[08Feb2025 18:03:03.126] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Maicol999 has made the advancement [Knowledge of Death]
+[08Feb2025 18:03:03.128] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Maicol999 has made the advancement [Ambush]
+[08Feb2025 18:03:07.972] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 0 air
+[08Feb2025 18:04:06.878] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: sebastt22 has made the advancement [Monster Hunter]
+[08Feb2025 18:04:22.195] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: pedrito2412 has made the advancement [Ambush]
+[08Feb2025 18:04:33.143] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: pedrito2412 has made the advancement [Knowledge raises the soul]
+[08Feb2025 18:05:49.671] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Oselote24MMM lost connection: Disconnected
+[08Feb2025 18:05:49.672] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Oselote24MMM left the game
+[08Feb2025 18:05:49.741] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[08Feb2025 18:06:07.077] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Oselote24MMM[/192.168.191.184:51977] logged in with entity id 13194 at (31.742648696395158, 109.0, -257.48548970431926)
+[08Feb2025 18:06:07.118] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Oselote24MMM joined the game
+[08Feb2025 18:06:07.229] [Server thread/INFO] [Jade/]: Syncing config to Oselote24MMM (1dac6bff-254b-35f5-9562-34284c629c9a)
+[08Feb2025 18:06:21.600] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Oselote24MMM was slain by Sewer Centipede
+[08Feb2025 18:06:21.604] [Server thread/INFO] [tombstone/]: The player Oselote24MMM has successfully been saved
+[08Feb2025 18:06:23.626] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: sebastt22 has made the advancement [Acquire Hardware]
+[08Feb2025 18:06:33.431] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <pedrito2412> voy a comer
+[08Feb2025 18:06:34.026] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: takeshi_810 has made the advancement [A Strange Grave Dust]
+[08Feb2025 18:06:34.980] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: pedrito2412 lost connection: Disconnected
+[08Feb2025 18:06:34.981] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: pedrito2412 left the game
+[08Feb2025 18:06:45.745] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Oselote24MMM has reached the goal [Here They Come]
+[08Feb2025 18:06:53.383] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: sebastt22 has made the advancement [Isn't It Iron Pick]
+[08Feb2025 18:07:25.365] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 0 air
+[08Feb2025 18:07:56.832] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: takeshi_810 has made the advancement [Acquire Hardware]
+[08Feb2025 18:08:02.268] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: takeshi_810 has made the advancement [Isn't It Iron Pick]
+[08Feb2025 18:08:23.767] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Oselote24MMM was shot by Skeleton
+[08Feb2025 18:08:23.769] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Oselote24MMM has made the advancement [Your First Grave]
+[08Feb2025 18:08:23.772] [Server thread/INFO] [tombstone/]: The player Oselote24MMM has successfully been saved
+[08Feb2025 18:08:47.747] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: sebastt22 has made the advancement [Suit Up]
+[08Feb2025 18:09:24.021] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Maicol999 was slain by Beast Patient
+[08Feb2025 18:09:24.030] [Server thread/INFO] [tombstone/]: The player Maicol999 has successfully been saved
+[08Feb2025 18:09:37.638] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: takeshi_810 has made the advancement [Diamonds!]
+[08Feb2025 18:10:12.285] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Oselote24MMM was kicked for floating too long!
+[08Feb2025 18:10:12.287] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Oselote24MMM lost connection: Flying is not enabled on this server
+[08Feb2025 18:10:12.288] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Oselote24MMM left the game
+[08Feb2025 18:10:12.345] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[08Feb2025 18:10:27.015] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Maicol999 was kicked for floating too long!
+[08Feb2025 18:10:27.068] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Maicol999 lost connection: Flying is not enabled on this server
+[08Feb2025 18:10:27.068] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Maicol999 left the game
+[08Feb2025 18:10:35.825] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Oselote24MMM[/192.168.191.184:52231] logged in with entity id 15825 at (73.608911787435, 81.28549238931866, -297.21700344380855)
+[08Feb2025 18:10:35.866] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Oselote24MMM joined the game
+[08Feb2025 18:10:35.919] [Server thread/INFO] [Jade/]: Syncing config to Oselote24MMM (1dac6bff-254b-35f5-9562-34284c629c9a)
+[08Feb2025 18:10:45.340] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Maicol999[/192.168.191.1:53989] logged in with entity id 16204 at (123.70985435317735, 64.28549238931866, -230.79193589965834)
+[08Feb2025 18:10:45.353] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Maicol999 joined the game
+[08Feb2025 18:10:45.419] [Server thread/INFO] [Jade/]: Syncing config to Maicol999 (d00f7a0d-8030-329e-aa39-bff372d50dc5)
+[08Feb2025 18:11:08.653] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: takeshi_810 has made the advancement [Ashes 'n Bones]
+[08Feb2025 18:11:44.750] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2003ms or 40 ticks behind
+[08Feb2025 18:12:02.301] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2555ms or 51 ticks behind
+[08Feb2025 18:12:22.147] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2001ms or 40 ticks behind
+[08Feb2025 18:12:40.725] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3579ms or 71 ticks behind
+[08Feb2025 18:13:04.473] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: takeshi_810 was slain by Beast Patient
+[08Feb2025 18:13:04.479] [Server thread/INFO] [tombstone/]: The player takeshi_810 has successfully been saved
+[08Feb2025 18:14:31.563] [Worker-Main-14/WARN] [lithostitched/]: Template pool fallback chain found: hopo:underwater_city -> hopo:underwater_city
+[08Feb2025 18:14:31.565] [Worker-Main-14/WARN] [lithostitched/]: Template pool fallback chain found: hopo:mobs/turtle -> hopo:mobs/turtle
+[08Feb2025 18:14:31.566] [Worker-Main-14/WARN] [lithostitched/]: Template pool fallback chain found: hopo:mobs/turtle -> hopo:mobs/turtle
+[08Feb2025 18:14:35.875] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Maicol999 has made the advancement [Acquire Hardware]
+[08Feb2025 18:14:40.990] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Maicol999 has made the advancement [Isn't It Iron Pick]
+[08Feb2025 18:15:24.297] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: sebastt22 has made the advancement [Diamonds!]
+[08Feb2025 18:16:01.952] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Oselote24MMM has made the advancement [Acquire Hardware]
+[08Feb2025 18:16:17.047] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Maicol999 was slain by Skeleton
+[08Feb2025 18:16:17.051] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Maicol999 moved wrongly!
+[08Feb2025 18:16:17.052] [Server thread/INFO] [tombstone/]: The player Maicol999 has successfully been saved

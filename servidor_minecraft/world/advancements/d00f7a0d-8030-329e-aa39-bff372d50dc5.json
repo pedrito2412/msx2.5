@@ -45,7 +45,8 @@
     "criteria": {
       "minecraft:windswept_hills": "2025-02-08 17:45:43 +0000",
       "minecraft:swamp": "2025-02-08 04:19:10 +0000",
-      "minecraft:forest": "2025-02-08 04:18:20 +0000"
+      "minecraft:forest": "2025-02-08 04:18:20 +0000",
+      "minecraft:plains": "2025-02-08 18:02:48 +0000"
     },
     "done": false
   },
@@ -115,117 +116,81 @@
     },
     "done": true
   },
-  "ilikewood:recipes/tools/stone_mangrove_shovel": {
-    "criteria": {
-      "has_material": "2025-02-08 17:43:16 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/combat/leather_helmet": {
-    "criteria": {
-      "has_leather": "2025-02-08 17:52:51 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/ladder": {
-    "criteria": {
-      "has_stick": "2025-02-08 17:42:32 +0000"
-    },
-    "done": true
-  },
-  "ilikewood:recipes/misc/birch_slab_from_birch_log_sawmilling": {
-    "criteria": {
-      "has_birch_log": "2025-02-08 17:42:40 +0000"
-    },
-    "done": true
-  },
-  "ilikewood:recipes/decorations/jungle_torch": {
-    "criteria": {
-      "has_coal": "2025-02-08 17:45:30 +0000"
-    },
-    "done": true
-  },
-  "ilikewood:recipes/decorations/oak_torch": {
-    "criteria": {
-      "has_coal": "2025-02-08 17:45:30 +0000"
-    },
-    "done": true
-  },
-  "ilikewood:recipes/tools/stone_birch_shovel": {
-    "criteria": {
-      "has_material": "2025-02-08 17:43:16 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/birch_button": {
-    "criteria": {
-      "has_planks": "2025-02-08 17:45:33 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/woodcutting/birch/birch_button_from_birch_planks_woodcutting": {
-    "criteria": {
-      "give_recipe": "2025-02-08 17:45:33 +0000"
-    },
-    "done": true
-  },
   "ilikewood:recipes/decorations/oak_wall": {
     "criteria": {
       "has_log": "2025-02-08 17:42:04 +0000"
     },
     "done": true
   },
-  "ilikewood:recipes/decorations/immersiveengineering_treated_wood_item_frame": {
+  "ilikewood:recipes/misc/oak_planks_from_oak_log_sawmilling": {
     "criteria": {
-      "has_leather": "2025-02-08 17:52:51 +0000"
+      "has_oak_log": "2025-02-08 17:42:04 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/woodcutting/birch/barrel_from_birch_planks_woodcutting": {
+  "ilikewood:recipes/misc/oak_slab_from_oak_log_sawmilling": {
     "criteria": {
-      "give_recipe": "2025-02-08 17:45:33 +0000"
+      "has_oak_log": "2025-02-08 17:42:04 +0000"
+    },
+    "done": true
+  },
+  "ilikewood:recipes/decorations/oak_post": {
+    "criteria": {
+      "has_log": "2025-02-08 17:42:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/charcoal": {
+    "criteria": {
+      "has_log": "2025-02-08 17:42:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/oak/stripped_oak_log_from_oak_log_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-02-08 17:42:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/oak_planks": {
+    "criteria": {
+      "has_logs": "2025-02-08 17:42:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/oak_wood": {
+    "criteria": {
+      "has_log": "2025-02-08 17:42:04 +0000"
+    },
+    "done": true
+  },
+  "ilikewood:recipes/misc/stripped_oak_log_from_oak_log_sawmilling": {
+    "criteria": {
+      "has_oak_log": "2025-02-08 17:42:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/oak/oak_planks_from_oak_log_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-02-08 17:42:04 +0000"
+    },
+    "done": true
+  },
+  "ilikewood:recipes/misc/stick_from_oak_log_sawmilling": {
+    "criteria": {
+      "has_oak_log": "2025-02-08 17:42:04 +0000"
+    },
+    "done": true
+  },
+  "the_bumblezone:teleportation/is_near_beehive": {
+    "criteria": {
+      "is_near_beehive": "2025-02-08 17:42:23 +0000"
     },
     "done": true
   },
   "minecraft:recipes/decorations/oak_sign": {
     "criteria": {
       "has_planks": "2025-02-08 17:42:25 +0000"
-    },
-    "done": true
-  },
-  "ilikewood:recipes/tools/stone_bamboo_pickaxe": {
-    "criteria": {
-      "has_material": "2025-02-08 17:43:16 +0000"
-    },
-    "done": true
-  },
-  "ilikewood:recipes/decorations/crimson_item_frame": {
-    "criteria": {
-      "has_leather": "2025-02-08 17:52:51 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/woodcutting/birch/stripped_birch_log_from_birch_log_woodcutting": {
-    "criteria": {
-      "give_recipe": "2025-02-08 17:42:40 +0000"
-    },
-    "done": true
-  },
-  "ilikewood:recipes/tools/stone_bamboo_axe": {
-    "criteria": {
-      "has_material": "2025-02-08 17:43:16 +0000"
-    },
-    "done": true
-  },
-  "ilikewood:recipes/decorations/birch_wall": {
-    "criteria": {
-      "has_log": "2025-02-08 17:42:40 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/polished_diorite": {
-    "criteria": {
-      "has_diorite": "2025-02-08 17:43:21 +0000"
     },
     "done": true
   },
@@ -241,9 +206,291 @@
     },
     "done": true
   },
-  "tombstone:recipes/from_grave_key": {
+  "minecraft:recipes/misc/stick": {
     "criteria": {
-      "has_ingredient": "2025-02-08 17:50:42 +0000"
+      "has_planks": "2025-02-08 17:42:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/oak/oak_trapdoor_from_oak_planks_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-02-08 17:42:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/oak/barrel_from_oak_planks_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-02-08 17:42:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/oak_slab": {
+    "criteria": {
+      "has_planks": "2025-02-08 17:42:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/oak/oak_stairs_from_oak_planks_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-02-08 17:42:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/oak/oak_fence_from_oak_planks_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-02-08 17:42:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/oak/oak_chest_boat_from_oak_planks_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-02-08 17:42:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/oak_fence_gate": {
+    "criteria": {
+      "has_planks": "2025-02-08 17:42:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/oak_door": {
+    "criteria": {
+      "has_planks": "2025-02-08 17:42:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/barrel": {
+    "criteria": {
+      "has_planks": "2025-02-08 17:42:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/oak/oak_pressure_plate_from_oak_planks_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-02-08 17:42:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/oak/chest_from_oak_planks_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-02-08 17:42:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/oak_trapdoor": {
+    "criteria": {
+      "has_planks": "2025-02-08 17:42:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/oak/oak_slab_from_oak_planks_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-02-08 17:42:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/oak_stairs": {
+    "criteria": {
+      "has_planks": "2025-02-08 17:42:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/oak_fence": {
+    "criteria": {
+      "has_planks": "2025-02-08 17:42:25 +0000"
+    },
+    "done": true
+  },
+  "ilikewood:recipes/misc/stick_from_oak_planks_sawmilling": {
+    "criteria": {
+      "has_oak_planks": "2025-02-08 17:42:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/oak_button": {
+    "criteria": {
+      "has_planks": "2025-02-08 17:42:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/oak/oak_door_from_oak_planks_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-02-08 17:42:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/oak/oak_fence_gate_from_oak_planks_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-02-08 17:42:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/oak/crafting_table_from_oak_planks_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-02-08 17:42:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/oak_pressure_plate": {
+    "criteria": {
+      "has_planks": "2025-02-08 17:42:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/oak/oak_boat_from_oak_planks_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-02-08 17:42:25 +0000"
+    },
+    "done": true
+  },
+  "ilikewood:recipes/misc/oak_slab_from_oak_planks_sawmilling": {
+    "criteria": {
+      "has_oak_planks": "2025-02-08 17:42:25 +0000"
+    },
+    "done": true
+  },
+  "aquamirae:adventure/root": {
+    "criteria": {
+      "crafting_table": "2025-02-08 17:42:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/root": {
+    "criteria": {
+      "crafting_table": "2025-02-08 17:42:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/ladder": {
+    "criteria": {
+      "has_stick": "2025-02-08 17:42:32 +0000"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/crafting/torch": {
+    "criteria": {
+      "has_stick": "2025-02-08 17:42:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/wooden_axe": {
+    "criteria": {
+      "has_stick": "2025-02-08 17:42:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/campfire": {
+    "criteria": {
+      "has_stick": "2025-02-08 17:42:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/wooden_hoe": {
+    "criteria": {
+      "has_stick": "2025-02-08 17:42:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/wooden_shovel": {
+    "criteria": {
+      "has_stick": "2025-02-08 17:42:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/wooden_sword": {
+    "criteria": {
+      "has_stick": "2025-02-08 17:42:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/wooden_pickaxe": {
+    "criteria": {
+      "has_stick": "2025-02-08 17:42:32 +0000"
+    },
+    "done": true
+  },
+  "ilikewood:recipes/misc/birch_slab_from_birch_log_sawmilling": {
+    "criteria": {
+      "has_birch_log": "2025-02-08 17:42:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/birch/stripped_birch_log_from_birch_log_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-02-08 17:42:40 +0000"
+    },
+    "done": true
+  },
+  "ilikewood:recipes/decorations/birch_wall": {
+    "criteria": {
+      "has_log": "2025-02-08 17:42:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/birch_wood": {
+    "criteria": {
+      "has_log": "2025-02-08 17:42:40 +0000"
+    },
+    "done": true
+  },
+  "ilikewood:recipes/misc/stick_from_birch_log_sawmilling": {
+    "criteria": {
+      "has_birch_log": "2025-02-08 17:42:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/birch_planks": {
+    "criteria": {
+      "has_logs": "2025-02-08 17:42:40 +0000"
+    },
+    "done": true
+  },
+  "ilikewood:recipes/misc/birch_planks_from_birch_log_sawmilling": {
+    "criteria": {
+      "has_birch_log": "2025-02-08 17:42:40 +0000"
+    },
+    "done": true
+  },
+  "ilikewood:recipes/misc/stripped_birch_log_from_birch_log_sawmilling": {
+    "criteria": {
+      "has_birch_log": "2025-02-08 17:42:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/birch/birch_planks_from_birch_log_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-02-08 17:42:40 +0000"
+    },
+    "done": true
+  },
+  "ilikewood:recipes/decorations/birch_post": {
+    "criteria": {
+      "has_log": "2025-02-08 17:42:40 +0000"
+    },
+    "done": true
+  },
+  "ilikewood:recipes/tools/stone_mangrove_shovel": {
+    "criteria": {
+      "has_material": "2025-02-08 17:43:16 +0000"
+    },
+    "done": true
+  },
+  "ilikewood:recipes/tools/stone_birch_shovel": {
+    "criteria": {
+      "has_material": "2025-02-08 17:43:16 +0000"
+    },
+    "done": true
+  },
+  "ilikewood:recipes/tools/stone_bamboo_pickaxe": {
+    "criteria": {
+      "has_material": "2025-02-08 17:43:16 +0000"
+    },
+    "done": true
+  },
+  "ilikewood:recipes/tools/stone_bamboo_axe": {
+    "criteria": {
+      "has_material": "2025-02-08 17:43:16 +0000"
     },
     "done": true
   },
@@ -265,45 +512,9 @@
     },
     "done": true
   },
-  "immersiveengineering:recipes/misc/crafting/torch": {
-    "criteria": {
-      "has_stick": "2025-02-08 17:42:32 +0000"
-    },
-    "done": true
-  },
   "ilikewood:recipes/tools/immersiveengineering_stone_treated_wood_axe": {
     "criteria": {
       "has_material": "2025-02-08 17:43:16 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/birch_door": {
-    "criteria": {
-      "has_planks": "2025-02-08 17:45:33 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/birch_fence": {
-    "criteria": {
-      "has_planks": "2025-02-08 17:45:33 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/tools/wooden_axe": {
-    "criteria": {
-      "has_stick": "2025-02-08 17:42:32 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/woodcutting/birch/birch_stairs_from_birch_planks_woodcutting": {
-    "criteria": {
-      "give_recipe": "2025-02-08 17:45:33 +0000"
-    },
-    "done": true
-  },
-  "ilikewood:recipes/decorations/acacia_campfire": {
-    "criteria": {
-      "has_coal": "2025-02-08 17:45:30 +0000"
     },
     "done": true
   },
@@ -313,45 +524,9 @@
     },
     "done": true
   },
-  "ilikewood:recipes/decorations/crimson_campfire": {
-    "criteria": {
-      "has_coal": "2025-02-08 17:45:30 +0000"
-    },
-    "done": true
-  },
-  "ilikewood:recipes/decorations/immersiveengineering_treated_wood_torch": {
-    "criteria": {
-      "has_coal": "2025-02-08 17:45:30 +0000"
-    },
-    "done": true
-  },
   "ilikewood:recipes/combat/stone_spruce_sword": {
     "criteria": {
       "has_material": "2025-02-08 17:43:16 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/combat/leather_chestplate": {
-    "criteria": {
-      "has_leather": "2025-02-08 17:52:51 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/woodcutting/birch/birch_trapdoor_from_birch_planks_woodcutting": {
-    "criteria": {
-      "give_recipe": "2025-02-08 17:45:33 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/chest": {
-    "criteria": {
-      "has_lots_of_items": "2025-02-08 17:45:16 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/stick": {
-    "criteria": {
-      "has_planks": "2025-02-08 17:42:25 +0000"
     },
     "done": true
   },
@@ -367,52 +542,15 @@
     },
     "done": true
   },
-  "ilikewood:recipes/decorations/cherry_campfire": {
-    "criteria": {
-      "has_coal": "2025-02-08 17:45:30 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/birch_sign": {
-    "criteria": {
-      "has_planks": "2025-02-08 17:45:33 +0000"
-    },
-    "done": true
-  },
-  "minecraft:adventure/kill_all_mobs": {
-    "criteria": {
-      "minecraft:creeper": "2025-02-08 17:53:40 +0000",
-      "minecraft:zombie": "2025-02-08 17:44:06 +0000"
-    },
-    "done": false
-  },
-  "minecraft:recipes/building_blocks/birch_wood": {
-    "criteria": {
-      "has_log": "2025-02-08 17:42:40 +0000"
-    },
-    "done": true
-  },
   "ilikewood:recipes/tools/stone_oak_pickaxe": {
     "criteria": {
       "has_material": "2025-02-08 17:43:16 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/woodcutting/oak/oak_trapdoor_from_oak_planks_woodcutting": {
-    "criteria": {
-      "give_recipe": "2025-02-08 17:42:25 +0000"
-    },
-    "done": true
-  },
   "ilikewood:recipes/tools/stone_cherry_shovel": {
     "criteria": {
       "has_material": "2025-02-08 17:43:16 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/birch_fence_gate": {
-    "criteria": {
-      "has_planks": "2025-02-08 17:45:33 +0000"
     },
     "done": true
   },
@@ -434,21 +572,9 @@
     },
     "done": true
   },
-  "ilikewood:recipes/decorations/dark_oak_campfire": {
-    "criteria": {
-      "has_coal": "2025-02-08 17:45:30 +0000"
-    },
-    "done": true
-  },
   "ilikewood:recipes/combat/stone_acacia_sword": {
     "criteria": {
       "has_material": "2025-02-08 17:43:16 +0000"
-    },
-    "done": true
-  },
-  "ilikewood:recipes/misc/oak_planks_from_oak_log_sawmilling": {
-    "criteria": {
-      "has_oak_log": "2025-02-08 17:42:04 +0000"
     },
     "done": true
   },
@@ -458,39 +584,9 @@
     },
     "done": true
   },
-  "tombstone:adventure/cancel_ghostly_shape": {
-    "criteria": {
-      "coded_trigger": "2025-02-08 17:53:01 +0000"
-    },
-    "done": true
-  },
-  "ilikewood:recipes/misc/birch_slab_from_birch_planks_sawmilling": {
-    "criteria": {
-      "has_birch_planks": "2025-02-08 17:45:33 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/birch_slab": {
-    "criteria": {
-      "has_planks": "2025-02-08 17:45:33 +0000"
-    },
-    "done": true
-  },
   "ilikewood:recipes/tools/stone_oak_hoe": {
     "criteria": {
       "has_material": "2025-02-08 17:43:16 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/leather_horse_armor": {
-    "criteria": {
-      "has_leather": "2025-02-08 17:52:51 +0000"
-    },
-    "done": true
-  },
-  "ilikewood:recipes/decorations/birch_item_frame": {
-    "criteria": {
-      "has_leather": "2025-02-08 17:52:51 +0000"
     },
     "done": true
   },
@@ -500,33 +596,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/polished_diorite_stairs_from_diorite_stonecutting": {
-    "criteria": {
-      "has_diorite": "2025-02-08 17:43:21 +0000"
-    },
-    "done": true
-  },
   "ilikewood:recipes/tools/stone_mangrove_pickaxe": {
     "criteria": {
       "has_material": "2025-02-08 17:43:16 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/birch_stairs": {
-    "criteria": {
-      "has_planks": "2025-02-08 17:45:33 +0000"
-    },
-    "done": true
-  },
-  "ilikewood:recipes/misc/stick_from_birch_log_sawmilling": {
-    "criteria": {
-      "has_birch_log": "2025-02-08 17:42:40 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/woodcutting/birch/birch_boat_from_birch_planks_woodcutting": {
-    "criteria": {
-      "give_recipe": "2025-02-08 17:45:33 +0000"
     },
     "done": true
   },
@@ -536,81 +608,9 @@
     },
     "done": true
   },
-  "occultism:recipes/spirit_trade/spirit_trade/stone_to_otherstone": {
-    "criteria": {
-      "has_stone": "2025-02-08 17:43:21 +0000"
-    },
-    "done": true
-  },
-  "ilikewood:recipes/misc/oak_slab_from_oak_log_sawmilling": {
-    "criteria": {
-      "has_oak_log": "2025-02-08 17:42:04 +0000"
-    },
-    "done": true
-  },
-  "ilikewood:recipes/decorations/dark_oak_torch": {
-    "criteria": {
-      "has_coal": "2025-02-08 17:45:30 +0000"
-    },
-    "done": true
-  },
   "ilikewood:recipes/tools/stone_warped_axe": {
     "criteria": {
       "has_material": "2025-02-08 17:43:16 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/food/cooked_beef_from_smoking": {
-    "criteria": {
-      "has_beef": "2025-02-08 17:52:51 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/woodcutting/oak/barrel_from_oak_planks_woodcutting": {
-    "criteria": {
-      "give_recipe": "2025-02-08 17:42:25 +0000"
-    },
-    "done": true
-  },
-  "ilikewood:recipes/decorations/warped_torch": {
-    "criteria": {
-      "has_coal": "2025-02-08 17:45:30 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/oak_slab": {
-    "criteria": {
-      "has_planks": "2025-02-08 17:42:25 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/diorite_stairs_from_diorite_stonecutting": {
-    "criteria": {
-      "has_diorite": "2025-02-08 17:43:21 +0000"
-    },
-    "done": true
-  },
-  "ilikewood:recipes/decorations/crimson_torch": {
-    "criteria": {
-      "has_coal": "2025-02-08 17:45:30 +0000"
-    },
-    "done": true
-  },
-  "ilikewood:recipes/decorations/bamboo_campfire": {
-    "criteria": {
-      "has_coal": "2025-02-08 17:45:30 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/birch_planks": {
-    "criteria": {
-      "has_logs": "2025-02-08 17:42:40 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/woodcutting/oak/oak_stairs_from_oak_planks_woodcutting": {
-    "criteria": {
-      "give_recipe": "2025-02-08 17:42:25 +0000"
     },
     "done": true
   },
@@ -620,69 +620,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/woodcutting/oak/oak_fence_from_oak_planks_woodcutting": {
-    "criteria": {
-      "give_recipe": "2025-02-08 17:42:25 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/woodcutting/oak/oak_chest_boat_from_oak_planks_woodcutting": {
-    "criteria": {
-      "give_recipe": "2025-02-08 17:42:25 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/woodcutting/birch/birch_slab_from_birch_planks_woodcutting": {
-    "criteria": {
-      "give_recipe": "2025-02-08 17:45:33 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/campfire": {
-    "criteria": {
-      "has_stick": "2025-02-08 17:42:32 +0000"
-    },
-    "done": true
-  },
-  "ilikewood:recipes/decorations/oak_post": {
-    "criteria": {
-      "has_log": "2025-02-08 17:42:04 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/woodcutting/birch/birch_fence_from_birch_planks_woodcutting": {
-    "criteria": {
-      "give_recipe": "2025-02-08 17:45:33 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/tools/wooden_hoe": {
-    "criteria": {
-      "has_stick": "2025-02-08 17:42:32 +0000"
-    },
-    "done": true
-  },
   "ilikewood:recipes/combat/stone_oak_sword": {
     "criteria": {
       "has_material": "2025-02-08 17:43:16 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/woodcutting/birch/birch_sign_from_birch_planks_woodcutting": {
-    "criteria": {
-      "give_recipe": "2025-02-08 17:45:33 +0000"
-    },
-    "done": true
-  },
-  "tombstone:adventure/first_grave": {
-    "criteria": {
-      "coded_trigger": "2025-02-08 17:50:41 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/oak_fence_gate": {
-    "criteria": {
-      "has_planks": "2025-02-08 17:42:25 +0000"
     },
     "done": true
   },
@@ -692,27 +632,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/charcoal": {
-    "criteria": {
-      "has_log": "2025-02-08 17:42:04 +0000"
-    },
-    "done": true
-  },
   "ilikewood:recipes/tools/stone_bamboo_hoe": {
     "criteria": {
       "has_material": "2025-02-08 17:43:16 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/item_frame": {
-    "criteria": {
-      "has_leather": "2025-02-08 17:52:51 +0000"
-    },
-    "done": true
-  },
-  "ilikewood:recipes/decorations/mangrove_campfire": {
-    "criteria": {
-      "has_coal": "2025-02-08 17:45:30 +0000"
     },
     "done": true
   },
@@ -722,21 +644,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/andesite": {
-    "criteria": {
-      "has_stone": "2025-02-08 17:43:21 +0000"
-    },
-    "done": true
-  },
   "ilikewood:recipes/tools/stone_spruce_hoe": {
     "criteria": {
       "has_material": "2025-02-08 17:43:16 +0000"
-    },
-    "done": true
-  },
-  "ilikewood:recipes/decorations/spruce_campfire": {
-    "criteria": {
-      "has_coal": "2025-02-08 17:45:30 +0000"
     },
     "done": true
   },
@@ -746,57 +656,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/redstone/oak_door": {
-    "criteria": {
-      "has_planks": "2025-02-08 17:42:25 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/tools/wooden_shovel": {
-    "criteria": {
-      "has_stick": "2025-02-08 17:42:32 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/cobblestone_slab": {
     "criteria": {
       "has_cobblestone": "2025-02-08 17:43:16 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/woodcutting/birch/birch_door_from_birch_planks_woodcutting": {
-    "criteria": {
-      "give_recipe": "2025-02-08 17:45:33 +0000"
-    },
-    "done": true
-  },
-  "minecraft:adventure/root": {
-    "criteria": {
-      "killed_something": "2025-02-08 17:44:06 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/woodcutting/oak/stripped_oak_log_from_oak_log_woodcutting": {
-    "criteria": {
-      "give_recipe": "2025-02-08 17:42:04 +0000"
-    },
-    "done": true
-  },
   "ilikewood:recipes/tools/stone_jungle_axe": {
     "criteria": {
       "has_material": "2025-02-08 17:43:16 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/combat/wooden_sword": {
-    "criteria": {
-      "has_stick": "2025-02-08 17:42:32 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/oak_planks": {
-    "criteria": {
-      "has_logs": "2025-02-08 17:42:04 +0000"
     },
     "done": true
   },
@@ -812,24 +680,6 @@
     },
     "done": true
   },
-  "ilikewood:recipes/decorations/acacia_item_frame": {
-    "criteria": {
-      "has_leather": "2025-02-08 17:52:51 +0000"
-    },
-    "done": true
-  },
-  "tombstone:recipes/from_grave_dust": {
-    "criteria": {
-      "has_ingredient": "2025-02-08 17:53:57 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/barrel": {
-    "criteria": {
-      "has_planks": "2025-02-08 17:42:25 +0000"
-    },
-    "done": true
-  },
   "ilikewood:recipes/tools/stone_bamboo_shovel": {
     "criteria": {
       "has_material": "2025-02-08 17:43:16 +0000"
@@ -839,12 +689,6 @@
   "ilikewood:recipes/tools/stone_spruce_shovel": {
     "criteria": {
       "has_material": "2025-02-08 17:43:16 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/combat/leather_boots": {
-    "criteria": {
-      "has_leather": "2025-02-08 17:52:51 +0000"
     },
     "done": true
   },
@@ -866,51 +710,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/polished_diorite_slab_from_diorite_stonecutting": {
-    "criteria": {
-      "has_diorite": "2025-02-08 17:43:21 +0000"
-    },
-    "done": true
-  },
-  "ilikewood:recipes/decorations/bamboo_torch": {
-    "criteria": {
-      "has_coal": "2025-02-08 17:45:30 +0000"
-    },
-    "done": true
-  },
   "ilikewood:recipes/tools/stone_oak_axe": {
     "criteria": {
       "has_material": "2025-02-08 17:43:16 +0000"
     },
     "done": true
   },
-  "aquamirae:adventure/root": {
-    "criteria": {
-      "crafting_table": "2025-02-08 17:42:31 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/tools/stone_shovel": {
     "criteria": {
       "has_cobblestone": "2025-02-08 17:43:16 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/oak_wood": {
-    "criteria": {
-      "has_log": "2025-02-08 17:42:04 +0000"
-    },
-    "done": true
-  },
-  "ilikewood:recipes/misc/stripped_oak_log_from_oak_log_sawmilling": {
-    "criteria": {
-      "has_oak_log": "2025-02-08 17:42:04 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/food/cooked_beef": {
-    "criteria": {
-      "has_beef": "2025-02-08 17:52:51 +0000"
     },
     "done": true
   },
@@ -926,57 +734,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/combat/leather_leggings": {
-    "criteria": {
-      "has_leather": "2025-02-08 17:52:51 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/woodcutting/oak/oak_pressure_plate_from_oak_planks_woodcutting": {
-    "criteria": {
-      "give_recipe": "2025-02-08 17:42:25 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/woodcutting/oak/chest_from_oak_planks_woodcutting": {
-    "criteria": {
-      "give_recipe": "2025-02-08 17:42:25 +0000"
-    },
-    "done": true
-  },
   "ilikewood:recipes/tools/stone_jungle_shovel": {
     "criteria": {
       "has_material": "2025-02-08 17:43:16 +0000"
     },
     "done": true
   },
-  "ilikewood:recipes/misc/birch_planks_from_birch_log_sawmilling": {
-    "criteria": {
-      "has_birch_log": "2025-02-08 17:42:40 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/woodcutting/birch/birch_fence_gate_from_birch_planks_woodcutting": {
-    "criteria": {
-      "give_recipe": "2025-02-08 17:45:33 +0000"
-    },
-    "done": true
-  },
-  "ilikewood:recipes/decorations/warped_campfire": {
-    "criteria": {
-      "has_coal": "2025-02-08 17:45:30 +0000"
-    },
-    "done": true
-  },
   "ilikewood:recipes/tools/immersiveengineering_stone_treated_wood_pickaxe": {
     "criteria": {
       "has_material": "2025-02-08 17:43:16 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/oak_trapdoor": {
-    "criteria": {
-      "has_planks": "2025-02-08 17:42:25 +0000"
     },
     "done": true
   },
@@ -1010,27 +776,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/woodcutting/birch/crafting_table_from_birch_planks_woodcutting": {
-    "criteria": {
-      "give_recipe": "2025-02-08 17:45:33 +0000"
-    },
-    "done": true
-  },
-  "ilikewood:recipes/misc/stripped_birch_log_from_birch_log_sawmilling": {
-    "criteria": {
-      "has_birch_log": "2025-02-08 17:42:40 +0000"
-    },
-    "done": true
-  },
   "ilikewood:recipes/combat/stone_birch_sword": {
     "criteria": {
       "has_material": "2025-02-08 17:43:16 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/diorite_slab": {
-    "criteria": {
-      "has_diorite": "2025-02-08 17:43:21 +0000"
     },
     "done": true
   },
@@ -1040,21 +788,9 @@
     },
     "done": true
   },
-  "ilikewood:recipes/decorations/bamboo_item_frame": {
-    "criteria": {
-      "has_leather": "2025-02-08 17:52:51 +0000"
-    },
-    "done": true
-  },
   "ilikewood:recipes/tools/immersiveengineering_stone_treated_wood_shovel": {
     "criteria": {
       "has_material": "2025-02-08 17:43:16 +0000"
-    },
-    "done": true
-  },
-  "ilikewood:recipes/decorations/warped_item_frame": {
-    "criteria": {
-      "has_leather": "2025-02-08 17:52:51 +0000"
     },
     "done": true
   },
@@ -1064,27 +800,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/woodcutting/birch/chest_from_birch_planks_woodcutting": {
-    "criteria": {
-      "give_recipe": "2025-02-08 17:45:33 +0000"
-    },
-    "done": true
-  },
   "ilikewood:recipes/combat/stone_bamboo_sword": {
     "criteria": {
       "has_material": "2025-02-08 17:43:16 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/woodcutting/birch/birch_pressure_plate_from_birch_planks_woodcutting": {
-    "criteria": {
-      "give_recipe": "2025-02-08 17:45:33 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/woodcutting/oak/oak_slab_from_oak_planks_woodcutting": {
-    "criteria": {
-      "give_recipe": "2025-02-08 17:42:25 +0000"
     },
     "done": true
   },
@@ -1094,21 +812,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/oak_stairs": {
-    "criteria": {
-      "has_planks": "2025-02-08 17:42:25 +0000"
-    },
-    "done": true
-  },
   "ilikewood:recipes/tools/stone_dark_oak_pickaxe": {
     "criteria": {
       "has_material": "2025-02-08 17:43:16 +0000"
-    },
-    "done": true
-  },
-  "ilikewood:recipes/decorations/oak_item_frame": {
-    "criteria": {
-      "has_leather": "2025-02-08 17:52:51 +0000"
     },
     "done": true
   },
@@ -1124,57 +830,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/oak_fence": {
-    "criteria": {
-      "has_planks": "2025-02-08 17:42:25 +0000"
-    },
-    "done": true
-  },
-  "immersiveengineering:recipes/misc/crafting/conveyor_basic": {
-    "criteria": {
-      "has_leather": "2025-02-08 17:52:51 +0000"
-    },
-    "done": true
-  },
   "ilikewood:recipes/combat/immersiveengineering_stone_treated_wood_sword": {
     "criteria": {
       "has_material": "2025-02-08 17:43:16 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/diorite_wall": {
-    "criteria": {
-      "has_diorite": "2025-02-08 17:43:21 +0000"
-    },
-    "done": true
-  },
-  "ilikewood:recipes/decorations/dark_oak_item_frame": {
-    "criteria": {
-      "has_leather": "2025-02-08 17:52:51 +0000"
-    },
-    "done": true
-  },
-  "ilikewood:recipes/misc/stick_from_oak_planks_sawmilling": {
-    "criteria": {
-      "has_oak_planks": "2025-02-08 17:42:25 +0000"
-    },
-    "done": true
-  },
-  "minecraft:husbandry/root": {
-    "criteria": {
-      "consumed_item": "2025-02-08 17:44:11 +0000"
-    },
-    "done": true
-  },
-  "ilikewood:recipes/decorations/acacia_torch": {
-    "criteria": {
-      "has_coal": "2025-02-08 17:45:30 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/coal_block": {
-    "criteria": {
-      "has_coal": "2025-02-08 17:45:30 +0000"
     },
     "done": true
   },
@@ -1184,153 +842,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/redstone/oak_button": {
-    "criteria": {
-      "has_planks": "2025-02-08 17:42:25 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/woodcutting/birch/birch_chest_boat_from_birch_planks_woodcutting": {
-    "criteria": {
-      "give_recipe": "2025-02-08 17:45:33 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/woodcutting/birch/birch_planks_from_birch_log_woodcutting": {
-    "criteria": {
-      "give_recipe": "2025-02-08 17:42:40 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/torch": {
-    "criteria": {
-      "has_stone_pickaxe": "2025-02-08 17:43:51 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/woodcutting/oak/oak_planks_from_oak_log_woodcutting": {
-    "criteria": {
-      "give_recipe": "2025-02-08 17:42:04 +0000"
-    },
-    "done": true
-  },
-  "ilikewood:recipes/decorations/birch_post": {
-    "criteria": {
-      "has_log": "2025-02-08 17:42:40 +0000"
-    },
-    "done": true
-  },
-  "ilikewood:recipes/misc/stick_from_oak_log_sawmilling": {
-    "criteria": {
-      "has_oak_log": "2025-02-08 17:42:04 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/woodcutting/oak/oak_door_from_oak_planks_woodcutting": {
-    "criteria": {
-      "give_recipe": "2025-02-08 17:42:25 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/woodcutting/oak/oak_fence_gate_from_oak_planks_woodcutting": {
-    "criteria": {
-      "give_recipe": "2025-02-08 17:42:25 +0000"
-    },
-    "done": true
-  },
-  "ilikewood:recipes/decorations/oak_campfire": {
-    "criteria": {
-      "has_coal": "2025-02-08 17:45:30 +0000"
-    },
-    "done": true
-  },
-  "occultism:recipes/spirit_trade/spirit_trade/test": {
-    "criteria": {
-      "has_stone": "2025-02-08 17:43:21 +0000"
-    },
-    "done": true
-  },
-  "ilikewood:recipes/decorations/spruce_item_frame": {
-    "criteria": {
-      "has_leather": "2025-02-08 17:52:51 +0000"
-    },
-    "done": true
-  },
-  "immersiveengineering:recipes/misc/crafting/powerpack": {
-    "criteria": {
-      "has_leather": "2025-02-08 17:52:51 +0000"
-    },
-    "done": true
-  },
-  "ilikewood:recipes/decorations/jungle_item_frame": {
-    "criteria": {
-      "has_leather": "2025-02-08 17:52:51 +0000"
-    },
-    "done": true
-  },
-  "ilikewood:recipes/decorations/birch_torch": {
-    "criteria": {
-      "has_coal": "2025-02-08 17:45:30 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/diorite_wall_from_diorite_stonecutting": {
-    "criteria": {
-      "has_diorite": "2025-02-08 17:43:21 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/tools/wooden_pickaxe": {
-    "criteria": {
-      "has_stick": "2025-02-08 17:42:32 +0000"
-    },
-    "done": true
-  },
-  "ilikewood:recipes/decorations/jungle_campfire": {
-    "criteria": {
-      "has_coal": "2025-02-08 17:45:30 +0000"
-    },
-    "done": true
-  },
-  "minecraft:story/upgrade_tools": {
-    "criteria": {
-      "stone_pickaxe": "2025-02-08 17:43:51 +0000"
-    },
-    "done": true
-  },
   "ilikewood:recipes/tools/stone_birch_pickaxe": {
     "criteria": {
       "has_material": "2025-02-08 17:43:16 +0000"
     },
     "done": true
   },
-  "ilikewood:recipes/decorations/birch_campfire": {
-    "criteria": {
-      "has_coal": "2025-02-08 17:45:30 +0000"
-    },
-    "done": true
-  },
-  "the_bumblezone:teleportation/is_near_beehive": {
-    "criteria": {
-      "is_near_beehive": "2025-02-08 17:42:23 +0000"
-    },
-    "done": true
-  },
   "ilikewood:recipes/combat/stone_dark_oak_sword": {
     "criteria": {
       "has_material": "2025-02-08 17:43:16 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/woodcutting/oak/crafting_table_from_oak_planks_woodcutting": {
-    "criteria": {
-      "give_recipe": "2025-02-08 17:42:25 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/oak_pressure_plate": {
-    "criteria": {
-      "has_planks": "2025-02-08 17:42:25 +0000"
     },
     "done": true
   },
@@ -1352,45 +872,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/redstone/birch_trapdoor": {
-    "criteria": {
-      "has_planks": "2025-02-08 17:45:33 +0000"
-    },
-    "done": true
-  },
-  "ilikewood:recipes/decorations/cherry_torch": {
-    "criteria": {
-      "has_coal": "2025-02-08 17:45:30 +0000"
-    },
-    "done": true
-  },
   "ilikewood:recipes/tools/stone_oak_shovel": {
     "criteria": {
       "has_material": "2025-02-08 17:43:16 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/woodcutting/oak/oak_boat_from_oak_planks_woodcutting": {
-    "criteria": {
-      "give_recipe": "2025-02-08 17:42:25 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/polished_diorite_from_diorite_stonecutting": {
-    "criteria": {
-      "has_diorite": "2025-02-08 17:43:21 +0000"
-    },
-    "done": true
-  },
-  "minecraft:adventure/kill_a_mob": {
-    "criteria": {
-      "minecraft:zombie": "2025-02-08 17:44:06 +0000"
-    },
-    "done": true
-  },
-  "ilikewood:recipes/decorations/mangrove_item_frame": {
-    "criteria": {
-      "has_leather": "2025-02-08 17:52:51 +0000"
     },
     "done": true
   },
@@ -1412,45 +896,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/redstone/birch_pressure_plate": {
-    "criteria": {
-      "has_planks": "2025-02-08 17:45:33 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/diorite_slab_from_diorite_stonecutting": {
-    "criteria": {
-      "has_diorite": "2025-02-08 17:43:21 +0000"
-    },
-    "done": true
-  },
-  "minecraft:husbandry/balanced_diet": {
-    "criteria": {
-      "rotten_flesh": "2025-02-08 17:44:11 +0000"
-    },
-    "done": false
-  },
-  "ilikewood:recipes/decorations/mangrove_torch": {
-    "criteria": {
-      "has_coal": "2025-02-08 17:45:30 +0000"
-    },
-    "done": true
-  },
-  "ilikewood:recipes/misc/stick_from_birch_planks_sawmilling": {
-    "criteria": {
-      "has_birch_planks": "2025-02-08 17:45:33 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/tools/stone_hoe": {
     "criteria": {
       "has_cobblestone": "2025-02-08 17:43:16 +0000"
-    },
-    "done": true
-  },
-  "ilikewood:recipes/misc/oak_slab_from_oak_planks_sawmilling": {
-    "criteria": {
-      "has_oak_planks": "2025-02-08 17:42:25 +0000"
     },
     "done": true
   },
@@ -1466,9 +914,279 @@
     },
     "done": true
   },
+  "ilikewood:recipes/tools/stone_cherry_pickaxe": {
+    "criteria": {
+      "has_material": "2025-02-08 17:43:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_diorite": {
+    "criteria": {
+      "has_diorite": "2025-02-08 17:43:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_diorite_stairs_from_diorite_stonecutting": {
+    "criteria": {
+      "has_diorite": "2025-02-08 17:43:21 +0000"
+    },
+    "done": true
+  },
+  "occultism:recipes/spirit_trade/spirit_trade/stone_to_otherstone": {
+    "criteria": {
+      "has_stone": "2025-02-08 17:43:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/diorite_stairs_from_diorite_stonecutting": {
+    "criteria": {
+      "has_diorite": "2025-02-08 17:43:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/andesite": {
+    "criteria": {
+      "has_stone": "2025-02-08 17:43:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_diorite_slab_from_diorite_stonecutting": {
+    "criteria": {
+      "has_diorite": "2025-02-08 17:43:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/diorite_slab": {
+    "criteria": {
+      "has_diorite": "2025-02-08 17:43:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/diorite_wall": {
+    "criteria": {
+      "has_diorite": "2025-02-08 17:43:21 +0000"
+    },
+    "done": true
+  },
+  "occultism:recipes/spirit_trade/spirit_trade/test": {
+    "criteria": {
+      "has_stone": "2025-02-08 17:43:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/diorite_wall_from_diorite_stonecutting": {
+    "criteria": {
+      "has_diorite": "2025-02-08 17:43:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_diorite_from_diorite_stonecutting": {
+    "criteria": {
+      "has_diorite": "2025-02-08 17:43:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/diorite_slab_from_diorite_stonecutting": {
+    "criteria": {
+      "has_diorite": "2025-02-08 17:43:21 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/diorite_stairs": {
     "criteria": {
       "has_diorite": "2025-02-08 17:43:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/torch": {
+    "criteria": {
+      "has_stone_pickaxe": "2025-02-08 17:43:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/upgrade_tools": {
+    "criteria": {
+      "stone_pickaxe": "2025-02-08 17:43:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/kill_all_mobs": {
+    "criteria": {
+      "minecraft:skeleton": "2025-02-08 18:07:25 +0000",
+      "minecraft:creeper": "2025-02-08 17:53:40 +0000",
+      "minecraft:witch": "2025-02-08 18:03:03 +0000",
+      "minecraft:zombie": "2025-02-08 17:44:06 +0000"
+    },
+    "done": false
+  },
+  "minecraft:adventure/root": {
+    "criteria": {
+      "killed_something": "2025-02-08 17:44:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/kill_a_mob": {
+    "criteria": {
+      "minecraft:zombie": "2025-02-08 17:44:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/root": {
+    "criteria": {
+      "consumed_item": "2025-02-08 17:44:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/balanced_diet": {
+    "criteria": {
+      "cooked_beef": "2025-02-08 18:07:21 +0000",
+      "beef": "2025-02-08 18:11:27 +0000",
+      "rotten_flesh": "2025-02-08 17:44:11 +0000",
+      "carrot": "2025-02-08 18:06:04 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/decorations/chest": {
+    "criteria": {
+      "has_lots_of_items": "2025-02-08 17:45:16 +0000"
+    },
+    "done": true
+  },
+  "ilikewood:recipes/decorations/jungle_torch": {
+    "criteria": {
+      "has_coal": "2025-02-08 17:45:30 +0000"
+    },
+    "done": true
+  },
+  "ilikewood:recipes/decorations/oak_torch": {
+    "criteria": {
+      "has_coal": "2025-02-08 17:45:30 +0000"
+    },
+    "done": true
+  },
+  "ilikewood:recipes/decorations/acacia_campfire": {
+    "criteria": {
+      "has_coal": "2025-02-08 17:45:30 +0000"
+    },
+    "done": true
+  },
+  "ilikewood:recipes/decorations/crimson_campfire": {
+    "criteria": {
+      "has_coal": "2025-02-08 17:45:30 +0000"
+    },
+    "done": true
+  },
+  "ilikewood:recipes/decorations/immersiveengineering_treated_wood_torch": {
+    "criteria": {
+      "has_coal": "2025-02-08 17:45:30 +0000"
+    },
+    "done": true
+  },
+  "ilikewood:recipes/decorations/cherry_campfire": {
+    "criteria": {
+      "has_coal": "2025-02-08 17:45:30 +0000"
+    },
+    "done": true
+  },
+  "ilikewood:recipes/decorations/dark_oak_campfire": {
+    "criteria": {
+      "has_coal": "2025-02-08 17:45:30 +0000"
+    },
+    "done": true
+  },
+  "ilikewood:recipes/decorations/dark_oak_torch": {
+    "criteria": {
+      "has_coal": "2025-02-08 17:45:30 +0000"
+    },
+    "done": true
+  },
+  "ilikewood:recipes/decorations/warped_torch": {
+    "criteria": {
+      "has_coal": "2025-02-08 17:45:30 +0000"
+    },
+    "done": true
+  },
+  "ilikewood:recipes/decorations/crimson_torch": {
+    "criteria": {
+      "has_coal": "2025-02-08 17:45:30 +0000"
+    },
+    "done": true
+  },
+  "ilikewood:recipes/decorations/bamboo_campfire": {
+    "criteria": {
+      "has_coal": "2025-02-08 17:45:30 +0000"
+    },
+    "done": true
+  },
+  "ilikewood:recipes/decorations/mangrove_campfire": {
+    "criteria": {
+      "has_coal": "2025-02-08 17:45:30 +0000"
+    },
+    "done": true
+  },
+  "ilikewood:recipes/decorations/spruce_campfire": {
+    "criteria": {
+      "has_coal": "2025-02-08 17:45:30 +0000"
+    },
+    "done": true
+  },
+  "ilikewood:recipes/decorations/bamboo_torch": {
+    "criteria": {
+      "has_coal": "2025-02-08 17:45:30 +0000"
+    },
+    "done": true
+  },
+  "ilikewood:recipes/decorations/warped_campfire": {
+    "criteria": {
+      "has_coal": "2025-02-08 17:45:30 +0000"
+    },
+    "done": true
+  },
+  "ilikewood:recipes/decorations/acacia_torch": {
+    "criteria": {
+      "has_coal": "2025-02-08 17:45:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/coal_block": {
+    "criteria": {
+      "has_coal": "2025-02-08 17:45:30 +0000"
+    },
+    "done": true
+  },
+  "ilikewood:recipes/decorations/oak_campfire": {
+    "criteria": {
+      "has_coal": "2025-02-08 17:45:30 +0000"
+    },
+    "done": true
+  },
+  "ilikewood:recipes/decorations/birch_torch": {
+    "criteria": {
+      "has_coal": "2025-02-08 17:45:30 +0000"
+    },
+    "done": true
+  },
+  "ilikewood:recipes/decorations/jungle_campfire": {
+    "criteria": {
+      "has_coal": "2025-02-08 17:45:30 +0000"
+    },
+    "done": true
+  },
+  "ilikewood:recipes/decorations/birch_campfire": {
+    "criteria": {
+      "has_coal": "2025-02-08 17:45:30 +0000"
+    },
+    "done": true
+  },
+  "ilikewood:recipes/decorations/cherry_torch": {
+    "criteria": {
+      "has_coal": "2025-02-08 17:45:30 +0000"
+    },
+    "done": true
+  },
+  "ilikewood:recipes/decorations/mangrove_torch": {
+    "criteria": {
+      "has_coal": "2025-02-08 17:45:30 +0000"
     },
     "done": true
   },
@@ -1478,9 +1196,291 @@
     },
     "done": true
   },
-  "minecraft:story/root": {
+  "minecraft:recipes/redstone/birch_button": {
     "criteria": {
-      "crafting_table": "2025-02-08 17:42:31 +0000"
+      "has_planks": "2025-02-08 17:45:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/birch/birch_button_from_birch_planks_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-02-08 17:45:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/birch/barrel_from_birch_planks_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-02-08 17:45:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/birch_door": {
+    "criteria": {
+      "has_planks": "2025-02-08 17:45:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/birch_fence": {
+    "criteria": {
+      "has_planks": "2025-02-08 17:45:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/birch/birch_stairs_from_birch_planks_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-02-08 17:45:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/birch/birch_trapdoor_from_birch_planks_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-02-08 17:45:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/birch_sign": {
+    "criteria": {
+      "has_planks": "2025-02-08 17:45:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/birch_fence_gate": {
+    "criteria": {
+      "has_planks": "2025-02-08 17:45:33 +0000"
+    },
+    "done": true
+  },
+  "ilikewood:recipes/misc/birch_slab_from_birch_planks_sawmilling": {
+    "criteria": {
+      "has_birch_planks": "2025-02-08 17:45:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/birch_slab": {
+    "criteria": {
+      "has_planks": "2025-02-08 17:45:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/birch_stairs": {
+    "criteria": {
+      "has_planks": "2025-02-08 17:45:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/birch/birch_boat_from_birch_planks_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-02-08 17:45:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/birch/birch_slab_from_birch_planks_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-02-08 17:45:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/birch/birch_fence_from_birch_planks_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-02-08 17:45:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/birch/birch_sign_from_birch_planks_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-02-08 17:45:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/birch/birch_door_from_birch_planks_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-02-08 17:45:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/birch/birch_fence_gate_from_birch_planks_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-02-08 17:45:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/birch/crafting_table_from_birch_planks_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-02-08 17:45:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/birch/chest_from_birch_planks_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-02-08 17:45:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/birch/birch_pressure_plate_from_birch_planks_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-02-08 17:45:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/birch/birch_chest_boat_from_birch_planks_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-02-08 17:45:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/birch_trapdoor": {
+    "criteria": {
+      "has_planks": "2025-02-08 17:45:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/birch_pressure_plate": {
+    "criteria": {
+      "has_planks": "2025-02-08 17:45:33 +0000"
+    },
+    "done": true
+  },
+  "ilikewood:recipes/misc/stick_from_birch_planks_sawmilling": {
+    "criteria": {
+      "has_birch_planks": "2025-02-08 17:45:33 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/first_grave": {
+    "criteria": {
+      "coded_trigger": "2025-02-08 17:50:41 +0000"
+    },
+    "done": true
+  },
+  "tombstone:recipes/from_grave_key": {
+    "criteria": {
+      "has_ingredient": "2025-02-08 17:50:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/leather_helmet": {
+    "criteria": {
+      "has_leather": "2025-02-08 17:52:51 +0000"
+    },
+    "done": true
+  },
+  "ilikewood:recipes/decorations/immersiveengineering_treated_wood_item_frame": {
+    "criteria": {
+      "has_leather": "2025-02-08 17:52:51 +0000"
+    },
+    "done": true
+  },
+  "ilikewood:recipes/decorations/crimson_item_frame": {
+    "criteria": {
+      "has_leather": "2025-02-08 17:52:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/leather_chestplate": {
+    "criteria": {
+      "has_leather": "2025-02-08 17:52:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/leather_horse_armor": {
+    "criteria": {
+      "has_leather": "2025-02-08 17:52:51 +0000"
+    },
+    "done": true
+  },
+  "ilikewood:recipes/decorations/birch_item_frame": {
+    "criteria": {
+      "has_leather": "2025-02-08 17:52:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_beef_from_smoking": {
+    "criteria": {
+      "has_beef": "2025-02-08 17:52:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/item_frame": {
+    "criteria": {
+      "has_leather": "2025-02-08 17:52:51 +0000"
+    },
+    "done": true
+  },
+  "ilikewood:recipes/decorations/acacia_item_frame": {
+    "criteria": {
+      "has_leather": "2025-02-08 17:52:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/leather_boots": {
+    "criteria": {
+      "has_leather": "2025-02-08 17:52:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_beef": {
+    "criteria": {
+      "has_beef": "2025-02-08 17:52:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/leather_leggings": {
+    "criteria": {
+      "has_leather": "2025-02-08 17:52:51 +0000"
+    },
+    "done": true
+  },
+  "ilikewood:recipes/decorations/bamboo_item_frame": {
+    "criteria": {
+      "has_leather": "2025-02-08 17:52:51 +0000"
+    },
+    "done": true
+  },
+  "ilikewood:recipes/decorations/warped_item_frame": {
+    "criteria": {
+      "has_leather": "2025-02-08 17:52:51 +0000"
+    },
+    "done": true
+  },
+  "ilikewood:recipes/decorations/oak_item_frame": {
+    "criteria": {
+      "has_leather": "2025-02-08 17:52:51 +0000"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/crafting/conveyor_basic": {
+    "criteria": {
+      "has_leather": "2025-02-08 17:52:51 +0000"
+    },
+    "done": true
+  },
+  "ilikewood:recipes/decorations/dark_oak_item_frame": {
+    "criteria": {
+      "has_leather": "2025-02-08 17:52:51 +0000"
+    },
+    "done": true
+  },
+  "ilikewood:recipes/decorations/spruce_item_frame": {
+    "criteria": {
+      "has_leather": "2025-02-08 17:52:51 +0000"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/crafting/powerpack": {
+    "criteria": {
+      "has_leather": "2025-02-08 17:52:51 +0000"
+    },
+    "done": true
+  },
+  "ilikewood:recipes/decorations/jungle_item_frame": {
+    "criteria": {
+      "has_leather": "2025-02-08 17:52:51 +0000"
+    },
+    "done": true
+  },
+  "ilikewood:recipes/decorations/mangrove_item_frame": {
+    "criteria": {
+      "has_leather": "2025-02-08 17:52:51 +0000"
     },
     "done": true
   },
@@ -1490,15 +1490,1053 @@
     },
     "done": true
   },
-  "ilikewood:recipes/tools/stone_cherry_pickaxe": {
-    "criteria": {
-      "has_material": "2025-02-08 17:43:16 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/food/cooked_beef_from_campfire_cooking": {
     "criteria": {
       "has_beef": "2025-02-08 17:52:51 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/cancel_ghostly_shape": {
+    "criteria": {
+      "coded_trigger": "2025-02-08 17:53:01 +0000"
+    },
+    "done": true
+  },
+  "tombstone:recipes/from_grave_dust": {
+    "criteria": {
+      "has_ingredient": "2025-02-08 17:53:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/lantern": {
+    "criteria": {
+      "has_iron_nugget": "2025-02-08 17:59:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_ingot_from_nuggets": {
+    "criteria": {
+      "has_iron_nugget": "2025-02-08 17:59:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/chain": {
+    "criteria": {
+      "has_iron_nugget": "2025-02-08 17:59:14 +0000"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/smelting/ingot_aluminum3": {
+    "criteria": {
+      "has_raw_aluminum": "2025-02-08 17:59:17 +0000"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/crafting/raw_aluminum_to_raw_block_aluminum": {
+    "criteria": {
+      "has_raw_aluminum": "2025-02-08 17:59:17 +0000"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/smelting/ingot_aluminum_from_blasting3": {
+    "criteria": {
+      "has_raw_aluminum": "2025-02-08 17:59:17 +0000"
+    },
+    "done": true
+  },
+  "occultism:recipes/crushing/crushing/aluminum_dust_from_raw": {
+    "criteria": {
+      "has_raw_aluminum": "2025-02-08 17:59:17 +0000"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/crafting/raw_block_aluminum_to_raw_aluminum": {
+    "criteria": {
+      "has_raw_block_aluminum": "2025-02-08 17:59:17 +0000"
+    },
+    "done": true
+  },
+  "ilikewood:recipes/decorations/white_cherry_bed": {
+    "criteria": {
+      "has_wool": "2025-02-08 18:00:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_mutton_from_smoking": {
+    "criteria": {
+      "has_mutton": "2025-02-08 18:00:41 +0000"
+    },
+    "done": true
+  },
+  "ilikewood:recipes/decorations/immersiveengineering_white_treated_wood_bed": {
+    "criteria": {
+      "has_wool": "2025-02-08 18:00:41 +0000"
+    },
+    "done": true
+  },
+  "ilikewood:recipes/decorations/warped_painting": {
+    "criteria": {
+      "has_wool": "2025-02-08 18:00:41 +0000"
+    },
+    "done": true
+  },
+  "ilikewood:recipes/decorations/white_warped_bed": {
+    "criteria": {
+      "has_wool": "2025-02-08 18:00:41 +0000"
+    },
+    "done": true
+  },
+  "ilikewood:recipes/decorations/birch_painting": {
+    "criteria": {
+      "has_wool": "2025-02-08 18:00:41 +0000"
+    },
+    "done": true
+  },
+  "ilikewood:recipes/decorations/white_mangrove_bed": {
+    "criteria": {
+      "has_wool": "2025-02-08 18:00:41 +0000"
+    },
+    "done": true
+  },
+  "ilikewood:recipes/decorations/white_bamboo_bed": {
+    "criteria": {
+      "has_wool": "2025-02-08 18:00:41 +0000"
+    },
+    "done": true
+  },
+  "ilikewood:recipes/decorations/white_oak_bed": {
+    "criteria": {
+      "has_wool": "2025-02-08 18:00:41 +0000"
+    },
+    "done": true
+  },
+  "ilikewood:recipes/decorations/white_dark_oak_bed": {
+    "criteria": {
+      "has_wool": "2025-02-08 18:00:41 +0000"
+    },
+    "done": true
+  },
+  "occultism:recipes/misc/crafting/brush": {
+    "criteria": {
+      "has_wool": "2025-02-08 18:00:41 +0000"
+    },
+    "done": true
+  },
+  "ilikewood:recipes/decorations/jungle_painting": {
+    "criteria": {
+      "has_wool": "2025-02-08 18:00:41 +0000"
+    },
+    "done": true
+  },
+  "ilikewood:recipes/decorations/immersiveengineering_treated_wood_painting": {
+    "criteria": {
+      "has_wool": "2025-02-08 18:00:41 +0000"
+    },
+    "done": true
+  },
+  "ilikewood:recipes/decorations/white_jungle_bed": {
+    "criteria": {
+      "has_wool": "2025-02-08 18:00:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/white_bed": {
+    "criteria": {
+      "has_white_wool": "2025-02-08 18:00:41 +0000"
+    },
+    "done": true
+  },
+  "ilikewood:recipes/decorations/white_birch_bed": {
+    "criteria": {
+      "has_wool": "2025-02-08 18:00:41 +0000"
+    },
+    "done": true
+  },
+  "ilikewood:recipes/decorations/crimson_painting": {
+    "criteria": {
+      "has_wool": "2025-02-08 18:00:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/painting": {
+    "criteria": {
+      "has_wool": "2025-02-08 18:00:41 +0000"
+    },
+    "done": true
+  },
+  "ilikewood:recipes/decorations/white_acacia_bed": {
+    "criteria": {
+      "has_wool": "2025-02-08 18:00:41 +0000"
+    },
+    "done": true
+  },
+  "ilikewood:recipes/decorations/acacia_painting": {
+    "criteria": {
+      "has_wool": "2025-02-08 18:00:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/white_carpet": {
+    "criteria": {
+      "has_white_wool": "2025-02-08 18:00:41 +0000"
+    },
+    "done": true
+  },
+  "ilikewood:recipes/decorations/white_spruce_bed": {
+    "criteria": {
+      "has_wool": "2025-02-08 18:00:41 +0000"
+    },
+    "done": true
+  },
+  "ilikewood:recipes/decorations/oak_painting": {
+    "criteria": {
+      "has_wool": "2025-02-08 18:00:41 +0000"
+    },
+    "done": true
+  },
+  "ilikewood:recipes/decorations/dark_oak_painting": {
+    "criteria": {
+      "has_wool": "2025-02-08 18:00:41 +0000"
+    },
+    "done": true
+  },
+  "ilikewood:recipes/decorations/cherry_painting": {
+    "criteria": {
+      "has_wool": "2025-02-08 18:00:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_mutton": {
+    "criteria": {
+      "has_mutton": "2025-02-08 18:00:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/white_banner": {
+    "criteria": {
+      "has_white_wool": "2025-02-08 18:00:41 +0000"
+    },
+    "done": true
+  },
+  "ilikewood:recipes/decorations/white_crimson_bed": {
+    "criteria": {
+      "has_wool": "2025-02-08 18:00:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_mutton_from_campfire_cooking": {
+    "criteria": {
+      "has_mutton": "2025-02-08 18:00:41 +0000"
+    },
+    "done": true
+  },
+  "ilikewood:recipes/decorations/bamboo_painting": {
+    "criteria": {
+      "has_wool": "2025-02-08 18:00:41 +0000"
+    },
+    "done": true
+  },
+  "ilikewood:recipes/decorations/spruce_painting": {
+    "criteria": {
+      "has_wool": "2025-02-08 18:00:41 +0000"
+    },
+    "done": true
+  },
+  "ilikewood:recipes/decorations/mangrove_painting": {
+    "criteria": {
+      "has_wool": "2025-02-08 18:00:41 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/first_knowledge": {
+    "criteria": {
+      "coded_trigger": "2025-02-08 18:03:03 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/ambush": {
+    "criteria": {
+      "coded_trigger": "2025-02-08 18:03:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/firework_rocket_simple": {
+    "criteria": {
+      "has_gunpowder": "2025-02-08 18:03:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/tnt": {
+    "criteria": {
+      "has_gunpowder": "2025-02-08 18:03:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_from_moss_block": {
+    "criteria": {
+      "has_moss_block": "2025-02-08 18:03:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/moss_carpet": {
+    "criteria": {
+      "has_moss_block": "2025-02-08 18:03:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_stone_bricks_from_moss_block": {
+    "criteria": {
+      "has_moss_block": "2025-02-08 18:03:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/bowl": {
+    "criteria": {
+      "has_brown_mushroom": "2025-02-08 18:03:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/mushroom_stew": {
+    "criteria": {
+      "has_brown_mushroom": "2025-02-08 18:03:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/carrot_on_a_stick": {
+    "criteria": {
+      "has_carrot": "2025-02-08 18:06:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/baked_potato_from_campfire_cooking": {
+    "criteria": {
+      "has_potato": "2025-02-08 18:06:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/baked_potato": {
+    "criteria": {
+      "has_potato": "2025-02-08 18:06:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/baked_potato_from_smoking": {
+    "criteria": {
+      "has_potato": "2025-02-08 18:06:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/bone_meal": {
+    "criteria": {
+      "has_bone": "2025-02-08 18:07:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_porkchop": {
+    "criteria": {
+      "has_porkchop": "2025-02-08 18:10:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_porkchop_from_smoking": {
+    "criteria": {
+      "has_porkchop": "2025-02-08 18:10:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_porkchop_from_campfire_cooking": {
+    "criteria": {
+      "has_porkchop": "2025-02-08 18:10:00 +0000"
+    },
+    "done": true
+  },
+  "ilikewood:recipes/combat/iron_dark_oak_sword": {
+    "criteria": {
+      "has_material": "2025-02-08 18:14:35 +0000"
+    },
+    "done": true
+  },
+  "ilikewood:recipes/tools/iron_acacia_pickaxe": {
+    "criteria": {
+      "has_material": "2025-02-08 18:14:35 +0000"
+    },
+    "done": true
+  },
+  "ilikewood:recipes/tools/iron_warped_hoe": {
+    "criteria": {
+      "has_material": "2025-02-08 18:14:35 +0000"
+    },
+    "done": true
+  },
+  "ilikewood:recipes/tools/iron_mangrove_shovel": {
+    "criteria": {
+      "has_material": "2025-02-08 18:14:35 +0000"
+    },
+    "done": true
+  },
+  "ilikewood:recipes/tools/iron_bamboo_pickaxe": {
+    "criteria": {
+      "has_material": "2025-02-08 18:14:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/raw_iron_block": {
+    "criteria": {
+      "has_raw_iron": "2025-02-08 18:12:37 +0000"
+    },
+    "done": true
+  },
+  "ilikewood:recipes/tools/iron_oak_shovel": {
+    "criteria": {
+      "has_material": "2025-02-08 18:14:35 +0000"
+    },
+    "done": true
+  },
+  "ilikewood:recipes/tools/iron_bamboo_axe": {
+    "criteria": {
+      "has_material": "2025-02-08 18:14:35 +0000"
+    },
+    "done": true
+  },
+  "occultism:recipes/combat/crafting/butcher_knife": {
+    "criteria": {
+      "has_iron_ingot": "2025-02-08 18:14:35 +0000"
+    },
+    "done": true
+  },
+  "ilikewood:recipes/tools/iron_crimson_axe": {
+    "criteria": {
+      "has_material": "2025-02-08 18:14:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/iron_helmet": {
+    "criteria": {
+      "has_iron_ingot": "2025-02-08 18:14:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/granite_slab_from_granite_stonecutting": {
+    "criteria": {
+      "has_granite": "2025-02-08 18:12:25 +0000"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/crafting/connector_hv": {
+    "criteria": {
+      "has_aluminum_ingot": "2025-02-08 18:14:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/shears": {
+    "criteria": {
+      "has_iron_ingot": "2025-02-08 18:14:35 +0000"
+    },
+    "done": true
+  },
+  "ilikewood:recipes/tools/iron_cherry_pickaxe": {
+    "criteria": {
+      "has_material": "2025-02-08 18:14:35 +0000"
+    },
+    "done": true
+  },
+  "ilikewood:recipes/tools/iron_cherry_hoe": {
+    "criteria": {
+      "has_material": "2025-02-08 18:14:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/granite_wall_from_granite_stonecutting": {
+    "criteria": {
+      "has_granite": "2025-02-08 18:12:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/iron_block": {
+    "criteria": {
+      "has_iron_ingot": "2025-02-08 18:14:35 +0000"
+    },
+    "done": true
+  },
+  "ilikewood:recipes/tools/iron_oak_pickaxe": {
+    "criteria": {
+      "has_material": "2025-02-08 18:14:35 +0000"
+    },
+    "done": true
+  },
+  "ilikewood:recipes/tools/iron_spruce_shovel": {
+    "criteria": {
+      "has_material": "2025-02-08 18:14:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_granite_from_granite_stonecutting": {
+    "criteria": {
+      "has_granite": "2025-02-08 18:12:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/granite_slab": {
+    "criteria": {
+      "has_granite": "2025-02-08 18:12:25 +0000"
+    },
+    "done": true
+  },
+  "ilikewood:recipes/tools/iron_mangrove_axe": {
+    "criteria": {
+      "has_material": "2025-02-08 18:14:35 +0000"
+    },
+    "done": true
+  },
+  "ilikewood:recipes/tools/iron_dark_oak_shovel": {
+    "criteria": {
+      "has_material": "2025-02-08 18:14:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/hopper": {
+    "criteria": {
+      "has_iron_ingot": "2025-02-08 18:14:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/granite_stairs": {
+    "criteria": {
+      "has_granite": "2025-02-08 18:12:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/iron_boots": {
+    "criteria": {
+      "has_iron_ingot": "2025-02-08 18:14:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/granite_stairs_from_granite_stonecutting": {
+    "criteria": {
+      "has_granite": "2025-02-08 18:12:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/granite_wall": {
+    "criteria": {
+      "has_granite": "2025-02-08 18:12:25 +0000"
+    },
+    "done": true
+  },
+  "ilikewood:recipes/tools/iron_warped_shovel": {
+    "criteria": {
+      "has_material": "2025-02-08 18:14:35 +0000"
+    },
+    "done": true
+  },
+  "ilikewood:recipes/combat/iron_oak_sword": {
+    "criteria": {
+      "has_material": "2025-02-08 18:14:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_granite_slab_from_granite_stonecutting": {
+    "criteria": {
+      "has_granite": "2025-02-08 18:12:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/iron_shovel": {
+    "criteria": {
+      "has_iron_ingot": "2025-02-08 18:14:35 +0000"
+    },
+    "done": true
+  },
+  "occultism:recipes/crushing/crushing/iron_dust_from_raw": {
+    "criteria": {
+      "has_raw_iron": "2025-02-08 18:12:37 +0000"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/crafting/coil_mv": {
+    "criteria": {
+      "has_iron_ingot": "2025-02-08 18:14:35 +0000"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/crafting/coil_lv": {
+    "criteria": {
+      "has_iron_ingot": "2025-02-08 18:14:35 +0000"
+    },
+    "done": true
+  },
+  "ilikewood:recipes/tools/iron_oak_hoe": {
+    "criteria": {
+      "has_material": "2025-02-08 18:14:35 +0000"
+    },
+    "done": true
+  },
+  "ilikewood:recipes/combat/iron_acacia_sword": {
+    "criteria": {
+      "has_material": "2025-02-08 18:14:35 +0000"
+    },
+    "done": true
+  },
+  "ilikewood:recipes/tools/iron_crimson_hoe": {
+    "criteria": {
+      "has_material": "2025-02-08 18:14:35 +0000"
+    },
+    "done": true
+  },
+  "ilikewood:recipes/tools/iron_acacia_hoe": {
+    "criteria": {
+      "has_material": "2025-02-08 18:14:35 +0000"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/crafting/screwdriver": {
+    "criteria": {
+      "has_iron_ingot": "2025-02-08 18:14:35 +0000"
+    },
+    "done": true
+  },
+  "ilikewood:recipes/tools/iron_oak_axe": {
+    "criteria": {
+      "has_material": "2025-02-08 18:14:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/iron_trapdoor": {
+    "criteria": {
+      "has_iron_ingot": "2025-02-08 18:14:35 +0000"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/crafting/component_iron": {
+    "criteria": {
+      "has_iron_ingot": "2025-02-08 18:14:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_ingot_from_blasting_raw_iron": {
+    "criteria": {
+      "has_raw_iron": "2025-02-08 18:12:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/crossbow": {
+    "criteria": {
+      "has_iron_ingot": "2025-02-08 18:14:35 +0000"
+    },
+    "done": true
+  },
+  "ilikewood:recipes/tools/iron_mangrove_pickaxe": {
+    "criteria": {
+      "has_material": "2025-02-08 18:14:35 +0000"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/crafting/connector_hv_relay": {
+    "criteria": {
+      "has_aluminum_ingot": "2025-02-08 18:14:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_granite_stairs_from_granite_stonecutting": {
+    "criteria": {
+      "has_granite": "2025-02-08 18:12:25 +0000"
+    },
+    "done": true
+  },
+  "ilikewood:recipes/combat/immersiveengineering_iron_treated_wood_sword": {
+    "criteria": {
+      "has_material": "2025-02-08 18:14:35 +0000"
+    },
+    "done": true
+  },
+  "ilikewood:recipes/tools/immersiveengineering_iron_treated_wood_pickaxe": {
+    "criteria": {
+      "has_material": "2025-02-08 18:14:35 +0000"
+    },
+    "done": true
+  },
+  "ilikewood:recipes/tools/iron_mangrove_hoe": {
+    "criteria": {
+      "has_material": "2025-02-08 18:14:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/heavy_weighted_pressure_plate": {
+    "criteria": {
+      "has_iron_ingot": "2025-02-08 18:14:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/iron_leggings": {
+    "criteria": {
+      "has_iron_ingot": "2025-02-08 18:14:35 +0000"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/crafting/plate_iron_hammering": {
+    "criteria": {
+      "has_iron_ingot": "2025-02-08 18:14:35 +0000"
+    },
+    "done": true
+  },
+  "ilikewood:recipes/tools/iron_birch_pickaxe": {
+    "criteria": {
+      "has_material": "2025-02-08 18:14:35 +0000"
+    },
+    "done": true
+  },
+  "ilikewood:recipes/tools/iron_jungle_pickaxe": {
+    "criteria": {
+      "has_material": "2025-02-08 18:14:35 +0000"
+    },
+    "done": true
+  },
+  "ilikewood:recipes/tools/iron_acacia_axe": {
+    "criteria": {
+      "has_material": "2025-02-08 18:14:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_nugget_from_smelting": {
+    "criteria": {
+      "has_iron_pickaxe": "2025-02-08 18:14:40 +0000"
+    },
+    "done": true
+  },
+  "ilikewood:recipes/tools/immersiveengineering_iron_treated_wood_hoe": {
+    "criteria": {
+      "has_material": "2025-02-08 18:14:35 +0000"
+    },
+    "done": true
+  },
+  "ilikewood:recipes/tools/iron_jungle_axe": {
+    "criteria": {
+      "has_material": "2025-02-08 18:14:35 +0000"
+    },
+    "done": true
+  },
+  "ilikewood:recipes/combat/iron_bamboo_sword": {
+    "criteria": {
+      "has_material": "2025-02-08 18:14:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/iron_tools": {
+    "criteria": {
+      "iron_pickaxe": "2025-02-08 18:14:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/iron_chestplate": {
+    "criteria": {
+      "has_iron_ingot": "2025-02-08 18:14:35 +0000"
+    },
+    "done": true
+  },
+  "ilikewood:recipes/tools/iron_cherry_shovel": {
+    "criteria": {
+      "has_material": "2025-02-08 18:14:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_nugget": {
+    "criteria": {
+      "has_iron_ingot": "2025-02-08 18:14:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/bucket": {
+    "criteria": {
+      "has_iron_ingot": "2025-02-08 18:14:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/minecart": {
+    "criteria": {
+      "has_iron_ingot": "2025-02-08 18:14:35 +0000"
+    },
+    "done": true
+  },
+  "ilikewood:recipes/tools/iron_spruce_axe": {
+    "criteria": {
+      "has_material": "2025-02-08 18:14:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/iron_hoe": {
+    "criteria": {
+      "has_iron_ingot": "2025-02-08 18:14:35 +0000"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/crafting/drillhead_iron": {
+    "criteria": {
+      "has_iron_ingot": "2025-02-08 18:14:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/smelt_iron": {
+    "criteria": {
+      "iron": "2025-02-08 18:14:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/smoker": {
+    "criteria": {
+      "has_furnace": "2025-02-08 18:13:53 +0000"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/crafting/stick_iron": {
+    "criteria": {
+      "has_iron_ingot": "2025-02-08 18:14:35 +0000"
+    },
+    "done": true
+  },
+  "ilikewood:recipes/tools/iron_spruce_pickaxe": {
+    "criteria": {
+      "has_material": "2025-02-08 18:14:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/smithing_table": {
+    "criteria": {
+      "has_iron_ingot": "2025-02-08 18:14:35 +0000"
+    },
+    "done": true
+  },
+  "ilikewood:recipes/tools/iron_dark_oak_hoe": {
+    "criteria": {
+      "has_material": "2025-02-08 18:14:35 +0000"
+    },
+    "done": true
+  },
+  "ilikewood:recipes/combat/iron_cherry_sword": {
+    "criteria": {
+      "has_material": "2025-02-08 18:14:35 +0000"
+    },
+    "done": true
+  },
+  "ilikewood:recipes/tools/iron_birch_axe": {
+    "criteria": {
+      "has_material": "2025-02-08 18:14:35 +0000"
+    },
+    "done": true
+  },
+  "ilikewood:recipes/combat/iron_crimson_sword": {
+    "criteria": {
+      "has_material": "2025-02-08 18:14:35 +0000"
+    },
+    "done": true
+  },
+  "ilikewood:recipes/combat/iron_warped_sword": {
+    "criteria": {
+      "has_material": "2025-02-08 18:14:35 +0000"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/crafting/toolbox": {
+    "criteria": {
+      "has_iron_ingot": "2025-02-08 18:14:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/iron_sword": {
+    "criteria": {
+      "has_iron_ingot": "2025-02-08 18:14:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/iron_pickaxe": {
+    "criteria": {
+      "has_iron_ingot": "2025-02-08 18:14:35 +0000"
+    },
+    "done": true
+  },
+  "ilikewood:recipes/tools/iron_bamboo_shovel": {
+    "criteria": {
+      "has_material": "2025-02-08 18:14:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/shield": {
+    "criteria": {
+      "has_iron_ingot": "2025-02-08 18:14:35 +0000"
+    },
+    "done": true
+  },
+  "ilikewood:recipes/tools/iron_birch_hoe": {
+    "criteria": {
+      "has_material": "2025-02-08 18:14:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/iron_bars": {
+    "criteria": {
+      "has_iron_ingot": "2025-02-08 18:14:35 +0000"
+    },
+    "done": true
+  },
+  "ilikewood:recipes/combat/iron_spruce_sword": {
+    "criteria": {
+      "has_material": "2025-02-08 18:14:35 +0000"
+    },
+    "done": true
+  },
+  "ilikewood:recipes/tools/iron_crimson_pickaxe": {
+    "criteria": {
+      "has_material": "2025-02-08 18:14:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_ingot_from_smelting_raw_iron": {
+    "criteria": {
+      "has_raw_iron": "2025-02-08 18:12:37 +0000"
+    },
+    "done": true
+  },
+  "ilikewood:recipes/tools/iron_jungle_hoe": {
+    "criteria": {
+      "has_material": "2025-02-08 18:14:35 +0000"
+    },
+    "done": true
+  },
+  "ilikewood:recipes/tools/iron_birch_shovel": {
+    "criteria": {
+      "has_material": "2025-02-08 18:14:35 +0000"
+    },
+    "done": true
+  },
+  "ilikewood:recipes/combat/iron_jungle_sword": {
+    "criteria": {
+      "has_material": "2025-02-08 18:14:35 +0000"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/crafting/hammer": {
+    "criteria": {
+      "has_iron_ingot": "2025-02-08 18:14:35 +0000"
+    },
+    "done": true
+  },
+  "ilikewood:recipes/tools/iron_warped_axe": {
+    "criteria": {
+      "has_material": "2025-02-08 18:14:35 +0000"
+    },
+    "done": true
+  },
+  "ilikewood:recipes/tools/immersiveengineering_iron_treated_wood_axe": {
+    "criteria": {
+      "has_material": "2025-02-08 18:14:35 +0000"
+    },
+    "done": true
+  },
+  "ilikewood:recipes/combat/iron_birch_sword": {
+    "criteria": {
+      "has_material": "2025-02-08 18:14:35 +0000"
+    },
+    "done": true
+  },
+  "ilikewood:recipes/tools/iron_spruce_hoe": {
+    "criteria": {
+      "has_material": "2025-02-08 18:14:35 +0000"
+    },
+    "done": true
+  },
+  "ilikewood:recipes/tools/iron_bamboo_hoe": {
+    "criteria": {
+      "has_material": "2025-02-08 18:14:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_granite": {
+    "criteria": {
+      "has_granite": "2025-02-08 18:12:25 +0000"
+    },
+    "done": true
+  },
+  "ilikewood:recipes/tools/immersiveengineering_iron_treated_wood_shovel": {
+    "criteria": {
+      "has_material": "2025-02-08 18:14:35 +0000"
+    },
+    "done": true
+  },
+  "ilikewood:recipes/tools/iron_acacia_shovel": {
+    "criteria": {
+      "has_material": "2025-02-08 18:14:35 +0000"
+    },
+    "done": true
+  },
+  "ilikewood:recipes/tools/iron_warped_pickaxe": {
+    "criteria": {
+      "has_material": "2025-02-08 18:14:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/iron_axe": {
+    "criteria": {
+      "has_iron_ingot": "2025-02-08 18:14:35 +0000"
+    },
+    "done": true
+  },
+  "ilikewood:recipes/tools/iron_dark_oak_axe": {
+    "criteria": {
+      "has_material": "2025-02-08 18:14:35 +0000"
+    },
+    "done": true
+  },
+  "ilikewood:recipes/tools/iron_jungle_shovel": {
+    "criteria": {
+      "has_material": "2025-02-08 18:14:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_nugget_from_blasting": {
+    "criteria": {
+      "has_iron_pickaxe": "2025-02-08 18:14:40 +0000"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/crafting/wirecutter": {
+    "criteria": {
+      "has_iron_ingot": "2025-02-08 18:14:35 +0000"
+    },
+    "done": true
+  },
+  "ilikewood:recipes/tools/iron_cherry_axe": {
+    "criteria": {
+      "has_material": "2025-02-08 18:14:35 +0000"
+    },
+    "done": true
+  },
+  "occultism:recipes/crushing/crushing/iron_dust_from_ingot": {
+    "criteria": {
+      "has_iron_ingot": "2025-02-08 18:14:35 +0000"
+    },
+    "done": true
+  },
+  "ilikewood:recipes/combat/iron_mangrove_sword": {
+    "criteria": {
+      "has_material": "2025-02-08 18:14:35 +0000"
+    },
+    "done": true
+  },
+  "ilikewood:recipes/tools/iron_dark_oak_pickaxe": {
+    "criteria": {
+      "has_material": "2025-02-08 18:14:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/iron_door": {
+    "criteria": {
+      "has_iron_ingot": "2025-02-08 18:14:35 +0000"
+    },
+    "done": true
+  },
+  "ilikewood:recipes/tools/iron_crimson_shovel": {
+    "criteria": {
+      "has_material": "2025-02-08 18:14:35 +0000"
     },
     "done": true
   },

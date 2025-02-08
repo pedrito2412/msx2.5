@@ -44,7 +44,8 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:swamp": "2025-02-08 04:16:31 +0000",
-      "minecraft:forest": "2025-02-08 04:06:14 +0000"
+      "minecraft:forest": "2025-02-08 04:06:14 +0000",
+      "minecraft:plains": "2025-02-08 18:01:38 +0000"
     },
     "done": false
   },
@@ -120,6 +121,18 @@
     },
     "done": true
   },
+  "ilikewood:recipes/decorations/jungle_torch": {
+    "criteria": {
+      "has_coal": "2025-02-08 17:56:53 +0000"
+    },
+    "done": true
+  },
+  "ilikewood:recipes/decorations/oak_torch": {
+    "criteria": {
+      "has_coal": "2025-02-08 17:56:53 +0000"
+    },
+    "done": true
+  },
   "ilikewood:recipes/tools/stone_birch_shovel": {
     "criteria": {
       "has_material": "2025-02-08 17:44:37 +0000"
@@ -168,9 +181,21 @@
     },
     "done": true
   },
+  "immersiveengineering:recipes/misc/smelting/ingot_aluminum3": {
+    "criteria": {
+      "has_raw_aluminum": "2025-02-08 17:59:27 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/woodcutting/oak/oak_button_from_oak_planks_woodcutting": {
     "criteria": {
       "give_recipe": "2025-02-08 17:43:57 +0000"
+    },
+    "done": true
+  },
+  "occultism:recipes/crushing/crushing/copper_dust_from_raw": {
+    "criteria": {
+      "has_raw_copper": "2025-02-08 17:58:00 +0000"
     },
     "done": true
   },
@@ -216,15 +241,39 @@
     },
     "done": true
   },
+  "ilikewood:recipes/decorations/acacia_campfire": {
+    "criteria": {
+      "has_coal": "2025-02-08 17:56:53 +0000"
+    },
+    "done": true
+  },
   "ilikewood:recipes/tools/stone_birch_hoe": {
     "criteria": {
       "has_material": "2025-02-08 17:44:37 +0000"
     },
     "done": true
   },
+  "ilikewood:recipes/decorations/crimson_campfire": {
+    "criteria": {
+      "has_coal": "2025-02-08 17:56:53 +0000"
+    },
+    "done": true
+  },
+  "ilikewood:recipes/decorations/immersiveengineering_treated_wood_torch": {
+    "criteria": {
+      "has_coal": "2025-02-08 17:56:53 +0000"
+    },
+    "done": true
+  },
   "ilikewood:recipes/combat/stone_spruce_sword": {
     "criteria": {
       "has_material": "2025-02-08 17:44:37 +0000"
+    },
+    "done": true
+  },
+  "occultism:recipes/misc/smelting/silver_ingot_from_raw": {
+    "criteria": {
+      "has_raw_silver": "2025-02-08 18:05:49 +0000"
     },
     "done": true
   },
@@ -246,6 +295,12 @@
     },
     "done": true
   },
+  "immersiveengineering:recipes/misc/crafting/raw_aluminum_to_raw_block_aluminum": {
+    "criteria": {
+      "has_raw_aluminum": "2025-02-08 17:59:27 +0000"
+    },
+    "done": true
+  },
   "ilikewood:recipes/tools/stone_crimson_hoe": {
     "criteria": {
       "has_material": "2025-02-08 17:44:37 +0000"
@@ -258,6 +313,12 @@
     },
     "done": true
   },
+  "ilikewood:recipes/decorations/cherry_campfire": {
+    "criteria": {
+      "has_coal": "2025-02-08 17:56:53 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/cherry_boat": {
     "criteria": {
       "in_water": "2025-02-08 17:50:54 +0000"
@@ -266,7 +327,10 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
-      "minecraft:skeleton": "2025-02-08 17:47:56 +0000"
+      "minecraft:skeleton": "2025-02-08 17:47:56 +0000",
+      "minecraft:creeper": "2025-02-08 18:02:46 +0000",
+      "minecraft:witch": "2025-02-08 18:04:22 +0000",
+      "minecraft:zombie": "2025-02-08 17:56:40 +0000"
     },
     "done": false
   },
@@ -303,6 +367,12 @@
   "ilikewood:recipes/tools/stone_birch_axe": {
     "criteria": {
       "has_material": "2025-02-08 17:44:37 +0000"
+    },
+    "done": true
+  },
+  "ilikewood:recipes/decorations/dark_oak_campfire": {
+    "criteria": {
+      "has_coal": "2025-02-08 17:56:53 +0000"
     },
     "done": true
   },
@@ -372,9 +442,21 @@
     },
     "done": true
   },
+  "ilikewood:recipes/decorations/dark_oak_torch": {
+    "criteria": {
+      "has_coal": "2025-02-08 17:56:53 +0000"
+    },
+    "done": true
+  },
   "ilikewood:recipes/tools/stone_warped_axe": {
     "criteria": {
       "has_material": "2025-02-08 17:44:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/copper_ingot_from_blasting_raw_copper": {
+    "criteria": {
+      "has_raw_copper": "2025-02-08 17:58:00 +0000"
     },
     "done": true
   },
@@ -390,9 +472,33 @@
     },
     "done": true
   },
+  "ilikewood:recipes/decorations/warped_torch": {
+    "criteria": {
+      "has_coal": "2025-02-08 17:56:53 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/oak_slab": {
     "criteria": {
       "has_planks": "2025-02-08 17:43:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/raw_copper_block": {
+    "criteria": {
+      "has_raw_copper": "2025-02-08 17:58:00 +0000"
+    },
+    "done": true
+  },
+  "ilikewood:recipes/decorations/crimson_torch": {
+    "criteria": {
+      "has_coal": "2025-02-08 17:56:53 +0000"
+    },
+    "done": true
+  },
+  "ilikewood:recipes/decorations/bamboo_campfire": {
+    "criteria": {
+      "has_coal": "2025-02-08 17:56:53 +0000"
     },
     "done": true
   },
@@ -480,6 +586,12 @@
     },
     "done": true
   },
+  "ilikewood:recipes/decorations/mangrove_campfire": {
+    "criteria": {
+      "has_coal": "2025-02-08 17:56:53 +0000"
+    },
+    "done": true
+  },
   "ilikewood:recipes/tools/stone_acacia_shovel": {
     "criteria": {
       "has_material": "2025-02-08 17:44:37 +0000"
@@ -492,6 +604,12 @@
     },
     "done": true
   },
+  "ilikewood:recipes/decorations/spruce_campfire": {
+    "criteria": {
+      "has_coal": "2025-02-08 17:56:53 +0000"
+    },
+    "done": true
+  },
   "ilikewood:recipes/tools/stone_crimson_pickaxe": {
     "criteria": {
       "has_material": "2025-02-08 17:44:37 +0000"
@@ -501,6 +619,12 @@
   "minecraft:recipes/redstone/oak_door": {
     "criteria": {
       "has_planks": "2025-02-08 17:43:57 +0000"
+    },
+    "done": true
+  },
+  "occultism:recipes/misc/blasting/silver_ingot_from_raw": {
+    "criteria": {
+      "has_raw_silver": "2025-02-08 18:05:49 +0000"
     },
     "done": true
   },
@@ -594,6 +718,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/firework_rocket_simple": {
+    "criteria": {
+      "has_gunpowder": "2025-02-08 17:56:19 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/cobblestone_stairs": {
     "criteria": {
       "has_cobblestone": "2025-02-08 17:44:37 +0000"
@@ -603,6 +733,12 @@
   "ilikewood:recipes/combat/stone_cherry_sword": {
     "criteria": {
       "has_material": "2025-02-08 17:44:37 +0000"
+    },
+    "done": true
+  },
+  "ilikewood:recipes/decorations/bamboo_torch": {
+    "criteria": {
+      "has_coal": "2025-02-08 17:56:53 +0000"
     },
     "done": true
   },
@@ -660,6 +796,12 @@
     },
     "done": true
   },
+  "immersiveengineering:recipes/misc/smelting/ingot_aluminum_from_blasting3": {
+    "criteria": {
+      "has_raw_aluminum": "2025-02-08 17:59:27 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/leather_leggings": {
     "criteria": {
       "has_leather": "2025-02-08 17:50:50 +0000"
@@ -684,9 +826,21 @@
     },
     "done": true
   },
+  "ilikewood:recipes/decorations/warped_campfire": {
+    "criteria": {
+      "has_coal": "2025-02-08 17:56:53 +0000"
+    },
+    "done": true
+  },
   "ilikewood:recipes/tools/immersiveengineering_stone_treated_wood_pickaxe": {
     "criteria": {
       "has_material": "2025-02-08 17:44:37 +0000"
+    },
+    "done": true
+  },
+  "occultism:recipes/misc/crafting/raw_silver_block": {
+    "criteria": {
+      "has_raw_silver": "2025-02-08 18:05:49 +0000"
     },
     "done": true
   },
@@ -771,6 +925,18 @@
   "ilikewood:recipes/tools/stone_mangrove_hoe": {
     "criteria": {
       "has_material": "2025-02-08 17:44:37 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/choose_knowledge": {
+    "criteria": {
+      "coded_trigger": "2025-02-08 18:04:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/smoker": {
+    "criteria": {
+      "has_furnace": "2025-02-08 18:01:51 +0000"
     },
     "done": true
   },
@@ -876,9 +1042,27 @@
     },
     "done": true
   },
+  "ilikewood:recipes/decorations/acacia_torch": {
+    "criteria": {
+      "has_coal": "2025-02-08 17:56:53 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/oak_boat": {
     "criteria": {
       "in_water": "2025-02-08 17:50:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/paper": {
+    "criteria": {
+      "has_reeds": "2025-02-08 18:00:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/coal_block": {
+    "criteria": {
+      "has_coal": "2025-02-08 17:56:53 +0000"
     },
     "done": true
   },
@@ -930,9 +1114,27 @@
     },
     "done": true
   },
+  "ilikewood:recipes/decorations/oak_campfire": {
+    "criteria": {
+      "has_coal": "2025-02-08 17:56:53 +0000"
+    },
+    "done": true
+  },
   "ilikewood:recipes/decorations/spruce_item_frame": {
     "criteria": {
       "has_leather": "2025-02-08 17:50:50 +0000"
+    },
+    "done": true
+  },
+  "occultism:recipes/crushing/crushing/aluminum_dust_from_raw": {
+    "criteria": {
+      "has_raw_aluminum": "2025-02-08 17:59:27 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/ambush": {
+    "criteria": {
+      "coded_trigger": "2025-02-08 18:04:22 +0000"
     },
     "done": true
   },
@@ -948,9 +1150,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/sugar_from_sugar_cane": {
+    "criteria": {
+      "has_sugar_cane": "2025-02-08 18:00:06 +0000"
+    },
+    "done": true
+  },
+  "ilikewood:recipes/decorations/birch_torch": {
+    "criteria": {
+      "has_coal": "2025-02-08 17:56:53 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/wooden_pickaxe": {
     "criteria": {
       "has_stick": "2025-02-08 17:44:13 +0000"
+    },
+    "done": true
+  },
+  "ilikewood:recipes/decorations/jungle_campfire": {
+    "criteria": {
+      "has_coal": "2025-02-08 17:56:53 +0000"
     },
     "done": true
   },
@@ -963,6 +1183,12 @@
   "ilikewood:recipes/tools/stone_birch_pickaxe": {
     "criteria": {
       "has_material": "2025-02-08 17:44:37 +0000"
+    },
+    "done": true
+  },
+  "ilikewood:recipes/decorations/birch_campfire": {
+    "criteria": {
+      "has_coal": "2025-02-08 17:56:53 +0000"
     },
     "done": true
   },
@@ -1002,9 +1228,21 @@
     },
     "done": true
   },
+  "ilikewood:recipes/decorations/cherry_torch": {
+    "criteria": {
+      "has_coal": "2025-02-08 17:56:53 +0000"
+    },
+    "done": true
+  },
   "ilikewood:recipes/tools/stone_oak_shovel": {
     "criteria": {
       "has_material": "2025-02-08 17:44:37 +0000"
+    },
+    "done": true
+  },
+  "occultism:recipes/crushing/crushing/silver_dust_from_raw": {
+    "criteria": {
+      "has_raw_silver": "2025-02-08 18:05:49 +0000"
     },
     "done": true
   },
@@ -1046,9 +1284,28 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
-      "chicken": "2025-02-08 17:52:30 +0000"
+      "chicken": "2025-02-08 17:52:30 +0000",
+      "cooked_beef": "2025-02-08 18:02:12 +0000"
     },
     "done": false
+  },
+  "immersiveengineering:recipes/misc/crafting/raw_block_aluminum_to_raw_aluminum": {
+    "criteria": {
+      "has_raw_block_aluminum": "2025-02-08 17:59:27 +0000"
+    },
+    "done": true
+  },
+  "ilikewood:recipes/decorations/mangrove_torch": {
+    "criteria": {
+      "has_coal": "2025-02-08 17:56:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/tnt": {
+    "criteria": {
+      "has_gunpowder": "2025-02-08 17:56:19 +0000"
+    },
+    "done": true
   },
   "minecraft:recipes/tools/stone_hoe": {
     "criteria": {
@@ -1074,9 +1331,21 @@
     },
     "done": true
   },
+  "ilikewood:recipes/decorations/spruce_torch": {
+    "criteria": {
+      "has_coal": "2025-02-08 17:56:53 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/root": {
     "criteria": {
       "crafting_table": "2025-02-08 17:44:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/copper_ingot_from_smelting_raw_copper": {
+    "criteria": {
+      "has_raw_copper": "2025-02-08 17:58:00 +0000"
     },
     "done": true
   },
