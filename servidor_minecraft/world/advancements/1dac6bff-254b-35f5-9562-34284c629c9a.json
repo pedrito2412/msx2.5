@@ -43,11 +43,14 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:birch_forest": "2025-02-08 18:22:37 +0000",
       "minecraft:windswept_hills": "2025-02-08 18:07:50 +0000",
+      "minecraft:beach": "2025-02-08 18:22:45 +0000",
       "minecraft:river": "2025-02-08 18:11:25 +0000",
       "minecraft:swamp": "2025-02-08 18:02:44 +0000",
       "minecraft:forest": "2025-02-08 18:00:05 +0000",
       "minecraft:windswept_savanna": "2025-02-08 18:10:37 +0000",
+      "minecraft:old_growth_birch_forest": "2025-02-08 18:22:30 +0000",
       "minecraft:plains": "2025-02-08 18:04:17 +0000"
     },
     "done": false
@@ -370,6 +373,30 @@
     },
     "done": true
   },
+  "ilikewood:recipes/combat/iron_dark_oak_sword": {
+    "criteria": {
+      "has_material": "2025-02-08 18:16:01 +0000"
+    },
+    "done": true
+  },
+  "ilikewood:recipes/tools/iron_acacia_pickaxe": {
+    "criteria": {
+      "has_material": "2025-02-08 18:16:01 +0000"
+    },
+    "done": true
+  },
+  "ilikewood:recipes/tools/iron_warped_hoe": {
+    "criteria": {
+      "has_material": "2025-02-08 18:16:01 +0000"
+    },
+    "done": true
+  },
+  "ilikewood:recipes/tools/iron_mangrove_shovel": {
+    "criteria": {
+      "has_material": "2025-02-08 18:16:01 +0000"
+    },
+    "done": true
+  },
   "ilikewood:recipes/decorations/oak_wall": {
     "criteria": {
       "has_log": "2025-02-08 18:15:41 +0000"
@@ -388,9 +415,45 @@
     },
     "done": true
   },
+  "ilikewood:recipes/tools/iron_bamboo_pickaxe": {
+    "criteria": {
+      "has_material": "2025-02-08 18:16:01 +0000"
+    },
+    "done": true
+  },
+  "ilikewood:recipes/tools/iron_oak_shovel": {
+    "criteria": {
+      "has_material": "2025-02-08 18:16:01 +0000"
+    },
+    "done": true
+  },
+  "ilikewood:recipes/tools/iron_bamboo_axe": {
+    "criteria": {
+      "has_material": "2025-02-08 18:16:01 +0000"
+    },
+    "done": true
+  },
+  "occultism:recipes/combat/crafting/butcher_knife": {
+    "criteria": {
+      "has_iron_ingot": "2025-02-08 18:16:01 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/gold_nugget": {
     "criteria": {
       "has_gold_ingot": "2025-02-08 18:13:37 +0000"
+    },
+    "done": true
+  },
+  "ilikewood:recipes/tools/iron_crimson_axe": {
+    "criteria": {
+      "has_material": "2025-02-08 18:16:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/iron_helmet": {
+    "criteria": {
+      "has_iron_ingot": "2025-02-08 18:16:01 +0000"
     },
     "done": true
   },
@@ -442,6 +505,12 @@
     },
     "done": true
   },
+  "immersiveengineering:recipes/misc/crafting/connector_hv": {
+    "criteria": {
+      "has_aluminum_ingot": "2025-02-08 18:16:01 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/chest": {
     "criteria": {
       "has_lots_of_items": "2025-02-08 18:13:57 +0000"
@@ -454,9 +523,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/shears": {
+    "criteria": {
+      "has_iron_ingot": "2025-02-08 18:16:01 +0000"
+    },
+    "done": true
+  },
+  "ilikewood:recipes/tools/iron_cherry_pickaxe": {
+    "criteria": {
+      "has_material": "2025-02-08 18:16:01 +0000"
+    },
+    "done": true
+  },
   "ilikewood:recipes/decorations/cherry_campfire": {
     "criteria": {
       "has_coal": "2025-02-08 18:13:06 +0000"
+    },
+    "done": true
+  },
+  "ilikewood:recipes/tools/iron_cherry_hoe": {
+    "criteria": {
+      "has_material": "2025-02-08 18:16:01 +0000"
     },
     "done": true
   },
@@ -478,9 +565,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/iron_block": {
+    "criteria": {
+      "has_iron_ingot": "2025-02-08 18:16:01 +0000"
+    },
+    "done": true
+  },
   "ilikewood:recipes/decorations/dark_oak_campfire": {
     "criteria": {
       "has_coal": "2025-02-08 18:13:06 +0000"
+    },
+    "done": true
+  },
+  "ilikewood:recipes/tools/iron_oak_pickaxe": {
+    "criteria": {
+      "has_material": "2025-02-08 18:16:01 +0000"
+    },
+    "done": true
+  },
+  "ilikewood:recipes/tools/iron_spruce_shovel": {
+    "criteria": {
+      "has_material": "2025-02-08 18:16:01 +0000"
     },
     "done": true
   },
@@ -508,6 +613,12 @@
     },
     "done": true
   },
+  "ilikewood:recipes/tools/iron_mangrove_axe": {
+    "criteria": {
+      "has_material": "2025-02-08 18:16:01 +0000"
+    },
+    "done": true
+  },
   "ilikewood:recipes/combat/golden_dark_oak_sword": {
     "criteria": {
       "has_material": "2025-02-08 18:13:37 +0000"
@@ -523,6 +634,12 @@
   "ilikewood:recipes/tools/golden_spruce_shovel": {
     "criteria": {
       "has_material": "2025-02-08 18:13:37 +0000"
+    },
+    "done": true
+  },
+  "ilikewood:recipes/tools/iron_dark_oak_shovel": {
+    "criteria": {
+      "has_material": "2025-02-08 18:16:01 +0000"
     },
     "done": true
   },
@@ -547,6 +664,12 @@
   "ilikewood:recipes/tools/golden_acacia_pickaxe": {
     "criteria": {
       "has_material": "2025-02-08 18:13:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/hopper": {
+    "criteria": {
+      "has_iron_ingot": "2025-02-08 18:16:01 +0000"
     },
     "done": true
   },
@@ -583,6 +706,12 @@
   "ilikewood:recipes/tools/golden_oak_pickaxe": {
     "criteria": {
       "has_material": "2025-02-08 18:13:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/iron_boots": {
+    "criteria": {
+      "has_iron_ingot": "2025-02-08 18:16:01 +0000"
     },
     "done": true
   },
@@ -634,9 +763,21 @@
     },
     "done": true
   },
+  "ilikewood:recipes/tools/iron_warped_shovel": {
+    "criteria": {
+      "has_material": "2025-02-08 18:16:01 +0000"
+    },
+    "done": true
+  },
   "ilikewood:recipes/tools/golden_birch_shovel": {
     "criteria": {
       "has_material": "2025-02-08 18:13:37 +0000"
+    },
+    "done": true
+  },
+  "ilikewood:recipes/combat/iron_oak_sword": {
+    "criteria": {
+      "has_material": "2025-02-08 18:16:01 +0000"
     },
     "done": true
   },
@@ -646,9 +787,57 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/iron_shovel": {
+    "criteria": {
+      "has_iron_ingot": "2025-02-08 18:16:01 +0000"
+    },
+    "done": true
+  },
   "ilikewood:recipes/decorations/mangrove_campfire": {
     "criteria": {
       "has_coal": "2025-02-08 18:13:06 +0000"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/crafting/coil_mv": {
+    "criteria": {
+      "has_iron_ingot": "2025-02-08 18:16:01 +0000"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/crafting/coil_lv": {
+    "criteria": {
+      "has_iron_ingot": "2025-02-08 18:16:01 +0000"
+    },
+    "done": true
+  },
+  "ilikewood:recipes/tools/iron_oak_hoe": {
+    "criteria": {
+      "has_material": "2025-02-08 18:16:01 +0000"
+    },
+    "done": true
+  },
+  "ilikewood:recipes/combat/iron_acacia_sword": {
+    "criteria": {
+      "has_material": "2025-02-08 18:16:01 +0000"
+    },
+    "done": true
+  },
+  "ilikewood:recipes/tools/iron_crimson_hoe": {
+    "criteria": {
+      "has_material": "2025-02-08 18:16:01 +0000"
+    },
+    "done": true
+  },
+  "ilikewood:recipes/tools/iron_acacia_hoe": {
+    "criteria": {
+      "has_material": "2025-02-08 18:16:01 +0000"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/crafting/screwdriver": {
+    "criteria": {
+      "has_iron_ingot": "2025-02-08 18:16:01 +0000"
     },
     "done": true
   },
@@ -670,9 +859,27 @@
     },
     "done": true
   },
+  "ilikewood:recipes/tools/iron_oak_axe": {
+    "criteria": {
+      "has_material": "2025-02-08 18:16:01 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/gold_block": {
     "criteria": {
       "has_gold_ingot": "2025-02-08 18:13:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/iron_trapdoor": {
+    "criteria": {
+      "has_iron_ingot": "2025-02-08 18:16:01 +0000"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/crafting/component_iron": {
+    "criteria": {
+      "has_iron_ingot": "2025-02-08 18:16:01 +0000"
     },
     "done": true
   },
@@ -694,6 +901,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/crossbow": {
+    "criteria": {
+      "has_iron_ingot": "2025-02-08 18:16:01 +0000"
+    },
+    "done": true
+  },
+  "ilikewood:recipes/tools/iron_mangrove_pickaxe": {
+    "criteria": {
+      "has_material": "2025-02-08 18:16:01 +0000"
+    },
+    "done": true
+  },
   "ilikewood:recipes/tools/golden_warped_axe": {
     "criteria": {
       "has_material": "2025-02-08 18:13:37 +0000"
@@ -709,6 +928,12 @@
   "ilikewood:recipes/tools/golden_oak_hoe": {
     "criteria": {
       "has_material": "2025-02-08 18:13:37 +0000"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/crafting/connector_hv_relay": {
+    "criteria": {
+      "has_aluminum_ingot": "2025-02-08 18:16:01 +0000"
     },
     "done": true
   },
@@ -736,6 +961,18 @@
     },
     "done": true
   },
+  "ilikewood:recipes/combat/immersiveengineering_iron_treated_wood_sword": {
+    "criteria": {
+      "has_material": "2025-02-08 18:16:01 +0000"
+    },
+    "done": true
+  },
+  "ilikewood:recipes/tools/immersiveengineering_iron_treated_wood_pickaxe": {
+    "criteria": {
+      "has_material": "2025-02-08 18:16:01 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/oak_wood": {
     "criteria": {
       "has_log": "2025-02-08 18:15:41 +0000"
@@ -748,9 +985,27 @@
     },
     "done": true
   },
+  "ilikewood:recipes/tools/iron_mangrove_hoe": {
+    "criteria": {
+      "has_material": "2025-02-08 18:16:01 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/iron_ingot_from_nuggets": {
     "criteria": {
       "has_iron_nugget": "2025-02-08 18:13:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/heavy_weighted_pressure_plate": {
+    "criteria": {
+      "has_iron_ingot": "2025-02-08 18:16:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/iron_leggings": {
+    "criteria": {
+      "has_iron_ingot": "2025-02-08 18:16:01 +0000"
     },
     "done": true
   },
@@ -760,9 +1015,45 @@
     },
     "done": true
   },
+  "immersiveengineering:recipes/misc/crafting/plate_iron_hammering": {
+    "criteria": {
+      "has_iron_ingot": "2025-02-08 18:16:01 +0000"
+    },
+    "done": true
+  },
+  "ilikewood:recipes/tools/iron_birch_pickaxe": {
+    "criteria": {
+      "has_material": "2025-02-08 18:16:01 +0000"
+    },
+    "done": true
+  },
+  "ilikewood:recipes/tools/iron_jungle_pickaxe": {
+    "criteria": {
+      "has_material": "2025-02-08 18:16:01 +0000"
+    },
+    "done": true
+  },
   "ilikewood:recipes/tools/golden_acacia_hoe": {
     "criteria": {
       "has_material": "2025-02-08 18:13:37 +0000"
+    },
+    "done": true
+  },
+  "ilikewood:recipes/tools/iron_acacia_axe": {
+    "criteria": {
+      "has_material": "2025-02-08 18:16:01 +0000"
+    },
+    "done": true
+  },
+  "ilikewood:recipes/tools/immersiveengineering_iron_treated_wood_hoe": {
+    "criteria": {
+      "has_material": "2025-02-08 18:16:01 +0000"
+    },
+    "done": true
+  },
+  "ilikewood:recipes/tools/iron_jungle_axe": {
+    "criteria": {
+      "has_material": "2025-02-08 18:16:01 +0000"
     },
     "done": true
   },
@@ -772,15 +1063,39 @@
     },
     "done": true
   },
+  "ilikewood:recipes/combat/iron_bamboo_sword": {
+    "criteria": {
+      "has_material": "2025-02-08 18:16:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/iron_chestplate": {
+    "criteria": {
+      "has_iron_ingot": "2025-02-08 18:16:01 +0000"
+    },
+    "done": true
+  },
   "ilikewood:recipes/combat/golden_cherry_sword": {
     "criteria": {
       "has_material": "2025-02-08 18:13:37 +0000"
     },
     "done": true
   },
+  "ilikewood:recipes/tools/iron_cherry_shovel": {
+    "criteria": {
+      "has_material": "2025-02-08 18:16:01 +0000"
+    },
+    "done": true
+  },
   "ilikewood:recipes/tools/golden_jungle_hoe": {
     "criteria": {
       "has_material": "2025-02-08 18:13:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_nugget": {
+    "criteria": {
+      "has_iron_ingot": "2025-02-08 18:16:01 +0000"
     },
     "done": true
   },
@@ -796,9 +1111,39 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/bucket": {
+    "criteria": {
+      "has_iron_ingot": "2025-02-08 18:16:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/minecart": {
+    "criteria": {
+      "has_iron_ingot": "2025-02-08 18:16:01 +0000"
+    },
+    "done": true
+  },
+  "ilikewood:recipes/tools/iron_spruce_axe": {
+    "criteria": {
+      "has_material": "2025-02-08 18:16:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/iron_hoe": {
+    "criteria": {
+      "has_iron_ingot": "2025-02-08 18:16:01 +0000"
+    },
+    "done": true
+  },
   "ilikewood:recipes/combat/golden_birch_sword": {
     "criteria": {
       "has_material": "2025-02-08 18:13:37 +0000"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/crafting/drillhead_iron": {
+    "criteria": {
+      "has_iron_ingot": "2025-02-08 18:16:01 +0000"
     },
     "done": true
   },
@@ -814,9 +1159,27 @@
     },
     "done": true
   },
+  "minecraft:story/smelt_iron": {
+    "criteria": {
+      "iron": "2025-02-08 18:16:01 +0000"
+    },
+    "done": true
+  },
   "ilikewood:recipes/tools/golden_dark_oak_pickaxe": {
     "criteria": {
       "has_material": "2025-02-08 18:13:37 +0000"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/crafting/stick_iron": {
+    "criteria": {
+      "has_iron_ingot": "2025-02-08 18:16:01 +0000"
+    },
+    "done": true
+  },
+  "ilikewood:recipes/tools/iron_spruce_pickaxe": {
+    "criteria": {
+      "has_material": "2025-02-08 18:16:01 +0000"
     },
     "done": true
   },
@@ -850,9 +1213,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/smithing_table": {
+    "criteria": {
+      "has_iron_ingot": "2025-02-08 18:16:01 +0000"
+    },
+    "done": true
+  },
   "ilikewood:recipes/tools/golden_crimson_hoe": {
     "criteria": {
       "has_material": "2025-02-08 18:13:37 +0000"
+    },
+    "done": true
+  },
+  "ilikewood:recipes/tools/iron_dark_oak_hoe": {
+    "criteria": {
+      "has_material": "2025-02-08 18:16:01 +0000"
     },
     "done": true
   },
@@ -862,9 +1237,21 @@
     },
     "done": true
   },
+  "ilikewood:recipes/combat/iron_cherry_sword": {
+    "criteria": {
+      "has_material": "2025-02-08 18:16:01 +0000"
+    },
+    "done": true
+  },
   "ilikewood:recipes/decorations/acacia_torch": {
     "criteria": {
       "has_coal": "2025-02-08 18:13:06 +0000"
+    },
+    "done": true
+  },
+  "ilikewood:recipes/tools/iron_birch_axe": {
+    "criteria": {
+      "has_material": "2025-02-08 18:16:01 +0000"
     },
     "done": true
   },
@@ -877,6 +1264,24 @@
   "minecraft:recipes/building_blocks/coal_block": {
     "criteria": {
       "has_coal": "2025-02-08 18:13:06 +0000"
+    },
+    "done": true
+  },
+  "ilikewood:recipes/combat/iron_crimson_sword": {
+    "criteria": {
+      "has_material": "2025-02-08 18:16:01 +0000"
+    },
+    "done": true
+  },
+  "ilikewood:recipes/combat/iron_warped_sword": {
+    "criteria": {
+      "has_material": "2025-02-08 18:16:01 +0000"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/crafting/toolbox": {
+    "criteria": {
+      "has_iron_ingot": "2025-02-08 18:16:01 +0000"
     },
     "done": true
   },
@@ -898,15 +1303,57 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/iron_sword": {
+    "criteria": {
+      "has_iron_ingot": "2025-02-08 18:16:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/iron_pickaxe": {
+    "criteria": {
+      "has_iron_ingot": "2025-02-08 18:16:01 +0000"
+    },
+    "done": true
+  },
+  "ilikewood:recipes/tools/iron_bamboo_shovel": {
+    "criteria": {
+      "has_material": "2025-02-08 18:16:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/shield": {
+    "criteria": {
+      "has_iron_ingot": "2025-02-08 18:16:01 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/woodcutting/oak/oak_planks_from_oak_log_woodcutting": {
     "criteria": {
       "give_recipe": "2025-02-08 18:15:41 +0000"
     },
     "done": true
   },
+  "ilikewood:recipes/tools/iron_birch_hoe": {
+    "criteria": {
+      "has_material": "2025-02-08 18:16:01 +0000"
+    },
+    "done": true
+  },
   "ilikewood:recipes/misc/stick_from_oak_log_sawmilling": {
     "criteria": {
       "has_oak_log": "2025-02-08 18:15:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/iron_bars": {
+    "criteria": {
+      "has_iron_ingot": "2025-02-08 18:16:01 +0000"
+    },
+    "done": true
+  },
+  "ilikewood:recipes/combat/iron_spruce_sword": {
+    "criteria": {
+      "has_material": "2025-02-08 18:16:01 +0000"
     },
     "done": true
   },
@@ -922,9 +1369,33 @@
     },
     "done": true
   },
+  "ilikewood:recipes/tools/iron_crimson_pickaxe": {
+    "criteria": {
+      "has_material": "2025-02-08 18:16:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/fermented_spider_eye": {
+    "criteria": {
+      "has_spider_eye": "2025-02-08 18:20:49 +0000"
+    },
+    "done": true
+  },
+  "ilikewood:recipes/tools/iron_jungle_hoe": {
+    "criteria": {
+      "has_material": "2025-02-08 18:16:01 +0000"
+    },
+    "done": true
+  },
   "ilikewood:recipes/decorations/birch_torch": {
     "criteria": {
       "has_coal": "2025-02-08 18:13:06 +0000"
+    },
+    "done": true
+  },
+  "ilikewood:recipes/tools/iron_birch_shovel": {
+    "criteria": {
+      "has_material": "2025-02-08 18:16:01 +0000"
     },
     "done": true
   },
@@ -940,6 +1411,12 @@
     },
     "done": true
   },
+  "ilikewood:recipes/combat/iron_jungle_sword": {
+    "criteria": {
+      "has_material": "2025-02-08 18:16:01 +0000"
+    },
+    "done": true
+  },
   "ilikewood:recipes/decorations/birch_campfire": {
     "criteria": {
       "has_coal": "2025-02-08 18:13:06 +0000"
@@ -949,6 +1426,12 @@
   "ilikewood:recipes/tools/golden_dark_oak_axe": {
     "criteria": {
       "has_material": "2025-02-08 18:13:37 +0000"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/crafting/hammer": {
+    "criteria": {
+      "has_iron_ingot": "2025-02-08 18:16:01 +0000"
     },
     "done": true
   },
@@ -970,6 +1453,42 @@
     },
     "done": true
   },
+  "ilikewood:recipes/tools/iron_warped_axe": {
+    "criteria": {
+      "has_material": "2025-02-08 18:16:01 +0000"
+    },
+    "done": true
+  },
+  "ilikewood:recipes/tools/immersiveengineering_iron_treated_wood_axe": {
+    "criteria": {
+      "has_material": "2025-02-08 18:16:01 +0000"
+    },
+    "done": true
+  },
+  "ilikewood:recipes/combat/iron_birch_sword": {
+    "criteria": {
+      "has_material": "2025-02-08 18:16:01 +0000"
+    },
+    "done": true
+  },
+  "ilikewood:recipes/tools/iron_spruce_hoe": {
+    "criteria": {
+      "has_material": "2025-02-08 18:16:01 +0000"
+    },
+    "done": true
+  },
+  "ilikewood:recipes/tools/iron_bamboo_hoe": {
+    "criteria": {
+      "has_material": "2025-02-08 18:16:01 +0000"
+    },
+    "done": true
+  },
+  "ilikewood:recipes/tools/immersiveengineering_iron_treated_wood_shovel": {
+    "criteria": {
+      "has_material": "2025-02-08 18:16:01 +0000"
+    },
+    "done": true
+  },
   "ilikewood:recipes/tools/golden_warped_pickaxe": {
     "criteria": {
       "has_material": "2025-02-08 18:13:37 +0000"
@@ -979,6 +1498,18 @@
   "ilikewood:recipes/decorations/cherry_torch": {
     "criteria": {
       "has_coal": "2025-02-08 18:13:06 +0000"
+    },
+    "done": true
+  },
+  "ilikewood:recipes/tools/iron_acacia_shovel": {
+    "criteria": {
+      "has_material": "2025-02-08 18:16:01 +0000"
+    },
+    "done": true
+  },
+  "ilikewood:recipes/tools/iron_warped_pickaxe": {
+    "criteria": {
+      "has_material": "2025-02-08 18:16:01 +0000"
     },
     "done": true
   },
@@ -1018,9 +1549,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/iron_axe": {
+    "criteria": {
+      "has_iron_ingot": "2025-02-08 18:16:01 +0000"
+    },
+    "done": true
+  },
+  "ilikewood:recipes/tools/iron_dark_oak_axe": {
+    "criteria": {
+      "has_material": "2025-02-08 18:16:01 +0000"
+    },
+    "done": true
+  },
   "ilikewood:recipes/tools/golden_crimson_shovel": {
     "criteria": {
       "has_material": "2025-02-08 18:13:37 +0000"
+    },
+    "done": true
+  },
+  "ilikewood:recipes/tools/iron_jungle_shovel": {
+    "criteria": {
+      "has_material": "2025-02-08 18:16:01 +0000"
     },
     "done": true
   },
@@ -1030,15 +1579,45 @@
     },
     "done": true
   },
+  "immersiveengineering:recipes/misc/crafting/wirecutter": {
+    "criteria": {
+      "has_iron_ingot": "2025-02-08 18:16:01 +0000"
+    },
+    "done": true
+  },
+  "ilikewood:recipes/tools/iron_cherry_axe": {
+    "criteria": {
+      "has_material": "2025-02-08 18:16:01 +0000"
+    },
+    "done": true
+  },
+  "occultism:recipes/crushing/crushing/iron_dust_from_ingot": {
+    "criteria": {
+      "has_iron_ingot": "2025-02-08 18:16:01 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/golden_hoe": {
     "criteria": {
       "has_gold_ingot": "2025-02-08 18:13:37 +0000"
     },
     "done": true
   },
+  "ilikewood:recipes/combat/iron_mangrove_sword": {
+    "criteria": {
+      "has_material": "2025-02-08 18:16:01 +0000"
+    },
+    "done": true
+  },
   "ilikewood:recipes/decorations/mangrove_torch": {
     "criteria": {
       "has_coal": "2025-02-08 18:13:06 +0000"
+    },
+    "done": true
+  },
+  "ilikewood:recipes/tools/iron_dark_oak_pickaxe": {
+    "criteria": {
+      "has_material": "2025-02-08 18:16:01 +0000"
     },
     "done": true
   },
@@ -1066,9 +1645,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/iron_door": {
+    "criteria": {
+      "has_iron_ingot": "2025-02-08 18:16:01 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/golden_leggings": {
     "criteria": {
       "has_gold_ingot": "2025-02-08 18:13:37 +0000"
+    },
+    "done": true
+  },
+  "ilikewood:recipes/tools/iron_crimson_shovel": {
+    "criteria": {
+      "has_material": "2025-02-08 18:16:01 +0000"
     },
     "done": true
   },

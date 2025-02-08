@@ -44,6 +44,7 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:windswept_hills": "2025-02-08 17:50:32 +0000",
+      "minecraft:river": "2025-02-08 18:20:40 +0000",
       "minecraft:swamp": "2025-02-08 17:42:45 +0000",
       "minecraft:forest": "2025-02-08 04:19:24 +0000",
       "minecraft:windswept_savanna": "2025-02-08 17:55:05 +0000"
@@ -266,6 +267,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/white_dye": {
+    "criteria": {
+      "has_bone_meal": "2025-02-08 18:21:58 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/jukebox": {
     "criteria": {
       "has_diamond": "2025-02-08 18:15:24 +0000"
@@ -344,9 +351,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/redstone_torch": {
+    "criteria": {
+      "has_redstone": "2025-02-08 18:21:41 +0000"
+    },
+    "done": true
+  },
   "ilikewood:recipes/tools/immersiveengineering_stone_treated_wood_axe": {
     "criteria": {
       "has_material": "2025-02-08 17:44:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_ingot_from_blasting_raw_gold": {
+    "criteria": {
+      "has_raw_gold": "2025-02-08 18:15:57 +0000"
     },
     "done": true
   },
@@ -419,6 +438,12 @@
   "immersiveengineering:recipes/misc/crafting/connector_hv": {
     "criteria": {
       "has_aluminum_ingot": "2025-02-08 18:06:23 +0000"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/crafting/redstone_acid": {
+    "criteria": {
+      "has_redstone_dust": "2025-02-08 18:21:41 +0000"
     },
     "done": true
   },
@@ -670,6 +695,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/target": {
+    "criteria": {
+      "has_redstone": "2025-02-08 18:21:41 +0000"
+    },
+    "done": true
+  },
   "ilikewood:recipes/tools/stone_cherry_hoe": {
     "criteria": {
       "has_material": "2025-02-08 17:44:44 +0000"
@@ -748,6 +779,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/compass": {
+    "criteria": {
+      "has_redstone": "2025-02-08 18:21:41 +0000"
+    },
+    "done": true
+  },
   "ilikewood:recipes/tools/iron_dark_oak_shovel": {
     "criteria": {
       "has_material": "2025-02-08 18:06:23 +0000"
@@ -799,6 +836,12 @@
   "occultism:recipes/spirit_trade/spirit_trade/stone_to_otherstone": {
     "criteria": {
       "has_stone": "2025-02-08 17:57:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_ingot_from_smelting_raw_gold": {
+    "criteria": {
+      "has_raw_gold": "2025-02-08 18:15:57 +0000"
     },
     "done": true
   },
@@ -886,9 +929,21 @@
     },
     "done": true
   },
+  "occultism:recipes/crushing/crushing/gold_dust_from_raw": {
+    "criteria": {
+      "has_raw_gold": "2025-02-08 18:15:57 +0000"
+    },
+    "done": true
+  },
   "ilikewood:recipes/tools/diamond_dark_oak_axe": {
     "criteria": {
       "has_material": "2025-02-08 18:15:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/raw_gold_block": {
+    "criteria": {
+      "has_raw_gold": "2025-02-08 18:15:57 +0000"
     },
     "done": true
   },
@@ -1015,6 +1070,12 @@
   "ilikewood:recipes/combat/stone_mangrove_sword": {
     "criteria": {
       "has_material": "2025-02-08 17:44:44 +0000"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/crafting/rs_engineering": {
+    "criteria": {
+      "has_redstone": "2025-02-08 18:21:41 +0000"
     },
     "done": true
   },
@@ -1273,6 +1334,12 @@
   "ilikewood:recipes/combat/diamond_mangrove_sword": {
     "criteria": {
       "has_material": "2025-02-08 18:15:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/redstone_block": {
+    "criteria": {
+      "has_redstone": "2025-02-08 18:21:41 +0000"
     },
     "done": true
   },
@@ -1552,6 +1619,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/bone_block": {
+    "criteria": {
+      "has_bone_meal": "2025-02-08 18:21:58 +0000"
+    },
+    "done": true
+  },
   "ilikewood:recipes/tools/diamond_dark_oak_hoe": {
     "criteria": {
       "has_material": "2025-02-08 18:15:24 +0000"
@@ -1828,6 +1901,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/clock": {
+    "criteria": {
+      "has_redstone": "2025-02-08 18:21:41 +0000"
+    },
+    "done": true
+  },
   "ilikewood:recipes/tools/immersiveengineering_stone_treated_wood_shovel": {
     "criteria": {
       "has_material": "2025-02-08 17:44:44 +0000"
@@ -2065,6 +2144,12 @@
   "ilikewood:recipes/tools/diamond_jungle_pickaxe": {
     "criteria": {
       "has_material": "2025-02-08 18:15:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/note_block": {
+    "criteria": {
+      "has_redstone": "2025-02-08 18:21:41 +0000"
     },
     "done": true
   },
@@ -2470,6 +2555,12 @@
     },
     "done": true
   },
+  "the_bumblezone:teleportation/is_near_beehive": {
+    "criteria": {
+      "is_near_beehive": "2025-02-08 18:22:18 +0000"
+    },
+    "done": true
+  },
   "ilikewood:recipes/combat/stone_dark_oak_sword": {
     "criteria": {
       "has_material": "2025-02-08 17:44:44 +0000"
@@ -2485,6 +2576,12 @@
   "minecraft:recipes/redstone/oak_pressure_plate": {
     "criteria": {
       "has_planks": "2025-02-08 17:42:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dropper": {
+    "criteria": {
+      "has_redstone": "2025-02-08 18:21:41 +0000"
     },
     "done": true
   },
@@ -2779,6 +2876,7 @@
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "rotten_flesh": "2025-02-08 18:04:17 +0000",
+      "glow_berries": "2025-02-08 18:21:53 +0000",
       "golden_carrot": "2025-02-08 17:47:52 +0000"
     },
     "done": false
@@ -2912,6 +3010,12 @@
   "minecraft:recipes/transportation/dark_oak_boat": {
     "criteria": {
       "in_water": "2025-02-08 17:56:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/piston": {
+    "criteria": {
+      "has_redstone": "2025-02-08 18:21:41 +0000"
     },
     "done": true
   },

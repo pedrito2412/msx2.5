@@ -1039,6 +1039,7 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
+      "cooked_mutton": "2025-02-08 18:16:04 +0000",
       "cooked_beef": "2025-02-08 18:07:21 +0000",
       "beef": "2025-02-08 18:11:27 +0000",
       "rotten_flesh": "2025-02-08 17:44:11 +0000",
@@ -1880,6 +1881,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/lapis_block": {
+    "criteria": {
+      "has_lapis_lazuli": "2025-02-08 18:21:55 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/raw_iron_block": {
     "criteria": {
       "has_raw_iron": "2025-02-08 18:12:37 +0000"
@@ -1904,6 +1911,12 @@
     },
     "done": true
   },
+  "tombstone:adventure/find_grave_dust": {
+    "criteria": {
+      "from_undead": "2025-02-08 18:21:16 +0000"
+    },
+    "done": true
+  },
   "ilikewood:recipes/tools/iron_crimson_axe": {
     "criteria": {
       "has_material": "2025-02-08 18:14:35 +0000"
@@ -1913,6 +1926,12 @@
   "minecraft:recipes/combat/iron_helmet": {
     "criteria": {
       "has_iron_ingot": "2025-02-08 18:14:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/andesite_stairs": {
+    "criteria": {
+      "has_andesite": "2025-02-08 18:22:11 +0000"
     },
     "done": true
   },
@@ -2042,6 +2061,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_andesite_from_andesite_stonecutting": {
+    "criteria": {
+      "has_andesite": "2025-02-08 18:22:11 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/iron_shovel": {
     "criteria": {
       "has_iron_ingot": "2025-02-08 18:14:35 +0000"
@@ -2096,6 +2121,12 @@
     },
     "done": true
   },
+  "occultism:recipes/spirit_fire/spirit_fire/otherstone": {
+    "criteria": {
+      "has_andesite": "2025-02-08 18:22:10 +0000"
+    },
+    "done": true
+  },
   "ilikewood:recipes/tools/iron_oak_axe": {
     "criteria": {
       "has_material": "2025-02-08 18:14:35 +0000"
@@ -2129,6 +2160,12 @@
   "ilikewood:recipes/tools/iron_mangrove_pickaxe": {
     "criteria": {
       "has_material": "2025-02-08 18:14:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_andesite_stairs_from_andesite_stonecutting": {
+    "criteria": {
+      "has_andesite": "2025-02-08 18:22:11 +0000"
     },
     "done": true
   },
@@ -2210,6 +2247,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/blue_dye": {
+    "criteria": {
+      "has_lapis_lazuli": "2025-02-08 18:21:55 +0000"
+    },
+    "done": true
+  },
   "ilikewood:recipes/tools/iron_jungle_axe": {
     "criteria": {
       "has_material": "2025-02-08 18:14:35 +0000"
@@ -2276,6 +2319,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/andesite_wall_from_andesite_stonecutting": {
+    "criteria": {
+      "has_andesite": "2025-02-08 18:22:11 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/smelt_iron": {
     "criteria": {
       "iron": "2025-02-08 18:14:35 +0000"
@@ -2300,6 +2349,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_andesite_slab_from_andesite_stonecutting": {
+    "criteria": {
+      "has_andesite": "2025-02-08 18:22:11 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/smithing_table": {
     "criteria": {
       "has_iron_ingot": "2025-02-08 18:14:35 +0000"
@@ -2321,6 +2376,12 @@
   "ilikewood:recipes/tools/iron_birch_axe": {
     "criteria": {
       "has_material": "2025-02-08 18:14:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/andesite_slab_from_andesite_stonecutting": {
+    "criteria": {
+      "has_andesite": "2025-02-08 18:22:11 +0000"
     },
     "done": true
   },
@@ -2372,6 +2433,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/andesite_stairs_from_andesite_stonecutting": {
+    "criteria": {
+      "has_andesite": "2025-02-08 18:22:11 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/iron_bars": {
     "criteria": {
       "has_iron_ingot": "2025-02-08 18:14:35 +0000"
@@ -2387,6 +2454,12 @@
   "ilikewood:recipes/tools/iron_crimson_pickaxe": {
     "criteria": {
       "has_material": "2025-02-08 18:14:35 +0000"
+    },
+    "done": true
+  },
+  "occultism:recipes/crushing/crushing/lapis_dust_from_gem": {
+    "criteria": {
+      "has_lapis_gem": "2025-02-08 18:21:55 +0000"
     },
     "done": true
   },
@@ -2429,6 +2502,12 @@
   "ilikewood:recipes/tools/immersiveengineering_iron_treated_wood_axe": {
     "criteria": {
       "has_material": "2025-02-08 18:14:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_andesite": {
+    "criteria": {
+      "has_andesite": "2025-02-08 18:22:11 +0000"
     },
     "done": true
   },
@@ -2507,6 +2586,18 @@
   "ilikewood:recipes/tools/iron_cherry_axe": {
     "criteria": {
       "has_material": "2025-02-08 18:14:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/andesite_wall": {
+    "criteria": {
+      "has_andesite": "2025-02-08 18:22:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/andesite_slab": {
+    "criteria": {
+      "has_andesite": "2025-02-08 18:22:11 +0000"
     },
     "done": true
   },
