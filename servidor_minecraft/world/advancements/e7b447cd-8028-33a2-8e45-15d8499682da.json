@@ -103,6 +103,7 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:skeleton": "2025-02-08 18:01:57 +0000",
+      "minecraft:spider": "2025-02-08 19:26:02 +0000",
       "minecraft:creeper": "2025-02-08 18:10:40 +0000",
       "minecraft:husk": "2025-02-08 17:43:36 +0000",
       "minecraft:silverfish": "2025-02-08 17:57:57 +0000",
@@ -124,6 +125,7 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
+      "cooked_mutton": "2025-02-08 19:35:39 +0000",
       "apple": "2025-02-08 17:41:05 +0000",
       "rotten_flesh": "2025-02-08 18:02:54 +0000",
       "golden_carrot": "2025-02-08 17:45:29 +0000"
@@ -3295,6 +3297,48 @@
   "minecraft:recipes/building_blocks/polished_granite": {
     "criteria": {
       "has_granite": "2025-02-08 18:16:09 +0000"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/crafting/shield": {
+    "criteria": {
+      "has_shield": "2025-02-08 19:26:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_chicken_from_campfire_cooking": {
+    "criteria": {
+      "has_chicken": "2025-02-08 21:39:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_porkchop": {
+    "criteria": {
+      "has_porkchop": "2025-02-08 21:40:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_chicken_from_smoking": {
+    "criteria": {
+      "has_chicken": "2025-02-08 21:39:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_porkchop_from_smoking": {
+    "criteria": {
+      "has_porkchop": "2025-02-08 21:40:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_chicken": {
+    "criteria": {
+      "has_chicken": "2025-02-08 21:39:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_porkchop_from_campfire_cooking": {
+    "criteria": {
+      "has_porkchop": "2025-02-08 21:40:45 +0000"
     },
     "done": true
   },

@@ -185,4 +185,14 @@
 
 #Allows to enable some features related to others mods
 [compatibility]
-	#Allows to auto-equip the slots from Curio mod [false/true|default
+	#Allows to auto-equip the slots from Curio mod [false/true|default:true]
+	curio_auto_equip = true
+	#Allows to provide a default support for bundle in Curio mod [false/true|default:true]
+	curio_bundle_support = true
+	#Allows to provide a magic book slot in Curio mod used to enchant with a soul [false/true|default:true]
+	curio_magic_book_support = true
+	#Keeps the cosmetic armor when you die [false/true|default:true]
+	keep_cosmetic_armor = true
+	#Ensure the potion effects to stay on the player after returning from end conquered [false/true|default:true]
+	preserve_effects_on_return_end_conquered = true
+

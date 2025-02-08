@@ -43,9 +43,12 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:birch_forest": "2025-02-08 21:40:35 +0000",
       "minecraft:windswept_hills": "2025-02-08 17:45:43 +0000",
+      "minecraft:river": "2025-02-08 21:38:55 +0000",
       "minecraft:swamp": "2025-02-08 04:19:10 +0000",
       "minecraft:forest": "2025-02-08 04:18:20 +0000",
+      "minecraft:windswept_savanna": "2025-02-08 21:38:20 +0000",
       "minecraft:plains": "2025-02-08 18:02:48 +0000"
     },
     "done": false
@@ -1015,6 +1018,7 @@
       "minecraft:skeleton": "2025-02-08 18:07:25 +0000",
       "minecraft:creeper": "2025-02-08 17:53:40 +0000",
       "minecraft:witch": "2025-02-08 18:03:03 +0000",
+      "minecraft:silverfish": "2025-02-08 21:40:57 +0000",
       "minecraft:zombie": "2025-02-08 17:44:06 +0000"
     },
     "done": false
@@ -1851,6 +1855,96 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/granite_slab_from_granite_stonecutting": {
+    "criteria": {
+      "has_granite": "2025-02-08 18:12:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/granite_wall_from_granite_stonecutting": {
+    "criteria": {
+      "has_granite": "2025-02-08 18:12:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_granite_from_granite_stonecutting": {
+    "criteria": {
+      "has_granite": "2025-02-08 18:12:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/granite_slab": {
+    "criteria": {
+      "has_granite": "2025-02-08 18:12:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/granite_stairs": {
+    "criteria": {
+      "has_granite": "2025-02-08 18:12:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/granite_stairs_from_granite_stonecutting": {
+    "criteria": {
+      "has_granite": "2025-02-08 18:12:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/granite_wall": {
+    "criteria": {
+      "has_granite": "2025-02-08 18:12:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_granite_slab_from_granite_stonecutting": {
+    "criteria": {
+      "has_granite": "2025-02-08 18:12:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_granite_stairs_from_granite_stonecutting": {
+    "criteria": {
+      "has_granite": "2025-02-08 18:12:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_granite": {
+    "criteria": {
+      "has_granite": "2025-02-08 18:12:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/raw_iron_block": {
+    "criteria": {
+      "has_raw_iron": "2025-02-08 18:12:37 +0000"
+    },
+    "done": true
+  },
+  "occultism:recipes/crushing/crushing/iron_dust_from_raw": {
+    "criteria": {
+      "has_raw_iron": "2025-02-08 18:12:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_ingot_from_blasting_raw_iron": {
+    "criteria": {
+      "has_raw_iron": "2025-02-08 18:12:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_ingot_from_smelting_raw_iron": {
+    "criteria": {
+      "has_raw_iron": "2025-02-08 18:12:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/smoker": {
+    "criteria": {
+      "has_furnace": "2025-02-08 18:13:53 +0000"
+    },
+    "done": true
+  },
   "ilikewood:recipes/combat/iron_dark_oak_sword": {
     "criteria": {
       "has_material": "2025-02-08 18:14:35 +0000"
@@ -1881,18 +1975,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/lapis_block": {
-    "criteria": {
-      "has_lapis_lazuli": "2025-02-08 18:21:55 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/raw_iron_block": {
-    "criteria": {
-      "has_raw_iron": "2025-02-08 18:12:37 +0000"
-    },
-    "done": true
-  },
   "ilikewood:recipes/tools/iron_oak_shovel": {
     "criteria": {
       "has_material": "2025-02-08 18:14:35 +0000"
@@ -1911,12 +1993,6 @@
     },
     "done": true
   },
-  "tombstone:adventure/find_grave_dust": {
-    "criteria": {
-      "from_undead": "2025-02-08 18:21:16 +0000"
-    },
-    "done": true
-  },
   "ilikewood:recipes/tools/iron_crimson_axe": {
     "criteria": {
       "has_material": "2025-02-08 18:14:35 +0000"
@@ -1926,18 +2002,6 @@
   "minecraft:recipes/combat/iron_helmet": {
     "criteria": {
       "has_iron_ingot": "2025-02-08 18:14:35 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/andesite_stairs": {
-    "criteria": {
-      "has_andesite": "2025-02-08 18:22:11 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/granite_slab_from_granite_stonecutting": {
-    "criteria": {
-      "has_granite": "2025-02-08 18:12:25 +0000"
     },
     "done": true
   },
@@ -1965,12 +2029,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/granite_wall_from_granite_stonecutting": {
-    "criteria": {
-      "has_granite": "2025-02-08 18:12:25 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/iron_block": {
     "criteria": {
       "has_iron_ingot": "2025-02-08 18:14:35 +0000"
@@ -1986,18 +2044,6 @@
   "ilikewood:recipes/tools/iron_spruce_shovel": {
     "criteria": {
       "has_material": "2025-02-08 18:14:35 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/polished_granite_from_granite_stonecutting": {
-    "criteria": {
-      "has_granite": "2025-02-08 18:12:25 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/granite_slab": {
-    "criteria": {
-      "has_granite": "2025-02-08 18:12:25 +0000"
     },
     "done": true
   },
@@ -2019,27 +2065,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/granite_stairs": {
-    "criteria": {
-      "has_granite": "2025-02-08 18:12:25 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/combat/iron_boots": {
     "criteria": {
       "has_iron_ingot": "2025-02-08 18:14:35 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/granite_stairs_from_granite_stonecutting": {
-    "criteria": {
-      "has_granite": "2025-02-08 18:12:25 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/granite_wall": {
-    "criteria": {
-      "has_granite": "2025-02-08 18:12:25 +0000"
     },
     "done": true
   },
@@ -2055,27 +2083,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/polished_granite_slab_from_granite_stonecutting": {
-    "criteria": {
-      "has_granite": "2025-02-08 18:12:25 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/polished_andesite_from_andesite_stonecutting": {
-    "criteria": {
-      "has_andesite": "2025-02-08 18:22:11 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/tools/iron_shovel": {
     "criteria": {
       "has_iron_ingot": "2025-02-08 18:14:35 +0000"
-    },
-    "done": true
-  },
-  "occultism:recipes/crushing/crushing/iron_dust_from_raw": {
-    "criteria": {
-      "has_raw_iron": "2025-02-08 18:12:37 +0000"
     },
     "done": true
   },
@@ -2121,12 +2131,6 @@
     },
     "done": true
   },
-  "occultism:recipes/spirit_fire/spirit_fire/otherstone": {
-    "criteria": {
-      "has_andesite": "2025-02-08 18:22:10 +0000"
-    },
-    "done": true
-  },
   "ilikewood:recipes/tools/iron_oak_axe": {
     "criteria": {
       "has_material": "2025-02-08 18:14:35 +0000"
@@ -2145,12 +2149,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/iron_ingot_from_blasting_raw_iron": {
-    "criteria": {
-      "has_raw_iron": "2025-02-08 18:12:37 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/combat/crossbow": {
     "criteria": {
       "has_iron_ingot": "2025-02-08 18:14:35 +0000"
@@ -2163,21 +2161,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/polished_andesite_stairs_from_andesite_stonecutting": {
-    "criteria": {
-      "has_andesite": "2025-02-08 18:22:11 +0000"
-    },
-    "done": true
-  },
   "immersiveengineering:recipes/misc/crafting/connector_hv_relay": {
     "criteria": {
       "has_aluminum_ingot": "2025-02-08 18:14:35 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/polished_granite_stairs_from_granite_stonecutting": {
-    "criteria": {
-      "has_granite": "2025-02-08 18:12:25 +0000"
     },
     "done": true
   },
@@ -2235,21 +2221,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/iron_nugget_from_smelting": {
-    "criteria": {
-      "has_iron_pickaxe": "2025-02-08 18:14:40 +0000"
-    },
-    "done": true
-  },
   "ilikewood:recipes/tools/immersiveengineering_iron_treated_wood_hoe": {
     "criteria": {
       "has_material": "2025-02-08 18:14:35 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/blue_dye": {
-    "criteria": {
-      "has_lapis_lazuli": "2025-02-08 18:21:55 +0000"
     },
     "done": true
   },
@@ -2262,12 +2236,6 @@
   "ilikewood:recipes/combat/iron_bamboo_sword": {
     "criteria": {
       "has_material": "2025-02-08 18:14:35 +0000"
-    },
-    "done": true
-  },
-  "minecraft:story/iron_tools": {
-    "criteria": {
-      "iron_pickaxe": "2025-02-08 18:14:40 +0000"
     },
     "done": true
   },
@@ -2319,21 +2287,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/andesite_wall_from_andesite_stonecutting": {
-    "criteria": {
-      "has_andesite": "2025-02-08 18:22:11 +0000"
-    },
-    "done": true
-  },
   "minecraft:story/smelt_iron": {
     "criteria": {
       "iron": "2025-02-08 18:14:35 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/smoker": {
-    "criteria": {
-      "has_furnace": "2025-02-08 18:13:53 +0000"
     },
     "done": true
   },
@@ -2346,12 +2302,6 @@
   "ilikewood:recipes/tools/iron_spruce_pickaxe": {
     "criteria": {
       "has_material": "2025-02-08 18:14:35 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/polished_andesite_slab_from_andesite_stonecutting": {
-    "criteria": {
-      "has_andesite": "2025-02-08 18:22:11 +0000"
     },
     "done": true
   },
@@ -2376,12 +2326,6 @@
   "ilikewood:recipes/tools/iron_birch_axe": {
     "criteria": {
       "has_material": "2025-02-08 18:14:35 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/andesite_slab_from_andesite_stonecutting": {
-    "criteria": {
-      "has_andesite": "2025-02-08 18:22:11 +0000"
     },
     "done": true
   },
@@ -2433,12 +2377,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/andesite_stairs_from_andesite_stonecutting": {
-    "criteria": {
-      "has_andesite": "2025-02-08 18:22:11 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/iron_bars": {
     "criteria": {
       "has_iron_ingot": "2025-02-08 18:14:35 +0000"
@@ -2454,18 +2392,6 @@
   "ilikewood:recipes/tools/iron_crimson_pickaxe": {
     "criteria": {
       "has_material": "2025-02-08 18:14:35 +0000"
-    },
-    "done": true
-  },
-  "occultism:recipes/crushing/crushing/lapis_dust_from_gem": {
-    "criteria": {
-      "has_lapis_gem": "2025-02-08 18:21:55 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/iron_ingot_from_smelting_raw_iron": {
-    "criteria": {
-      "has_raw_iron": "2025-02-08 18:12:37 +0000"
     },
     "done": true
   },
@@ -2505,12 +2431,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/polished_andesite": {
-    "criteria": {
-      "has_andesite": "2025-02-08 18:22:11 +0000"
-    },
-    "done": true
-  },
   "ilikewood:recipes/combat/iron_birch_sword": {
     "criteria": {
       "has_material": "2025-02-08 18:14:35 +0000"
@@ -2526,12 +2446,6 @@
   "ilikewood:recipes/tools/iron_bamboo_hoe": {
     "criteria": {
       "has_material": "2025-02-08 18:14:35 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/polished_granite": {
-    "criteria": {
-      "has_granite": "2025-02-08 18:12:25 +0000"
     },
     "done": true
   },
@@ -2571,12 +2485,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/iron_nugget_from_blasting": {
-    "criteria": {
-      "has_iron_pickaxe": "2025-02-08 18:14:40 +0000"
-    },
-    "done": true
-  },
   "immersiveengineering:recipes/misc/crafting/wirecutter": {
     "criteria": {
       "has_iron_ingot": "2025-02-08 18:14:35 +0000"
@@ -2586,18 +2494,6 @@
   "ilikewood:recipes/tools/iron_cherry_axe": {
     "criteria": {
       "has_material": "2025-02-08 18:14:35 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/andesite_wall": {
-    "criteria": {
-      "has_andesite": "2025-02-08 18:22:11 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/andesite_slab": {
-    "criteria": {
-      "has_andesite": "2025-02-08 18:22:11 +0000"
     },
     "done": true
   },
@@ -2628,6 +2524,564 @@
   "ilikewood:recipes/tools/iron_crimson_shovel": {
     "criteria": {
       "has_material": "2025-02-08 18:14:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_nugget_from_smelting": {
+    "criteria": {
+      "has_iron_pickaxe": "2025-02-08 18:14:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/iron_tools": {
+    "criteria": {
+      "iron_pickaxe": "2025-02-08 18:14:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_nugget_from_blasting": {
+    "criteria": {
+      "has_iron_pickaxe": "2025-02-08 18:14:40 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/find_grave_dust": {
+    "criteria": {
+      "from_undead": "2025-02-08 18:21:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/lapis_block": {
+    "criteria": {
+      "has_lapis_lazuli": "2025-02-08 18:21:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/blue_dye": {
+    "criteria": {
+      "has_lapis_lazuli": "2025-02-08 18:21:55 +0000"
+    },
+    "done": true
+  },
+  "occultism:recipes/crushing/crushing/lapis_dust_from_gem": {
+    "criteria": {
+      "has_lapis_gem": "2025-02-08 18:21:55 +0000"
+    },
+    "done": true
+  },
+  "occultism:recipes/spirit_fire/spirit_fire/otherstone": {
+    "criteria": {
+      "has_andesite": "2025-02-08 18:22:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/andesite_stairs": {
+    "criteria": {
+      "has_andesite": "2025-02-08 18:22:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_andesite_from_andesite_stonecutting": {
+    "criteria": {
+      "has_andesite": "2025-02-08 18:22:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_andesite_stairs_from_andesite_stonecutting": {
+    "criteria": {
+      "has_andesite": "2025-02-08 18:22:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/andesite_wall_from_andesite_stonecutting": {
+    "criteria": {
+      "has_andesite": "2025-02-08 18:22:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_andesite_slab_from_andesite_stonecutting": {
+    "criteria": {
+      "has_andesite": "2025-02-08 18:22:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/andesite_slab_from_andesite_stonecutting": {
+    "criteria": {
+      "has_andesite": "2025-02-08 18:22:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/andesite_stairs_from_andesite_stonecutting": {
+    "criteria": {
+      "has_andesite": "2025-02-08 18:22:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_andesite": {
+    "criteria": {
+      "has_andesite": "2025-02-08 18:22:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/andesite_wall": {
+    "criteria": {
+      "has_andesite": "2025-02-08 18:22:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/andesite_slab": {
+    "criteria": {
+      "has_andesite": "2025-02-08 18:22:11 +0000"
+    },
+    "done": true
+  },
+  "ilikewood:recipes/tools/diamond_spruce_shovel": {
+    "criteria": {
+      "has_material": "2025-02-08 21:46:36 +0000"
+    },
+    "done": true
+  },
+  "ilikewood:recipes/tools/diamond_cherry_axe": {
+    "criteria": {
+      "has_material": "2025-02-08 21:46:36 +0000"
+    },
+    "done": true
+  },
+  "ilikewood:recipes/tools/diamond_oak_shovel": {
+    "criteria": {
+      "has_material": "2025-02-08 21:46:36 +0000"
+    },
+    "done": true
+  },
+  "ilikewood:recipes/tools/diamond_birch_hoe": {
+    "criteria": {
+      "has_material": "2025-02-08 21:46:36 +0000"
+    },
+    "done": true
+  },
+  "ilikewood:recipes/tools/diamond_bamboo_pickaxe": {
+    "criteria": {
+      "has_material": "2025-02-08 21:46:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/diamond_sword": {
+    "criteria": {
+      "has_diamond": "2025-02-08 21:46:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/jukebox": {
+    "criteria": {
+      "has_diamond": "2025-02-08 21:46:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/diamond_chestplate": {
+    "criteria": {
+      "has_diamond": "2025-02-08 21:46:36 +0000"
+    },
+    "done": true
+  },
+  "ilikewood:recipes/tools/diamond_jungle_shovel": {
+    "criteria": {
+      "has_material": "2025-02-08 21:46:36 +0000"
+    },
+    "done": true
+  },
+  "ilikewood:recipes/combat/diamond_warped_sword": {
+    "criteria": {
+      "has_material": "2025-02-08 21:46:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/cyan_dye_from_pitcher_plant": {
+    "criteria": {
+      "has_pitcher_plant": "2025-02-08 21:42:30 +0000"
+    },
+    "done": true
+  },
+  "ilikewood:recipes/combat/immersiveengineering_diamond_treated_wood_sword": {
+    "criteria": {
+      "has_material": "2025-02-08 21:46:36 +0000"
+    },
+    "done": true
+  },
+  "ilikewood:recipes/tools/diamond_warped_axe": {
+    "criteria": {
+      "has_material": "2025-02-08 21:46:36 +0000"
+    },
+    "done": true
+  },
+  "ilikewood:recipes/combat/diamond_crimson_sword": {
+    "criteria": {
+      "has_material": "2025-02-08 21:46:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/diamond_pickaxe": {
+    "criteria": {
+      "has_diamond": "2025-02-08 21:46:36 +0000"
+    },
+    "done": true
+  },
+  "ilikewood:recipes/tools/diamond_mangrove_shovel": {
+    "criteria": {
+      "has_material": "2025-02-08 21:46:36 +0000"
+    },
+    "done": true
+  },
+  "ilikewood:recipes/combat/diamond_bamboo_sword": {
+    "criteria": {
+      "has_material": "2025-02-08 21:46:36 +0000"
+    },
+    "done": true
+  },
+  "ilikewood:recipes/tools/diamond_warped_shovel": {
+    "criteria": {
+      "has_material": "2025-02-08 21:46:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/diamond_hoe": {
+    "criteria": {
+      "has_diamond": "2025-02-08 21:46:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/diamond_shovel": {
+    "criteria": {
+      "has_diamond": "2025-02-08 21:46:36 +0000"
+    },
+    "done": true
+  },
+  "ilikewood:recipes/tools/diamond_bamboo_axe": {
+    "criteria": {
+      "has_material": "2025-02-08 21:46:36 +0000"
+    },
+    "done": true
+  },
+  "ilikewood:recipes/tools/diamond_cherry_pickaxe": {
+    "criteria": {
+      "has_material": "2025-02-08 21:46:36 +0000"
+    },
+    "done": true
+  },
+  "ilikewood:recipes/tools/diamond_jungle_hoe": {
+    "criteria": {
+      "has_material": "2025-02-08 21:46:36 +0000"
+    },
+    "done": true
+  },
+  "ilikewood:recipes/tools/diamond_dark_oak_pickaxe": {
+    "criteria": {
+      "has_material": "2025-02-08 21:46:36 +0000"
+    },
+    "done": true
+  },
+  "ilikewood:recipes/tools/diamond_acacia_shovel": {
+    "criteria": {
+      "has_material": "2025-02-08 21:46:36 +0000"
+    },
+    "done": true
+  },
+  "ilikewood:recipes/tools/diamond_birch_axe": {
+    "criteria": {
+      "has_material": "2025-02-08 21:46:36 +0000"
+    },
+    "done": true
+  },
+  "ilikewood:recipes/tools/diamond_dark_oak_axe": {
+    "criteria": {
+      "has_material": "2025-02-08 21:46:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/diamond_helmet": {
+    "criteria": {
+      "has_diamond": "2025-02-08 21:46:36 +0000"
+    },
+    "done": true
+  },
+  "ilikewood:recipes/tools/diamond_crimson_hoe": {
+    "criteria": {
+      "has_material": "2025-02-08 21:46:36 +0000"
+    },
+    "done": true
+  },
+  "ilikewood:recipes/tools/immersiveengineering_diamond_treated_wood_pickaxe": {
+    "criteria": {
+      "has_material": "2025-02-08 21:46:36 +0000"
+    },
+    "done": true
+  },
+  "ilikewood:recipes/tools/diamond_bamboo_shovel": {
+    "criteria": {
+      "has_material": "2025-02-08 21:46:36 +0000"
+    },
+    "done": true
+  },
+  "ilikewood:recipes/tools/diamond_spruce_hoe": {
+    "criteria": {
+      "has_material": "2025-02-08 21:46:36 +0000"
+    },
+    "done": true
+  },
+  "ilikewood:recipes/tools/diamond_bamboo_hoe": {
+    "criteria": {
+      "has_material": "2025-02-08 21:46:36 +0000"
+    },
+    "done": true
+  },
+  "ilikewood:recipes/combat/diamond_jungle_sword": {
+    "criteria": {
+      "has_material": "2025-02-08 21:46:36 +0000"
+    },
+    "done": true
+  },
+  "ilikewood:recipes/combat/diamond_mangrove_sword": {
+    "criteria": {
+      "has_material": "2025-02-08 21:46:36 +0000"
+    },
+    "done": true
+  },
+  "ilikewood:recipes/combat/diamond_birch_sword": {
+    "criteria": {
+      "has_material": "2025-02-08 21:46:36 +0000"
+    },
+    "done": true
+  },
+  "ilikewood:recipes/tools/diamond_crimson_pickaxe": {
+    "criteria": {
+      "has_material": "2025-02-08 21:46:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/diamond_block": {
+    "criteria": {
+      "has_diamond": "2025-02-08 21:46:36 +0000"
+    },
+    "done": true
+  },
+  "ilikewood:recipes/tools/diamond_acacia_pickaxe": {
+    "criteria": {
+      "has_material": "2025-02-08 21:46:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/mine_diamond": {
+    "criteria": {
+      "diamond": "2025-02-08 21:46:36 +0000"
+    },
+    "done": true
+  },
+  "ilikewood:recipes/tools/diamond_jungle_axe": {
+    "criteria": {
+      "has_material": "2025-02-08 21:46:36 +0000"
+    },
+    "done": true
+  },
+  "ilikewood:recipes/tools/diamond_mangrove_axe": {
+    "criteria": {
+      "has_material": "2025-02-08 21:46:36 +0000"
+    },
+    "done": true
+  },
+  "ilikewood:recipes/tools/diamond_dark_oak_shovel": {
+    "criteria": {
+      "has_material": "2025-02-08 21:46:36 +0000"
+    },
+    "done": true
+  },
+  "ilikewood:recipes/tools/diamond_dark_oak_hoe": {
+    "criteria": {
+      "has_material": "2025-02-08 21:46:36 +0000"
+    },
+    "done": true
+  },
+  "ilikewood:recipes/tools/diamond_mangrove_hoe": {
+    "criteria": {
+      "has_material": "2025-02-08 21:46:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/diamond_leggings": {
+    "criteria": {
+      "has_diamond": "2025-02-08 21:46:36 +0000"
+    },
+    "done": true
+  },
+  "ilikewood:recipes/tools/diamond_oak_axe": {
+    "criteria": {
+      "has_material": "2025-02-08 21:46:36 +0000"
+    },
+    "done": true
+  },
+  "ilikewood:recipes/tools/diamond_spruce_pickaxe": {
+    "criteria": {
+      "has_material": "2025-02-08 21:46:36 +0000"
+    },
+    "done": true
+  },
+  "ilikewood:recipes/tools/diamond_birch_pickaxe": {
+    "criteria": {
+      "has_material": "2025-02-08 21:46:36 +0000"
+    },
+    "done": true
+  },
+  "ilikewood:recipes/tools/diamond_crimson_axe": {
+    "criteria": {
+      "has_material": "2025-02-08 21:46:36 +0000"
+    },
+    "done": true
+  },
+  "ilikewood:recipes/tools/diamond_mangrove_pickaxe": {
+    "criteria": {
+      "has_material": "2025-02-08 21:46:36 +0000"
+    },
+    "done": true
+  },
+  "ilikewood:recipes/tools/immersiveengineering_diamond_treated_wood_hoe": {
+    "criteria": {
+      "has_material": "2025-02-08 21:46:36 +0000"
+    },
+    "done": true
+  },
+  "ilikewood:recipes/tools/diamond_warped_pickaxe": {
+    "criteria": {
+      "has_material": "2025-02-08 21:46:36 +0000"
+    },
+    "done": true
+  },
+  "ilikewood:recipes/tools/diamond_jungle_pickaxe": {
+    "criteria": {
+      "has_material": "2025-02-08 21:46:36 +0000"
+    },
+    "done": true
+  },
+  "ilikewood:recipes/combat/diamond_spruce_sword": {
+    "criteria": {
+      "has_material": "2025-02-08 21:46:36 +0000"
+    },
+    "done": true
+  },
+  "ilikewood:recipes/tools/diamond_cherry_shovel": {
+    "criteria": {
+      "has_material": "2025-02-08 21:46:36 +0000"
+    },
+    "done": true
+  },
+  "ilikewood:recipes/tools/diamond_spruce_axe": {
+    "criteria": {
+      "has_material": "2025-02-08 21:46:36 +0000"
+    },
+    "done": true
+  },
+  "ilikewood:recipes/tools/diamond_acacia_axe": {
+    "criteria": {
+      "has_material": "2025-02-08 21:46:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/diamond_boots": {
+    "criteria": {
+      "has_diamond": "2025-02-08 21:46:36 +0000"
+    },
+    "done": true
+  },
+  "ilikewood:recipes/tools/diamond_oak_hoe": {
+    "criteria": {
+      "has_material": "2025-02-08 21:46:36 +0000"
+    },
+    "done": true
+  },
+  "occultism:recipes/crushing/crushing/diamond_dust_from_gem": {
+    "criteria": {
+      "has_diamond_gem": "2025-02-08 21:46:36 +0000"
+    },
+    "done": true
+  },
+  "ilikewood:recipes/combat/diamond_cherry_sword": {
+    "criteria": {
+      "has_material": "2025-02-08 21:46:36 +0000"
+    },
+    "done": true
+  },
+  "occultism:recipes/spirit_fire/spirit_fire/spirit_attuned_gem": {
+    "criteria": {
+      "has_diamond": "2025-02-08 21:46:36 +0000"
+    },
+    "done": true
+  },
+  "ilikewood:recipes/combat/diamond_dark_oak_sword": {
+    "criteria": {
+      "has_material": "2025-02-08 21:46:36 +0000"
+    },
+    "done": true
+  },
+  "ilikewood:recipes/tools/diamond_cherry_hoe": {
+    "criteria": {
+      "has_material": "2025-02-08 21:46:36 +0000"
+    },
+    "done": true
+  },
+  "ilikewood:recipes/combat/diamond_oak_sword": {
+    "criteria": {
+      "has_material": "2025-02-08 21:46:36 +0000"
+    },
+    "done": true
+  },
+  "ilikewood:recipes/tools/diamond_crimson_shovel": {
+    "criteria": {
+      "has_material": "2025-02-08 21:46:36 +0000"
+    },
+    "done": true
+  },
+  "ilikewood:recipes/tools/immersiveengineering_diamond_treated_wood_axe": {
+    "criteria": {
+      "has_material": "2025-02-08 21:46:36 +0000"
+    },
+    "done": true
+  },
+  "ilikewood:recipes/tools/diamond_birch_shovel": {
+    "criteria": {
+      "has_material": "2025-02-08 21:46:36 +0000"
+    },
+    "done": true
+  },
+  "ilikewood:recipes/tools/diamond_warped_hoe": {
+    "criteria": {
+      "has_material": "2025-02-08 21:46:36 +0000"
+    },
+    "done": true
+  },
+  "ilikewood:recipes/tools/diamond_oak_pickaxe": {
+    "criteria": {
+      "has_material": "2025-02-08 21:46:36 +0000"
+    },
+    "done": true
+  },
+  "ilikewood:recipes/tools/immersiveengineering_diamond_treated_wood_shovel": {
+    "criteria": {
+      "has_material": "2025-02-08 21:46:36 +0000"
+    },
+    "done": true
+  },
+  "ilikewood:recipes/tools/diamond_acacia_hoe": {
+    "criteria": {
+      "has_material": "2025-02-08 21:46:36 +0000"
+    },
+    "done": true
+  },
+  "ilikewood:recipes/combat/diamond_acacia_sword": {
+    "criteria": {
+      "has_material": "2025-02-08 21:46:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/diamond_axe": {
+    "criteria": {
+      "has_diamond": "2025-02-08 21:46:36 +0000"
     },
     "done": true
   },
