@@ -43,8 +43,11 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:birch_forest": "2025-02-08 21:52:03 +0000",
+      "minecraft:river": "2025-02-08 21:51:51 +0000",
       "minecraft:swamp": "2025-02-08 04:16:31 +0000",
       "minecraft:forest": "2025-02-08 04:06:14 +0000",
+      "minecraft:windswept_savanna": "2025-02-08 21:53:47 +0000",
       "minecraft:plains": "2025-02-08 18:01:38 +0000"
     },
     "done": false
@@ -1099,7 +1102,8 @@
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "chicken": "2025-02-08 17:52:30 +0000",
-      "cooked_beef": "2025-02-08 18:02:12 +0000"
+      "cooked_beef": "2025-02-08 18:02:12 +0000",
+      "cooked_chicken": "2025-02-08 21:49:06 +0000"
     },
     "done": false
   },
@@ -1370,6 +1374,60 @@
   "occultism:recipes/crushing/crushing/silver_dust_from_raw": {
     "criteria": {
       "has_raw_silver": "2025-02-08 18:05:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/sleep_in_bed": {
+    "criteria": {
+      "slept_in_bed": "2025-02-08 21:49:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/mahogany/polished_mahogany_pillar_from_mahogany_wood_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-02-08 21:50:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/mahogany/mahogany_connected_from_mahogany_wood_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-02-08 21:50:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/mahogany/stripped_mahogany_wood_from_mahogany_wood_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-02-08 21:50:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/mahogany/polished_mahogany_planks_from_mahogany_wood_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-02-08 21:50:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/mahogany/polished_mahogany_layered_from_mahogany_wood_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-02-08 21:50:51 +0000"
+    },
+    "done": true
+  },
+  "the_bumblezone:teleportation/is_near_beehive": {
+    "criteria": {
+      "is_near_beehive": "2025-02-08 21:48:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/mahogany/mahogany_planks_from_mahogany_wood_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-02-08 21:50:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/mahogany/polished_mahogany_connected_from_mahogany_wood_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-02-08 21:50:51 +0000"
     },
     "done": true
   },

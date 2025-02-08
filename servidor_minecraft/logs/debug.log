@@ -4220,3 +4220,25 @@ java.lang.Throwable: null
 [08Feb2025 21:47:04.054] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [08Feb2025 21:48:32.161] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 0 air
 [08Feb2025 21:49:59.666] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: pedrito2412 has made the advancement [Sweet Dreams]
+[08Feb2025 21:50:11.904] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: takeshi_810 has made the advancement [Suit Up]
+[08Feb2025 21:50:23.102] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2019ms or 40 ticks behind
+[08Feb2025 21:50:42.721] [Worker-Main-15/WARN] [lithostitched/]: Template pool fallback chain found: hopo:underwater_city -> hopo:underwater_city
+[08Feb2025 21:50:42.722] [Worker-Main-15/WARN] [lithostitched/]: Template pool fallback chain found: hopo:mobs/skeleton -> hopo:mobs/skeleton
+[08Feb2025 21:50:46.024] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 0 air
+[08Feb2025 21:52:06.003] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[08Feb2025 21:52:06.028] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[08Feb2025 21:52:56.415] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: pedrito2412 was slain by Hollow Soldier
+[08Feb2025 21:52:56.417] [Server thread/DEBUG] [tombstone/]: A new grave of the player pedrito2412 was created at position [x:517, y:64, z:-106, dim:minecraft:overworld]
+[08Feb2025 21:52:56.432] [Server thread/INFO] [tombstone/]: The player pedrito2412 has successfully been saved
+[08Feb2025 21:55:33.449] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: takeshi_810 has made the advancement [Not Today, Thank You]
+[08Feb2025 21:56:12.099] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: takeshi_810 was shot by Skeleton
+[08Feb2025 21:56:12.102] [Server thread/DEBUG] [tombstone/]: A new grave of the player takeshi_810 was created at position [x:-192, y:69, z:-33, dim:minecraft:overworld]
+[08Feb2025 21:56:12.116] [Server thread/INFO] [tombstone/]: The player takeshi_810 has successfully been saved
+[08Feb2025 21:57:06.099] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[08Feb2025 21:57:06.129] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[08Feb2025 21:57:21.847] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 0 air
+[08Feb2025 21:57:30.303] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: takeshi_810 was killed whilst fighting Leech
+[08Feb2025 21:57:30.306] [Server thread/DEBUG] [tombstone/]: A new grave of the player takeshi_810 was created at position [x:-196, y:62, z:-25, dim:minecraft:overworld]
+[08Feb2025 21:57:30.313] [Server thread/INFO] [tombstone/]: The player takeshi_810 has successfully been saved
+[08Feb2025 21:59:39.236] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Maicol999 has made the advancement [Ashes 'n Bones]
+[08Feb2025 22:00:01.761] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Maicol999 has made the advancement [Knowledge raises the soul]
