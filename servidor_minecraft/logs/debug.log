@@ -1720,3 +1720,51 @@ com.google.gson.JsonSyntaxException: Unknown item 'kimetsunoyaiba:deleted_mod_el
 [10Feb2025 22:18:01.766] [Server thread/INFO] [tombstone/]: The player pedrito2412 has successfully been saved
 [10Feb2025 22:18:08.540] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [pedrito2412: Set the time to 1000]
 [10Feb2025 22:18:10.039] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [pedrito2412: Teleported pedrito2412 to Nigga]
+[10Feb2025 22:18:22.436] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [pedrito2412: Summoned new Kokushibo]
+[10Feb2025 22:18:36.437] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [pedrito2412: Set the time to 13000]
+[10Feb2025 22:18:40.704] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [pedrito2412: Set the time to 13000]
+[10Feb2025 22:18:47.125] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [pedrito2412: Summoned new Kokushibo]
+[10Feb2025 22:19:00.811] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nigga died
+[10Feb2025 22:19:00.821] [Server thread/INFO] [tombstone/]: The player Nigga has successfully been saved
+[10Feb2025 22:19:17.359] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nigga died
+[10Feb2025 22:19:17.374] [Server thread/INFO] [tombstone/]: The player Nigga has successfully been saved
+[10Feb2025 22:19:29.470] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[10Feb2025 22:19:29.477] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[10Feb2025 22:19:32.668] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nigga died
+[10Feb2025 22:19:32.674] [Server thread/INFO] [tombstone/]: The player Nigga has successfully been saved
+[10Feb2025 22:19:44.660] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: pedrito2412 died
+[10Feb2025 22:19:44.670] [Server thread/INFO] [tombstone/]: The player pedrito2412 has successfully been saved
+[10Feb2025 22:19:50.142] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [pedrito2412: Teleported pedrito2412 to Nigga]
+[10Feb2025 22:19:52.373] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nigga died
+[10Feb2025 22:19:52.516] [Server thread/INFO] [tombstone/]: The player Nigga has successfully been saved
+[10Feb2025 22:19:55.928] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [pedrito2412: Set spawn point to -2718, 71, 586 [0.0] in minecraft:overworld for pedrito2412]
+[10Feb2025 22:19:59.445] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [pedrito2412: Set own game mode to Creative Mode]
+[10Feb2025 22:20:05.561] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nigga died
+[10Feb2025 22:20:05.572] [Server thread/INFO] [tombstone/]: The player Nigga has successfully been saved
+[10Feb2025 22:20:14.232] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [pedrito2412: Set own game mode to Survival Mode]
+[10Feb2025 22:20:21.109] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nigga died
+[10Feb2025 22:20:21.115] [Server thread/INFO] [tombstone/]: The player Nigga has successfully been saved
+[10Feb2025 22:20:33.566] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nigga died
+[10Feb2025 22:20:33.577] [Server thread/INFO] [tombstone/]: The player Nigga has successfully been saved
+[10Feb2025 22:20:45.327] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nigga died
+[10Feb2025 22:20:45.356] [Server thread/INFO] [tombstone/]: The player Nigga has successfully been saved
+[10Feb2025 22:21:00.610] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nigga died
+[10Feb2025 22:21:00.617] [Server thread/INFO] [tombstone/]: The player Nigga has successfully been saved
+[10Feb2025 22:21:12.926] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nigga died
+[10Feb2025 22:21:12.929] [Server thread/INFO] [tombstone/]: The player Nigga has successfully been saved
+[10Feb2025 22:21:27.067] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nigga died
+[10Feb2025 22:21:27.069] [Server thread/INFO] [tombstone/]: The player Nigga has successfully been saved
+[10Feb2025 22:21:52.520] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: pedrito2412 has reached the goal [Bloody Battle -Upper 1-]
+[10Feb2025 22:21:52.522] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: pedrito2412 has completed the challenge [Upper Rank 1]
+[10Feb2025 22:23:30.190] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [pedrito2412: Gamerule kimetsuPvP is now set to: true]
+[10Feb2025 22:24:13.797] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Nigga moved too quickly! -8.261771696882079,0.0,5.798249239282427
+[10Feb2025 22:24:14.029] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: pedrito2412 moved wrongly!
+[10Feb2025 22:24:29.441] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[10Feb2025 22:24:29.451] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[10Feb2025 22:25:47.467] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nigga died
+[10Feb2025 22:25:47.472] [Server thread/INFO] [tombstone/]: The player Nigga has successfully been saved
+[10Feb2025 22:27:28.161] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: pedrito2412 died because of Inosuke Hashibira
+[10Feb2025 22:27:28.163] [Server thread/INFO] [tombstone/]: The player pedrito2412 has successfully been saved
+[10Feb2025 22:27:35.544] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [pedrito2412: Set the time to 13000]
+[10Feb2025 22:27:36.610] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nigga died
+[10Feb2025 22:27:36.616] [Server thread/INFO] [tombstone/]: The player Nigga has successfully been saved
