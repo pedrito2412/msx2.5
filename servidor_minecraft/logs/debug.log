@@ -1536,3 +1536,187 @@ com.google.gson.JsonSyntaxException: Unknown item 'kimetsunoyaiba:deleted_mod_el
 [10Feb2025 21:54:27.369] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [10Feb2025 21:54:27.377] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [10Feb2025 21:55:27.969] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nigga has made the advancement [Demon Killer 30]
+[10Feb2025 21:59:27.195] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[10Feb2025 21:59:27.209] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[10Feb2025 21:59:56.712] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nigga has reached the goal [Hashira Training Arc -Mist-]
+[10Feb2025 21:59:56.714] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: pedrito2412 has completed the challenge [Upper Rank 4]
+[10Feb2025 22:00:27.166] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [pedrito2412: Set the time to 13000]
+[10Feb2025 22:01:29.174] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: pedrito2412 has reached the goal [Bone Crusher]
+[10Feb2025 22:01:53.419] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: pedrito2412 has completed the challenge [Upper Rank 3]
+[10Feb2025 22:02:49.219] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Nigga lost connection: Timed out
+[10Feb2025 22:02:49.220] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nigga left the game
+[10Feb2025 22:02:59.778] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: pedrito2412 died
+[10Feb2025 22:02:59.820] [Server thread/INFO] [tombstone/]: The player pedrito2412 has successfully been saved
+[10Feb2025 22:03:14.472] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [pedrito2412: Teleported pedrito2412 to -2669.500000, 83.500000, 521.500000]
+[10Feb2025 22:04:02.801] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Starting new modded impl connection. Found 26 messages to dispatch.
+[10Feb2025 22:04:02.822] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'net.minecraftforge.network.HandshakeMessages$S2CModData' to 'fml:handshake' sequence 0
+[10Feb2025 22:04:02.869] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'net.minecraftforge.network.HandshakeMessages$S2CModList' to 'fml:handshake' sequence 1
+[10Feb2025 22:04:02.912] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:command_argument_type' to 'fml:handshake' sequence 2
+[10Feb2025 22:04:02.964] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:recipe_serializer' to 'fml:handshake' sequence 3
+[10Feb2025 22:04:03.016] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:sound_event' to 'fml:handshake' sequence 4
+[10Feb2025 22:04:03.050] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 1
+[10Feb2025 22:04:03.050] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 1 of type net.minecraftforge.network.HandshakeMessages$C2SModListReply
+[10Feb2025 22:04:03.051] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client connection with modlist [minecraft, yes_steve_model, tombstone, kimetsunoyaiba, forge, tlskincape, sound_physics_remastered, jade, xaerominimap, xaeroworldmap, jei]
+[10Feb2025 22:04:03.051] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'fml:loginwrapper' : Version test of 'FML3' from client : ACCEPTED
+[10Feb2025 22:04:03.051] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'yes_steve_model:2_2_3' : Version test of '2.2.3' from client : ACCEPTED
+[10Feb2025 22:04:03.051] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'forge:tier_sorting' : Version test of '1.0' from client : ACCEPTED
+[10Feb2025 22:04:03.051] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'tombstone:tombstone_channel' : Version test of 'tombstone-8.9.0' from client : ACCEPTED
+[10Feb2025 22:04:03.051] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'jei:channel' : Version test of '1.0.0' from client : ACCEPTED
+[10Feb2025 22:04:03.051] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'minecraft:unregister' : Version test of 'FML3' from client : ACCEPTED
+[10Feb2025 22:04:03.051] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'fml:play' : Version test of 'FML3' from client : ACCEPTED
+[10Feb2025 22:04:03.051] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'xaerominimap:main' : Version test of '1.0' from client : ACCEPTED
+[10Feb2025 22:04:03.051] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'fml:handshake' : Version test of 'FML3' from client : ACCEPTED
+[10Feb2025 22:04:03.051] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'kimetsunoyaiba:kimetsunoyaiba' : Version test of '1' from client : ACCEPTED
+[10Feb2025 22:04:03.051] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'xaeroworldmap:main' : Version test of '1.0' from client : ACCEPTED
+[10Feb2025 22:04:03.051] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'minecraft:register' : Version test of 'FML3' from client : ACCEPTED
+[10Feb2025 22:04:03.051] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'forge:split' : Version test of '1.1' from client : ACCEPTED
+[10Feb2025 22:04:03.051] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'jade:networking' : Version test of '2' from client : ACCEPTED
+[10Feb2025 22:04:03.051] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Accepting channel list from client
+[10Feb2025 22:04:03.051] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Accepted client connection mod list
+[10Feb2025 22:04:03.065] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:particle_type' to 'fml:handshake' sequence 5
+[10Feb2025 22:04:03.111] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:villager_profession' to 'fml:handshake' sequence 6
+[10Feb2025 22:04:03.132] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 2
+[10Feb2025 22:04:03.132] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 2 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[10Feb2025 22:04:03.132] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[10Feb2025 22:04:03.134] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 3
+[10Feb2025 22:04:03.134] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 3 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[10Feb2025 22:04:03.134] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[10Feb2025 22:04:03.166] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:item' to 'fml:handshake' sequence 7
+[10Feb2025 22:04:03.214] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:potion' to 'fml:handshake' sequence 8
+[10Feb2025 22:04:03.261] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:painting_variant' to 'fml:handshake' sequence 9
+[10Feb2025 22:04:03.300] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 4
+[10Feb2025 22:04:03.301] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 4 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[10Feb2025 22:04:03.301] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[10Feb2025 22:04:03.301] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 5
+[10Feb2025 22:04:03.301] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 5 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[10Feb2025 22:04:03.301] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[10Feb2025 22:04:03.301] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 6
+[10Feb2025 22:04:03.301] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 6 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[10Feb2025 22:04:03.301] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[10Feb2025 22:04:03.319] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry forge:fluid_type' to 'fml:handshake' sequence 10
+[10Feb2025 22:04:03.362] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:block_entity_type' to 'fml:handshake' sequence 11
+[10Feb2025 22:04:03.395] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 7
+[10Feb2025 22:04:03.395] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 7 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[10Feb2025 22:04:03.396] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[10Feb2025 22:04:03.396] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 8
+[10Feb2025 22:04:03.396] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 8 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[10Feb2025 22:04:03.396] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[10Feb2025 22:04:03.396] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 9
+[10Feb2025 22:04:03.396] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 9 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[10Feb2025 22:04:03.396] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[10Feb2025 22:04:03.415] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry forge:display_contexts' to 'fml:handshake' sequence 12
+[10Feb2025 22:04:03.453] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 10
+[10Feb2025 22:04:03.453] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 10 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[10Feb2025 22:04:03.453] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[10Feb2025 22:04:03.463] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:block' to 'fml:handshake' sequence 13
+[10Feb2025 22:04:03.496] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 11
+[10Feb2025 22:04:03.496] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 11 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[10Feb2025 22:04:03.496] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[10Feb2025 22:04:03.513] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry forge:entity_data_serializers' to 'fml:handshake' sequence 14
+[10Feb2025 22:04:03.551] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 12
+[10Feb2025 22:04:03.551] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 12 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[10Feb2025 22:04:03.551] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[10Feb2025 22:04:03.566] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:mob_effect' to 'fml:handshake' sequence 15
+[10Feb2025 22:04:03.600] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 13
+[10Feb2025 22:04:03.600] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 13 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[10Feb2025 22:04:03.600] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[10Feb2025 22:04:03.613] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:stat_type' to 'fml:handshake' sequence 16
+[10Feb2025 22:04:03.647] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 14
+[10Feb2025 22:04:03.647] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 14 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[10Feb2025 22:04:03.647] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[10Feb2025 22:04:03.675] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry tombstone:perks' to 'fml:handshake' sequence 17
+[10Feb2025 22:04:03.736] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:menu' to 'fml:handshake' sequence 18
+[10Feb2025 22:04:03.738] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 15
+[10Feb2025 22:04:03.738] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 15 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[10Feb2025 22:04:03.738] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[10Feb2025 22:04:03.751] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 16
+[10Feb2025 22:04:03.751] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 16 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[10Feb2025 22:04:03.751] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[10Feb2025 22:04:03.763] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:enchantment' to 'fml:handshake' sequence 19
+[10Feb2025 22:04:03.809] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 17
+[10Feb2025 22:04:03.809] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 17 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[10Feb2025 22:04:03.809] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[10Feb2025 22:04:03.813] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:fluid' to 'fml:handshake' sequence 20
+[10Feb2025 22:04:03.871] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:entity_type' to 'fml:handshake' sequence 21
+[10Feb2025 22:04:03.871] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 18
+[10Feb2025 22:04:03.871] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 18 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[10Feb2025 22:04:03.872] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[10Feb2025 22:04:03.897] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 19
+[10Feb2025 22:04:03.897] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 19 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[10Feb2025 22:04:03.897] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[10Feb2025 22:04:03.913] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config tombstone-server.toml' to 'fml:handshake' sequence 22
+[10Feb2025 22:04:03.947] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 20
+[10Feb2025 22:04:03.947] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 20 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[10Feb2025 22:04:03.947] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[10Feb2025 22:04:03.962] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config forge-server.toml' to 'fml:handshake' sequence 23
+[10Feb2025 22:04:04.012] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config jei-server.toml' to 'fml:handshake' sequence 24
+[10Feb2025 22:04:04.065] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config yes_steve_model-server.toml' to 'fml:handshake' sequence 25
+[10Feb2025 22:04:04.741] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 21
+[10Feb2025 22:04:04.741] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 21 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[10Feb2025 22:04:04.741] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[10Feb2025 22:04:04.822] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 22
+[10Feb2025 22:04:04.822] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 22 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[10Feb2025 22:04:04.822] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[10Feb2025 22:04:04.881] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 23
+[10Feb2025 22:04:04.881] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 23 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[10Feb2025 22:04:04.882] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[10Feb2025 22:04:04.882] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 24
+[10Feb2025 22:04:04.882] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 24 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[10Feb2025 22:04:04.882] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[10Feb2025 22:04:04.882] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 25
+[10Feb2025 22:04:04.882] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 25 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[10Feb2025 22:04:04.882] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[10Feb2025 22:04:04.918] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Handshake complete!
+[10Feb2025 22:04:04.981] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Nigga[/192.168.191.83:60015] logged in with entity id 8685 at (-2640.256922474826, 68.25220334025373, 517.9234640305946)
+[10Feb2025 22:04:04.982] [Server thread/DEBUG] [net.minecraftforge.network.filters.NetworkFilters/]: Injected net.minecraftforge.network.filters.ForgeConnectionNetworkFilter@50fccdf8 into net.minecraft.network.Connection@25dbdd93
+[10Feb2025 22:04:04.988] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nigga joined the game
+[10Feb2025 22:04:05.045] [Server thread/INFO] [Jade/]: Syncing config to Nigga (3c9f8cc5-a5a1-3cbb-8ca8-a1caaf2635a7)
+[10Feb2025 22:04:27.203] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[10Feb2025 22:04:27.212] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[10Feb2025 22:05:36.070] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nigga died
+[10Feb2025 22:05:36.092] [Server thread/INFO] [tombstone/]: The player Nigga has successfully been saved
+[10Feb2025 22:05:41.857] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [pedrito2412: Teleported Nigga to pedrito2412]
+[10Feb2025 22:07:13.716] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nigga has reached the goal [Bone Crusher]
+[10Feb2025 22:08:02.639] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Nigga moved wrongly!
+[10Feb2025 22:08:17.803] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [pedrito2412: Teleported pedrito2412 to Nigga]
+[10Feb2025 22:09:14.915] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [pedrito2412: Set the time to 13000]
+[10Feb2025 22:09:27.120] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[10Feb2025 22:09:27.128] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[10Feb2025 22:10:48.722] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: pedrito2412 has completed the challenge [Upper Rank 2]
+[10Feb2025 22:11:33.360] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: pedrito2412 died
+[10Feb2025 22:11:33.370] [Server thread/INFO] [tombstone/]: The player pedrito2412 has successfully been saved
+[10Feb2025 22:11:37.557] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [pedrito2412: Teleported pedrito2412 to Nigga]
+[10Feb2025 22:14:27.123] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[10Feb2025 22:14:27.131] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[10Feb2025 22:14:31.867] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nigga died
+[10Feb2025 22:14:31.892] [Server thread/INFO] [tombstone/]: The player Nigga has successfully been saved
+[10Feb2025 22:14:54.521] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [pedrito2412: Teleported Nigga to pedrito2412]
+[10Feb2025 22:15:11.270] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nigga died
+[10Feb2025 22:15:11.283] [Server thread/INFO] [tombstone/]: The player Nigga has successfully been saved
+[10Feb2025 22:15:23.336] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [pedrito2412: Teleported Nigga to pedrito2412]
+[10Feb2025 22:15:41.164] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nigga died
+[10Feb2025 22:15:41.173] [Server thread/INFO] [tombstone/]: The player Nigga has successfully been saved
+[10Feb2025 22:15:44.431] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [pedrito2412: Teleported Nigga to pedrito2412]
+[10Feb2025 22:15:48.243] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [pedrito2412: Set own game mode to Creative Mode]
+[10Feb2025 22:15:52.759] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nigga died
+[10Feb2025 22:15:52.773] [Server thread/INFO] [tombstone/]: The player Nigga has successfully been saved
+[10Feb2025 22:15:59.865] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [pedrito2412: Teleported Nigga to pedrito2412]
+[10Feb2025 22:16:10.918] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nigga died
+[10Feb2025 22:16:10.982] [Server thread/INFO] [tombstone/]: The player Nigga has successfully been saved
+[10Feb2025 22:16:15.772] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [pedrito2412: Teleported Nigga to pedrito2412]
+[10Feb2025 22:16:46.862] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nigga died
+[10Feb2025 22:16:46.880] [Server thread/INFO] [tombstone/]: The player Nigga has successfully been saved
+[10Feb2025 22:16:51.008] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [pedrito2412: Teleported Nigga to pedrito2412]
+[10Feb2025 22:16:52.901] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [pedrito2412: Set own game mode to Survival Mode]
+[10Feb2025 22:17:06.611] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nigga died
+[10Feb2025 22:17:06.646] [Server thread/INFO] [tombstone/]: The player Nigga has successfully been saved
+[10Feb2025 22:17:16.797] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [pedrito2412: Teleported Nigga to pedrito2412]
+[10Feb2025 22:17:31.912] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nigga died
+[10Feb2025 22:17:31.942] [Server thread/INFO] [tombstone/]: The player Nigga has successfully been saved
+[10Feb2025 22:17:36.993] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [pedrito2412: Set spawn point to -2718, 70, 601 [0.0] in minecraft:overworld for Nigga]
+[10Feb2025 22:17:39.484] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [pedrito2412: Teleported Nigga to pedrito2412]
+[10Feb2025 22:17:51.985] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2331ms or 46 ticks behind
+[10Feb2025 22:18:01.765] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: pedrito2412 died
+[10Feb2025 22:18:01.766] [Server thread/INFO] [tombstone/]: The player pedrito2412 has successfully been saved
+[10Feb2025 22:18:08.540] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [pedrito2412: Set the time to 1000]
+[10Feb2025 22:18:10.039] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [pedrito2412: Teleported pedrito2412 to Nigga]

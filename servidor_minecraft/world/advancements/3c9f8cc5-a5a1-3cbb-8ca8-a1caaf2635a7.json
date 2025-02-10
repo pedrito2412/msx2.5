@@ -156,6 +156,8 @@
       "minecraft:skeleton": "2025-02-10 20:07:26 +0000",
       "minecraft:spider": "2025-02-10 20:26:28 +0000",
       "minecraft:creeper": "2025-02-10 20:23:15 +0000",
+      "minecraft:enderman": "2025-02-10 22:00:52 +0000",
+      "minecraft:stray": "2025-02-10 21:56:54 +0000",
       "minecraft:zombie": "2025-02-10 20:58:55 +0000",
       "minecraft:drowned": "2025-02-10 21:30:36 +0000",
       "minecraft:zombie_villager": "2025-02-10 21:34:24 +0000"
@@ -558,21 +560,39 @@
     },
     "done": true
   },
-  "kimetsunoyaiba:transparent_world": {
-    "criteria": {
-      "transparent_world_0": "2025-02-10 21:50:49 +0000"
-    },
-    "done": true
-  },
   "kimetsunoyaiba:breathing_100": {
     "criteria": {
       "breathing_100_0": "2025-02-10 21:50:43 +0000"
     },
     "done": true
   },
+  "kimetsunoyaiba:transparent_world": {
+    "criteria": {
+      "transparent_world_0": "2025-02-10 21:50:49 +0000"
+    },
+    "done": true
+  },
   "kimetsunoyaiba:demon_kill_count_20": {
     "criteria": {
       "demon_kill_count_20_0": "2025-02-10 21:52:51 +0000"
+    },
+    "done": true
+  },
+  "kimetsunoyaiba:demon_kill_count_30": {
+    "criteria": {
+      "demon_kill_count_30_0": "2025-02-10 21:55:27 +0000"
+    },
+    "done": true
+  },
+  "kimetsunoyaiba:hashira_training_arc_mist": {
+    "criteria": {
+      "hashira_training_arc_mist_0": "2025-02-10 21:59:56 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/bone_crusher": {
+    "criteria": {
+      "coded_trigger": "2025-02-10 22:07:13 +0000"
     },
     "done": true
   },

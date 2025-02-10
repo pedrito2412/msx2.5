@@ -21,6 +21,7 @@
     "criteria": {
       "minecraft:taiga": "2025-02-10 21:21:32 +0000",
       "minecraft:deep_ocean": "2025-02-10 21:15:24 +0000",
+      "minecraft:frozen_river": "2025-02-10 22:10:31 +0000",
       "minecraft:birch_forest": "2025-02-10 20:18:16 +0000",
       "minecraft:beach": "2025-02-10 21:02:15 +0000",
       "minecraft:dark_forest": "2025-02-10 21:01:44 +0000",
@@ -947,6 +948,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/ladder": {
+    "criteria": {
+      "has_stick": "2025-02-10 22:00:11 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cake": {
     "criteria": {
       "has_egg": "2025-02-10 21:52:53 +0000"
@@ -956,6 +963,30 @@
   "tombstone:adventure/ambush": {
     "criteria": {
       "coded_trigger": "2025-02-10 21:52:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/campfire": {
+    "criteria": {
+      "has_stick": "2025-02-10 22:00:11 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/bone_crusher": {
+    "criteria": {
+      "coded_trigger": "2025-02-10 22:01:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/wooden_hoe": {
+    "criteria": {
+      "has_stick": "2025-02-10 22:00:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/wooden_pickaxe": {
+    "criteria": {
+      "has_stick": "2025-02-10 22:00:11 +0000"
     },
     "done": true
   },
@@ -971,15 +1002,39 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/wooden_axe": {
+    "criteria": {
+      "has_stick": "2025-02-10 22:00:11 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/dropper": {
     "criteria": {
       "has_redstone": "2025-02-10 21:52:32 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/tools/wooden_shovel": {
+    "criteria": {
+      "has_stick": "2025-02-10 22:00:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dispenser": {
+    "criteria": {
+      "has_bow": "2025-02-10 21:59:10 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/redstone_block": {
     "criteria": {
       "has_redstone": "2025-02-10 21:52:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/wooden_sword": {
+    "criteria": {
+      "has_stick": "2025-02-10 22:00:11 +0000"
     },
     "done": true
   },
@@ -992,6 +1047,24 @@
   "kimetsunoyaiba:upper_rank_5": {
     "criteria": {
       "upper_rank_5_0": "2025-02-10 21:54:01 +0000"
+    },
+    "done": true
+  },
+  "kimetsunoyaiba:upper_rank_4": {
+    "criteria": {
+      "upper_rank_4_0": "2025-02-10 21:59:56 +0000"
+    },
+    "done": true
+  },
+  "kimetsunoyaiba:upper_rank_3": {
+    "criteria": {
+      "upper_rank_3_0": "2025-02-10 22:01:53 +0000"
+    },
+    "done": true
+  },
+  "kimetsunoyaiba:upper_rank_2": {
+    "criteria": {
+      "upper_rank_2_0": "2025-02-10 22:10:48 +0000"
     },
     "done": true
   },
